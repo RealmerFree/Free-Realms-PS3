@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Dome>
+     <Texture File="dome_ortoplutonia_bbe.gtf" />
+</Dome>
+
+<Horizon>
+     <Texture File="ring_ortoplutonia_bbe.gtf" Bottom="-22" Top="23" 
+	R="200" G="230" B="255" Opacity="0.50" />
+</Horizon>
+
+<SunLight>
+     <Color R="255" G="255" B="150"  Brightness=".45" />
+     <Direction Heading="210" Pitch="22.4" />
+     <Shadows Enabled="true" />
+
+<Flare>
+     <Color R="255" G="255" B="128" Brightness="0"/>
+     <Shape Size="0" Focus=".2" Zoom="0" />
+</Flare>
+
+<Aura>
+     <Color R="189" G="255" B="255" Brightness="0.33" />
+     <Shape Size="0" Focus="0.5" />
+     <Fringe Brightness="0.5" Width="1" />
+</Aura>
+
+</SunLight>
+
+<Ambient>
+     <Texture File="ambient_ortoplutonia_bbe.tga"  Brightness=".85" />
+</Ambient>
+
+<Reflection>
+     <CubeMap File="reflection_outdoordefault.gtf" Brightness="1" />
+</Reflection>
+
+<Fog>
+     <Color R="54" G="116" B="135" />
+     <Range Near="-32" Far="1050" />
+     <FadeRange Near="500" Far="3550" />
+</Fog>
+
+<Post>
+     <Bloom Strength=".36" />
+     <Haze Strength=".33" Distance="200" />
+</Post>

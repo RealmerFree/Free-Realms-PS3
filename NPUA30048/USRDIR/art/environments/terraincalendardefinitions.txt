@@ -1,0 +1,6 @@
+# CalendarId^Name^StartDate^EndDate^Frequency (0: once, 1: yearly, 2: monthly, 3: daily)^ContentId
+1^Christmas^2012-11-02T00:00:00Z^2013-01-18T23:59:59Z^0^16
+2^Valentines^2013-01-23T00:00:00Z^2013-03-07T23:59:59Z^0^24
+3^Anniversary^2012-04-02T00:00:00Z^2012-05-31T23:59:59Z^0^27
+4^Summer Camp^2010-06-02T00:00:00Z^2060-07-07T23:59:59Z^0^28
+5^Halloween^2011-10-04T00:00:00Z^2011-11-15T23:59:59Z^0^15

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="Flora_Def">
+	<Semantics>
+	</Semantics>
+	<RenderStateSemantics>
+	</RenderStateSemantics>
+	<Samplers>
+		<Sampler SamplerIndex="0" DeepSemantic="TextureMap" GcmSemantic="S0" >
+			<SamplerStates>
+				<SamplerState Type="TextureFilter">
+					<Argument min="CELL_GCM_TEXTURE_LINEAR" />
+					<Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+				</SamplerState>
+				<SamplerState Type="TextureAddress">
+					<Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+					<Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+				</SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+			</SamplerStates>
+		</Sampler>
+	</Samplers>
+	<RenderStates>
+		<RenderState Type="CullFaceEnable">
+			<Argument enable="CELL_GCM_FALSE" />
+		</RenderState>
+	</RenderStates>
+	<RenderStateSemantics>
+		<RenderStateSemantic DeepSemantic="MipBias" DeepType="int" SamplerMask="0000000000000001" />
+	</RenderStateSemantics>
+</ShaderSettings>

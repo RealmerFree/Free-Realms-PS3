@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="filldepth">
+  <Semantics>
+  </Semantics>
+  <Samplers></Samplers>
+  <RenderStates>
+    <RenderState Type="ColorMask">
+      <!-- CHRISNOTE: Depth Only -->
+      <Argument mask="0000" />
+    </RenderState>
+    <RenderState Type="ColorMaskMrt">
+      <!-- CHRISNOTE: None -->
+      <Argument mask="000000000000" />
+    </RenderState>
+    <RenderState Type="DepthMask">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

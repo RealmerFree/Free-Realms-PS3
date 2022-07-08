@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="highlightRigid_Def">
+  <Semantics>
+    <Semantic DeepSemantic="Strength" GcmSemantic="C128">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthMask">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="DepthFunc">
+      <Argument zf="CELL_GCM_EQUAL" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_DST_COLOR" />
+      <Argument sfAlpha="CELL_GCM_DST_COLOR" />
+      <Argument dfColor="CELL_GCM_ZERO" />
+      <Argument dfAlpha="CELL_GCM_ZERO" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+  </RenderStateSemantics>
+</ShaderSettings>

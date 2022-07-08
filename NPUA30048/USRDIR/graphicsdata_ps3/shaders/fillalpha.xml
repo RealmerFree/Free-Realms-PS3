@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="fillalpha">
+  <Semantics></Semantics>
+  <Samplers></Samplers>
+  <RenderStates>
+    <RenderState Type="DepthMask">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_ONE" />
+      <Argument sfAlpha="CELL_GCM_ONE" />
+      <Argument dfColor="CELL_GCM_ZERO" />
+      <Argument dfAlpha="CELL_GCM_ZERO" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="ColorMask">
+      <!-- CHRISNOTE: Alpha Only -->
+      <Argument mask="1000" />
+    </RenderState>
+    <RenderState Type="ColorMaskMrt">
+      <!-- CHRISNOTE: None -->
+      <Argument mask="000000000000" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

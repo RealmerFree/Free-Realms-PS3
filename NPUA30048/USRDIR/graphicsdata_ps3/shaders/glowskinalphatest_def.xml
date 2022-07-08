@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="glowSkinAlphaTest_Def">
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="Diffuse" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Diffuse Texture + Alpha Mask" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="1" DeepSemantic="GlowMap" GcmSemantic="S1">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Glow Map (L8)" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="StencilTestEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="StencilFunc">
+      <Argument func="CELL_GCM_EQUAL" />
+      <Argument ref="0xFF" />
+      <Argument mask="0x08" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="MipBias" DeepType="int" SamplerMask="0000000000000001" />
+    <RenderStateSemantic DeepSemantic="DoubleSided" DeepType="bool">
+      <Values>
+        <Value DeepValue="0" GcmValue="CELL_GCM_TRUE" />
+        <Value DeepValue="1" GcmValue="CELL_GCM_FALSE" />
+      </Values>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Double-Sided" />
+      </Annotations>
+    </RenderStateSemantic>
+	<RenderStateSemantic DeepSemantic="FadeStencil" DeepType="int">
+		<Values>
+			<Value DeepValue="0" GcmValue="CELL_GCM_FALSE" />
+			<Value DeepValue="1" GcmValue="CELL_GCM_TRUE" />
+		</Values>
+		<Annotations>
+			<Annotation InstanceCached="true" />
+		</Annotations>
+	</RenderStateSemantic>
+  </RenderStateSemantics>
+</ShaderSettings>

@@ -1,0 +1,7 @@
+#NAME^DURATION^IS_TIME_IN_GAME^IS_AUTO_START^IS_AUTO_REPEAT^SCRIPT
+FTEDialogTimer^30^1^0^0^FirstTimeEventHandler.CloseDialog
+FTEMarketplaceTimer^86400^1^1^1^npxTutorial.FTEMarketplaceTimer
+JoinOverworldReminder^300^1^0^1^FirstTimeEvent.newPlayerJoinOverworld
+PetTimer^3^1^0^0^FirstTimeEvent.FtesPetClientTimerCall
+StartingZoneLoadComplete^30^1^0^0^HUD.LeaveStartingZone
+StartingZoneTimerStart^300^1^0^0^HUD.FiveMinutesInZone

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="SharedSemantics">
+	<Semantics>
+		<Semantic DeepSemantic="Camera" 		        GcmSemantic="C0" />
+		<Semantic DeepSemantic="View" 			        GcmSemantic="C4" />
+		<Semantic DeepSemantic="Projection" 		    GcmSemantic="C8" />
+		<Semantic DeepSemantic="InvProjection" 		    GcmSemantic="C12" />
+		<Semantic DeepSemantic="ViewProj" 		        GcmSemantic="C16" />
+		<Semantic DeepSemantic="ViewProj2D" 		    GcmSemantic="C20" />
+		<Semantic DeepSemantic="EyePosition" 		    GcmSemantic="C24" />
+		<Semantic DeepSemantic="InvTargetSize" 		    GcmSemantic="C25" />
+		<Semantic DeepSemantic="TargetSize" 		    GcmSemantic="C26" />
+		<Semantic DeepSemantic="NearClip" 		        GcmSemantic="C27" />
+		<Semantic DeepSemantic="FarClip" 		        GcmSemantic="C28" />
+        <Semantic DeepSemantic="FogColor" 		        GcmSemantic="C29">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+                <DefaultValue ValueIndex="3" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogFar" 		        GcmSemantic="C30">
+        <DefaultValues>
+            <DefaultValue ValueIndex="0" Value="999999999.0"/>
+        </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogNear" 		        GcmSemantic="C31">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="999999999.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogRange" 		        GcmSemantic="C32">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogSkyFar" 		        GcmSemantic="C33">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="999999999.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogSkyNear" 		    GcmSemantic="C34">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="999999999.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogSkyRange" 		    GcmSemantic="C35">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="FogDensity" 		    GcmSemantic="C36">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="Time" 			        GcmSemantic="C43">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="TintSemantic" 		    GcmSemantic="C44">
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation FriendlyName="Tint" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="1.0"/>
+                <DefaultValue ValueIndex="1" Value="1.0"/>
+                <DefaultValue ValueIndex="2" Value="1.0"/>
+                <DefaultValue ValueIndex="3" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="Glow" 			GcmSemantic="C45" >
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation FriendlyName="Glow Brightness" />
+                <Annotation MinValue="0" />
+                <Annotation MaxValue="4" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="Spec" 			GcmSemantic="C46" >
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation FriendlyName="Specularity" />
+                <Annotation MinValue="0.1" />
+                <Annotation MaxValue="1" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="ScrollU" 		GcmSemantic="C47" >
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation FriendlyName="Scroll U" />
+                <Annotation MinValue="-4" />
+                <Annotation MaxValue="4" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="ScrollV" 		GcmSemantic="C48" >
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation FriendlyName="Scroll V" />
+                <Annotation MinValue="-4" />
+                <Annotation MaxValue="4" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="Bias" 			GcmSemantic="C49" >
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation FriendlyName="Z Bias" />
+                <Annotation MinValue="0" />
+                <Annotation MaxValue="4" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <!-- BIASSPECIAL
+        <Semantic DeepSemantic="Bias" 			GcmSemantic="C50" >
+            <Annotations>
+                <Annotation InstanceCached="true" />
+                <Annotation Volatile="true" />
+            </Annotations>
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        -->
+        <Semantic DeepSemantic="World" 			GcmSemantic="C54">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="1.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+                <DefaultValue ValueIndex="3" Value="0.0"/>
+                <DefaultValue ValueIndex="4" Value="0.0"/>
+                <DefaultValue ValueIndex="5" Value="1.0"/>
+                <DefaultValue ValueIndex="6" Value="0.0"/>
+                <DefaultValue ValueIndex="7" Value="0.0"/>
+                <DefaultValue ValueIndex="8" Value="0.0"/>
+                <DefaultValue ValueIndex="9" Value="0.0"/>
+                <DefaultValue ValueIndex="10" Value="1.0"/>
+                <DefaultValue ValueIndex="11" Value="0.0"/>
+                <DefaultValue ValueIndex="12" Value="0.0"/>
+                <DefaultValue ValueIndex="13" Value="0.0"/>
+                <DefaultValue ValueIndex="14" Value="0.0"/>
+                <DefaultValue ValueIndex="15" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="WorldI" 		GcmSemantic="C58" />
+        <Semantic DeepSemantic="WorldIT" 		GcmSemantic="C62" />
+        <Semantic DeepSemantic="SkyLightColor" 		GcmSemantic="C66">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="SkyLightSpecularColor" 		GcmSemantic="C67">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="SkyLightMeanAmbientColor" 		GcmSemantic="C68">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.4"/>
+                <DefaultValue ValueIndex="1" Value="0.4"/>
+                <DefaultValue ValueIndex="2" Value="0.4"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="DirectionalLightColor" 		GcmSemantic="C69">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="DirectionalLightDirection" 		GcmSemantic="C70">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="DirectionalLightViewSpaceDirection" 		GcmSemantic="C71">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="DirectionalLightBasis" 		GcmSemantic="C72">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+                <DefaultValue ValueIndex="3" Value="0.0"/>
+                <DefaultValue ValueIndex="4" Value="0.0"/>
+                <DefaultValue ValueIndex="5" Value="0.0"/>
+                <DefaultValue ValueIndex="6" Value="0.0"/>
+                <DefaultValue ValueIndex="7" Value="0.0"/>
+                <DefaultValue ValueIndex="8" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostBloomStrength" 		GcmSemantic="C82">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.75"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostFlareColor" 		GcmSemantic="C83">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostObscure" 		GcmSemantic="C84">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostVignette" 		GcmSemantic="C85">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostClear" 		GcmSemantic="C86">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.5"/>
+                <DefaultValue ValueIndex="1" Value="0.5"/>
+                <DefaultValue ValueIndex="2" Value="0.5"/>
+                <DefaultValue ValueIndex="3" Value="0.5"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostFocus" 		GcmSemantic="C87">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+                <DefaultValue ValueIndex="2" Value="400.0"/>
+                <DefaultValue ValueIndex="3" Value="0.33333333333333333333333333333333"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="Orthographic" 		    GcmSemantic="C88" />
+        <Semantic DeepSemantic="AllowNoise" 		    GcmSemantic="C89">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="PostNightVision" 		GcmSemantic="C90">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="1.0"/>
+            </DefaultValues>
+        </Semantic>
+        <Semantic DeepSemantic="Random" 	GcmSemantic="C91">
+            <DefaultValues>
+                <DefaultValue ValueIndex="0" Value="0.0"/>
+                <DefaultValue ValueIndex="1" Value="0.0"/>
+            </DefaultValues>
+        </Semantic>
+		<Semantic DeepSemantic="Bones" 		GcmSemantic="C160" ArraySize="24" />
+	</Semantics>
+    <Samplers>
+        <Sampler SamplerIndex="15" DeepSemantic="SpecularHighlight" GcmSemantic="S15">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+                    <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+                </SamplerState>
+              <SamplerState Type="TextureAddress">
+                <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+                <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+              </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+            <Annotations>
+                <Annotation TextureFile="Resources/spec_highlight.gtf" />
+            </Annotations>
+        </Sampler>
+      <Sampler SamplerIndex="14" DeepSemantic="DepthTexture" GcmSemantic="S14">
+        <SamplerStates>
+          <SamplerState Type="TextureFilter">
+            <Argument min="CELL_GCM_TEXTURE_NEAREST" />
+            <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+          </SamplerState>
+          <SamplerState Type="TextureAddress">
+            <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+            <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          </SamplerState>
+          <SamplerState Type="TextureControl">
+            <Argument enable="CELL_GCM_TRUE" />
+          </SamplerState>
+        </SamplerStates>
+      </Sampler>
+        <Sampler SamplerIndex="13" DeepSemantic="GBuffer0" GcmSemantic="S13">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_NEAREST" />
+                    <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+                </SamplerState>
+                <SamplerState Type="TextureAddress">
+                    <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                    <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+        </Sampler>
+        <Sampler SamplerIndex="12" DeepSemantic="GBuffer1" GcmSemantic="S12">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_NEAREST" />
+                    <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+                </SamplerState>
+                <SamplerState Type="TextureAddress">
+                    <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                    <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+        </Sampler>
+        <Sampler SamplerIndex="11" DeepSemantic="GBuffer2" GcmSemantic="S11">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_NEAREST" />
+                    <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+                </SamplerState>
+                <SamplerState Type="TextureAddress">
+                    <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                    <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+        </Sampler>
+        <Sampler SamplerIndex="10" DeepSemantic="SkyLightDiffuse" GcmSemantic="S10">
+          <SamplerStates>
+            <SamplerState Type="TextureFilter">
+              <Argument min="CELL_GCM_TEXTURE_POINT" />
+              <Argument mag="CELL_GCM_TEXTURE_POINT" />
+            </SamplerState>
+            <SamplerState Type="TextureAddress">
+              <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+              <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+            </SamplerState>
+            <SamplerState Type="TextureControl">
+              <Argument enable="CELL_GCM_TRUE" />
+            </SamplerState>
+          </SamplerStates>
+        </Sampler>
+        <Sampler SamplerIndex="9" DeepSemantic="SkyLightSpecular" GcmSemantic="S09">
+          <SamplerStates>
+            <SamplerState Type="TextureFilter">
+              <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+              <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+            </SamplerState>
+            <SamplerState Type="TextureAddress">
+              <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+              <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+            </SamplerState>
+            <SamplerState Type="TextureControl">
+              <Argument enable="CELL_GCM_TRUE" />
+            </SamplerState>
+          </SamplerStates>
+        </Sampler>
+        <Sampler SamplerIndex="8" DeepSemantic="FresnelFuncTexture" GcmSemantic="S08">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_NEAREST" />
+                    <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+                </SamplerState>
+                <SamplerState Type="TextureAddress">
+                    <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                    <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+            <Annotations>
+                <Annotation TextureFile="Resources/fresnel_func.gtf" />
+            </Annotations>
+        </Sampler>
+        <Sampler SamplerIndex="7" DeepSemantic="Post1Source" GcmSemantic="S07">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+                    <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+                </SamplerState>
+                <SamplerState Type="TextureAddress">
+                    <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                    <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+        </Sampler>
+        <Sampler SamplerIndex="6" DeepSemantic="Post2Source" GcmSemantic="S06">
+            <SamplerStates>
+                <SamplerState Type="TextureFilter">
+                    <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+                    <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+                </SamplerState>
+                <SamplerState Type="TextureAddress">
+                    <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                    <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+                </SamplerState>
+                <SamplerState Type="TextureControl">
+                    <Argument enable="CELL_GCM_TRUE" />
+                </SamplerState>
+            </SamplerStates>
+        </Sampler>
+    </Samplers>
+</ShaderSettings>

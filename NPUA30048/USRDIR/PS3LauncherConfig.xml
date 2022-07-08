@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PS3Launcher>
+	<AppConfigSettings>
+		<Name>frps3</Name>
+		<ConfigServer>http://lpconfig.station.sony.com/app/appconfig.php</ConfigServer>
+		<Environment>live</Environment>
+		<Version>scea-live-tails</Version>
+	</AppConfigSettings>
+	<EBootSettings>
+		<TtyEnabled>1</TtyEnabled>
+	</EBootSettings>
+	<LauncherSettings>
+		<ZspPath></ZspPath>
+		<SceRegion>SCEA</SceRegion>
+		<TtyEnabled>1</TtyEnabled>
+	</LauncherSettings>
+</PS3Launcher>

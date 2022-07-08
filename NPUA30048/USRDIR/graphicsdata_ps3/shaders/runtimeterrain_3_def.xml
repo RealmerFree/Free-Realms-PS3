@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="runtimeterrain_3_def">
+  <Semantics>
+    <Semantic DeepSemantic="DetailRepeat0" GcmSemantic="C128">
+      <Annotations></Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="DetailRepeat1" GcmSemantic="C129">
+      <Annotations></Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="DetailRepeat2" GcmSemantic="C130">
+      <Annotations></Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="GridIndex" GcmSemantic="C133">
+      <Annotations></Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="DetailColorMap0" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument bias="0200" />
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations></Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="1" DeepSemantic="DetailColorMap1" GcmSemantic="S1">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument bias="0200" />
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations></Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="2" DeepSemantic="DetailColorMap2" GcmSemantic="S2">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument bias="0200" />
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations></Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="5" DeepSemantic="DetailMaskMap" GcmSemantic="S5">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument bias="0200" />
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations></Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates></RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="MipBias" DeepType="int" SamplerMask="0000000000000001" />
+  </RenderStateSemantics>
+</ShaderSettings>

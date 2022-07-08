@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="Sky_Def">
+  <Semantics>
+    <Semantic DeepSemantic="Camera" 		        GcmSemantic="C0" ForceEnable="1" CgType="CG_FLOAT4x4"/>
+    <Semantic DeepSemantic="View" 			        GcmSemantic="C4" ForceEnable="1" CgType="CG_FLOAT4x4"/>
+    <Semantic DeepSemantic="Projection" 		    GcmSemantic="C8" ForceEnable="1" CgType="CG_FLOAT4x4"/>
+    <Semantic DeepSemantic="InvProjection" 		    GcmSemantic="C12" ForceEnable="1" CgType="CG_FLOAT4x4"/>
+    <Semantic DeepSemantic="ViewProj" 		        GcmSemantic="C16" ForceEnable="1" CgType="CG_FLOAT4x4"/>
+    <Semantic DeepSemantic="ViewProj2D" 		    GcmSemantic="C20" ForceEnable="1" CgType="CG_FLOAT4x4"/>
+    <Semantic DeepSemantic="EyePosition" 		    GcmSemantic="C24" ForceEnable="1" CgType="CG_FLOAT4"/>
+    <Semantic DeepSemantic="InvTargetSize" 		    GcmSemantic="C25" ForceEnable="1" CgType="CG_FLOAT4"/>
+    <Semantic DeepSemantic="TargetSize" 		    GcmSemantic="C26" ForceEnable="1" CgType="CG_FLOAT2"/>
+    <Semantic DeepSemantic="NearClip" 		        GcmSemantic="C27" ForceEnable="1" CgType="CG_FLOAT"/>
+    <Semantic DeepSemantic="FarClip" 		        GcmSemantic="C28" ForceEnable="1" CgType="CG_FLOAT"/>
+    <Semantic DeepSemantic="Time" 			        GcmSemantic="C43" ForceEnable="1" CgType="CG_FLOAT">
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0"/>
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Random" 	GcmSemantic="C91" ForceEnable="1" CgType="CG_FLOAT2">
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0"/>
+        <DefaultValue ValueIndex="1" Value="0.0"/>
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Orthographic" 		    GcmSemantic="C88" ForceEnable="1" CgType="CG_FLOAT"/>
+    <Semantic DeepSemantic="TexStretch" GcmSemantic="C132">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexStretch2" GcmSemantic="C133">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexStretch3" GcmSemantic="C134">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexStretch4" GcmSemantic="C135">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexOffset" GcmSemantic="C136">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexOffset2" GcmSemantic="C137">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexOffset3" GcmSemantic="C138">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexOffset4" GcmSemantic="C139">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Lerp" GcmSemantic="C140">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Lerp2" GcmSemantic="C141">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Lerp3" GcmSemantic="C142">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Tint" GcmSemantic="C143">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="1.0" />
+        <DefaultValue ValueIndex="2" Value="1.0" />
+        <DefaultValue ValueIndex="3" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="World" GcmSemantic="C144">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+        <DefaultValue ValueIndex="2" Value="0.0" />
+        <DefaultValue ValueIndex="3" Value="0.0" />
+        <DefaultValue ValueIndex="4" Value="1.0" />
+        <DefaultValue ValueIndex="5" Value="0.0" />
+        <DefaultValue ValueIndex="6" Value="0.0" />
+        <DefaultValue ValueIndex="7" Value="0.0" />
+        <DefaultValue ValueIndex="8" Value="1.0" />
+        <DefaultValue ValueIndex="9" Value="0.0" />
+        <DefaultValue ValueIndex="10" Value="0.0" />
+        <DefaultValue ValueIndex="11" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="ColorTexture" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="1" DeepSemantic="ColorTexture2" GcmSemantic="S1">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="2" DeepSemantic="ColorTexture3" GcmSemantic="S2">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="3" DeepSemantic="ColorTexture4" GcmSemantic="S3">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_SRC_ALPHA" />
+      <Argument sfAlpha="CELL_GCM_SRC_ALPHA" />
+      <Argument dfColor="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+      <Argument dfAlpha="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+    </RenderState>
+    <RenderState Type="ColorMask">
+      <!-- CHRISNOTE: Red/Green/Blue Only -->
+      <Argument mask="0111" />
+    </RenderState>
+    <RenderState Type="ColorMaskMrt">
+      <!-- CHRISNOTE: None -->
+      <Argument mask="000000000000" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="WriteAlpha" DeepType="int">
+      <Values>
+        <!-- CHRISNOTE: Red/Green/Blue Only -->
+        <Value DeepValue="0" GcmValue="0111" />
+        <!-- CHRISNOTE: Red/Green/Blue/Alpha -->
+        <Value DeepValue="1" GcmValue="1111" />
+      </Values>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </RenderStateSemantic>
+  </RenderStateSemantics>
+</ShaderSettings>

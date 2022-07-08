@@ -1,0 +1,75 @@
+<!-- Country is a space delimited list of country codes (NOT locales) to include or exclude for a given loading screen or loading screen text. -->
+<!-- Leaving Country out, or blank, will show the loading screen (or text) to everyone. -->
+<!-- A loading screen (or text) can be excluded for certain countries by specifying the country code with a minus in front, such as: Country="-FR" -->
+<!-- If you only want to show a loading screen (or text) to a specific country or two, you use -all and then + the countries to include. -->
+<!-- For Example: Country="-all +US +GB" -->
+<!-- The example above would only display that loading screen (or text) to people in the USA and Great Britain. -->
+<!-- You can also qualify with a StartDate and EndDate in the form "<year>-<month>-<day> <hour>:<minute>:<second>"-->
+<!-- so EndDate="2010-04-20 23:59:59" would stop showing a loading screen at that time or later-->
+
+<LoadingScreens>
+	<LoadingScreen Id=1 Filename="loadingscreen.swf" ShowToMembers=1 ShowToNonMembers=1 Weight=15/>
+	<LoadingScreen Id=9001 Filename="loadingscreen_housing01.swf" ShowToMembers=1 ShowToNonMembers=1 Weight=15 Country="-all +US" Locale="-all +en_US"/>
+	<LoadingScreen Id=9002 Filename="loadingscreen_housing02.swf" ShowToMembers=1 ShowToNonMembers=1 Weight=15 Country="-all +US" Locale="-all +en_US"/>
+	<LoadingScreen Id=9003 Filename="loadingscreen_jackpotplant.swf" ShowToMembers=1 ShowToNonMembers=1 Weight=15 Country="-all +US" Locale="-all +en_US"/>
+	<LoadingScreen Id=9004 Filename="loadingscreen_memberupgrade.swf" ShowToMembers=0 ShowToNonMembers=1 Weight=20 Country="-all +US" Locale="-all +en_US"/>
+	<LoadingScreen Id=9005 Filename="loadingscreen_mounts.swf" ShowToMembers=1 ShowToNonMembers=1 Weight=20 Country="-all +US" Locale="-all +en_US"/>
+	<LoadingScreen Id=9006 Filename="loadingscreen_pets.swf" ShowToMembers=1 ShowToNonMembers=1 Weight=15 Country="-all +US" Locale="-all +en_US"/>	
+</LoadingScreens>
+
+<LoadingScreenText>
+<!-- Tips -->
+	<Text StringId=394259 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394260 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394262 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394269 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394270 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394271 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394272 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394273 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394275 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394276 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394277 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394278 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394279 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=394280 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409121 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409122 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409123 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409124 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409125 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409126 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409127 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409128 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409130 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409131 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409132 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409133 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409134 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409136 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409137 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409138 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409140 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409141 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409142 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409143 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409144 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409146 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409147 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409150 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+	<Text StringId=409152 ShowToMembers=1 ShowToNonMembers=1 Weight=1/>
+<!-- Latest Content -->
+	<Text StringId=426353 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426354 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426355 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426356 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426357 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426358 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426359 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426360 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426361 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426349 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426350 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426351 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+	<Text StringId=426370 ShowToMembers=1 ShowToNonMembers=1 Weight=20/>
+</LoadingScreenText>

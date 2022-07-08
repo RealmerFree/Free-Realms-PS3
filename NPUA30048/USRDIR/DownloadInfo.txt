@@ -1,0 +1,22 @@
+
+**** Starting at  with plug-in 1.0.3.148 ****
+9370-00:02:58:9370-00:03:30:9370-00:04:02:9370-00:04:34:9370-00:05:06:9370-00:05:38:9370-00:06:10:9370-00:06:10:*Error: UnableToDownload - SocketError:Connection Timed-out - Destination host failed to respond (60 - 4.23.58.126) - http://frps3.patch.station.sony.com/patch/freerealms/ps3scelive/ps3-web/FreeRealms.zs/assets_ps3_000.pack.zs?c=3642074419&l=78950604
+
+**** Starting at  with plug-in 1.0.3.148 ****
+Finished downloading 836,868,468 bytes in 609.114 seconds (1,373,911 bytes per second)
+
+**** Starting at  with plug-in 1.0.3.154 ****
+Finished downloading 406,438,674 bytes in 164.519 seconds (2,470,466 bytes per second)
+
+**** Starting at  with plug-in 1.0.3.154 ****
+Finished downloading 965,487,846 bytes in 361.058 seconds (2,674,051 bytes per second)
+Saved 478,340 bytes with delta patches
+
+**** Starting at  with plug-in 1.0.3.154 ****
+Finished downloading 939,937,412 bytes in 1,366.836 seconds (687,673 bytes per second)
+
+**** Starting at  with plug-in 1.0.3.154 ****
+6fa0-00:00:00:*Error: UnableToDownload - HTTP::Exception::UnhandledResponse: Not Found (404 - 72.21.81.253) - http://frps3.patch.station.sony.com/patch/freerealms/ps3scelive/ps3-web/FreeRealms.soe
+
+**** Starting at  with plug-in 1.0.3.154 ****
+b220-00:00:00:*Error: UnableToDownload - HTTP::Exception::UnhandledResponse: Not Found (404 - 72.21.81.253) - http://frps3.patch.station.sony.com/patch/freerealms/ps3scelive/ps3-web/FreeRealms.soe

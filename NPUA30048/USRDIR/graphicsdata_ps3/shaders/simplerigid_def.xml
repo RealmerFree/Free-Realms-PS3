@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="simpleRigid_Def">
+  <Semantics></Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="Diffuse" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Diffuse + Glow Map" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="StencilTestEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="StencilFunc">
+      <Argument func="CELL_GCM_EQUAL" />
+      <Argument ref="0xFF" />
+      <Argument mask="0x08" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="MipBias" SamplerMask="0000000000000001" />
+    <RenderStateSemantic DeepSemantic="DoubleSidedDefaultFalse" DeepType="bool">
+      <Values>
+        <Value DeepValue="0" GcmValue="CELL_GCM_TRUE" />
+        <Value DeepValue="1" GcmValue="CELL_GCM_FALSE" />
+      </Values>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Double-Sided" />
+      </Annotations>
+    </RenderStateSemantic>
+	<RenderStateSemantic DeepSemantic="FadeStencil" DeepType="int">
+		<Values>
+			<Value DeepValue="0" GcmValue="CELL_GCM_FALSE" />
+			<Value DeepValue="1" GcmValue="CELL_GCM_TRUE" />
+		</Values>
+		<Annotations>
+			<Annotation InstanceCached="true" />
+		</Annotations>
+	</RenderStateSemantic>
+  </RenderStateSemantics>
+</ShaderSettings>

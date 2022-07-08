@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- <ShaderSettings Name="SkyMask" Passes="2"> -->
+<ShaderSettings Name="SkyMask">
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_SRC_ALPHA" />
+      <Argument sfAlpha="CELL_GCM_SRC_ALPHA" />
+      <Argument dfColor="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+      <Argument dfAlpha="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

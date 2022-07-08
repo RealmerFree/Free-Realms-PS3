@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="ProcessDepth">
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

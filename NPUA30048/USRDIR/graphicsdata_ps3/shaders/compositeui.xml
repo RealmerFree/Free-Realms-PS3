@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="CompositeUi">
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="UiColor" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true"></Annotation>
+        <Annotation FriendlyName="Ui Texture" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="1" DeepSemantic="Scene" GcmSemantic="S1">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true"></Annotation>
+        <Annotation FriendlyName="Scene Texture" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

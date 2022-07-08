@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="Satellite_Def">
+  <Semantics>
+    <Semantic DeepSemantic="AuraSize" GcmSemantic="C132">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="AuraFocus" GcmSemantic="C133">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="AuraColor" GcmSemantic="C134">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+        <DefaultValue ValueIndex="2" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="AuraMask" GcmSemantic="C135">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="MaskScale" GcmSemantic="C136">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Lerp" GcmSemantic="C137">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Size1" GcmSemantic="C138">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Size2" GcmSemantic="C139">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="SatelliteColor" GcmSemantic="C140">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+        <DefaultValue ValueIndex="2" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="World" GcmSemantic="C54">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+        <DefaultValue ValueIndex="1" Value="0.0" />
+        <DefaultValue ValueIndex="2" Value="0.0" />
+        <DefaultValue ValueIndex="3" Value="0.0" />
+        <DefaultValue ValueIndex="4" Value="0.0" />
+        <DefaultValue ValueIndex="5" Value="1.0" />
+        <DefaultValue ValueIndex="6" Value="0.0" />
+        <DefaultValue ValueIndex="7" Value="0.0" />
+        <DefaultValue ValueIndex="8" Value="0.0" />
+        <DefaultValue ValueIndex="9" Value="0.0" />
+        <DefaultValue ValueIndex="10" Value="1.0" />
+        <DefaultValue ValueIndex="11" Value="0.0" />
+        <DefaultValue ValueIndex="12" Value="0.0" />
+        <DefaultValue ValueIndex="13" Value="0.0" />
+        <DefaultValue ValueIndex="14" Value="0.0" />
+        <DefaultValue ValueIndex="15" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="Texture1" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_NEAREST" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="1" DeepSemantic="Texture2" GcmSemantic="S1">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_NEAREST" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="2" DeepSemantic="SkyMask" GcmSemantic="S2">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_NEAREST" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="3" DeepSemantic="Pow" GcmSemantic="S3">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_NEAREST" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation TextureFile="Resources/pow.gtf" />
+      </Annotations>
+    </Sampler>
+	<Sampler SamplerIndex="5" DeepSemantic="Noise" GcmSemantic="S05">
+		<SamplerStates>
+			<SamplerState Type="TextureFilter">
+				<Argument min="CELL_GCM_TEXTURE_NEAREST" />
+				<Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+			</SamplerState>
+			<SamplerState Type="TextureAddress">
+				<Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+				<Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+			</SamplerState>
+			<SamplerState Type="TextureControl">
+				<Argument enable="CELL_GCM_TRUE" />
+			</SamplerState>
+		</SamplerStates>
+		<Annotations>
+			<Annotation TextureFile="Resources/noise.gtf" />
+		</Annotations>
+	</Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_ONE_MINUS_DST_COLOR" />
+      <Argument sfAlpha="CELL_GCM_ONE_MINUS_DST_COLOR" />
+      <Argument dfColor="CELL_GCM_ONE" />
+      <Argument dfAlpha="CELL_GCM_ONE" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="MipBias" DeepType="int" SamplerMask="0000000000000111" />
+  </RenderStateSemantics>
+</ShaderSettings>

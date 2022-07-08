@@ -1,0 +1,10 @@
+#ID,DESCRIPTION,DESCRIPTION_ID
+0^Skin Tone^0
+1^Hair Style^0
+2^Hair Color^0
+3^Eye Color^0
+4^Facial Hair^0
+5^Face Paint^0
+6^Wings^0
+7^Clothing Sets^0
+8^Face Type^0

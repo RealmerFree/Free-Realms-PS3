@@ -1,0 +1,27 @@
+<ObjectTerrainData Id="1" DataName="SnowHill" SkyFileName="sky_snowhill24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="2" DataName="Briarwood" SkyFileName="sky_briarwood24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="3" DataName="Wilds" SkyFileName="sky_wilds24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="4" DataName="JewelCave" SkyFileName="sky_indoor.xml" MinimapTileset="JewelCave" RoomType="0" />
+<ObjectTerrainData Id="6" DataName="Seaside" SkyFileName="sky_seaside24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="7" DataName="MemorialCaverns" SkyFileName="sky_memorial_cavern.xml" MinimapTileset="MemorialCaverns" RoomType="0" />
+<ObjectTerrainData Id="8" DataName="MemorialCavernsTransWilds" SkyFileName="sky_wilds24.xml" MinimapTileset="MemorialCaverns" RoomType="0" />
+<ObjectTerrainData Id="9" DataName="JewelCaveTransSnowhill" SkyFileName="sky_snowhill24.xml" MinimapTileset="JewelCave" RoomType="0" />
+<ObjectTerrainData Id="10" DataName="Blackspore" SkyFileName="sky_blackspore24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="11" DataName="Seaside" SkyFileName="sky_seaside24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="12" DataName="Merryvale" SkyFileName="sky_merryvale24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="56" DataName="ShroudedGlade" SkyFileName="sky_shrouded_glade24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="58" DataName="WildsCrossroads" SkyFileName="sky_wilds_crossroads24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="67" DataName="Snowhill_Demo" SkyFileName="sky_snowhill_demo.xml" MinimapTileset="sh_dm_arena" RoomType="0" />
+<ObjectTerrainData Id="68" DataName="BlacksporeCaveTransWilds" SkyFileName="sky_wilds24.xml" MinimapTileset="BlacksporeCave" RoomType="0" />
+<ObjectTerrainData Id="69" DataName="BlacksporeCaveTransBlackspore" SkyFileName="sky_blackspore24.xml" MinimapTileset="BlacksporeCave" RoomType="0" />
+<ObjectTerrainData Id="70" DataName="BlacksporeCoastline" SkyFileName="sky_blackspore24b.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="71" DataName="Wugachug" SkyFileName="sky_wugachug24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="72" DataName="SanctuaryCaveTransShroudedGlade" SkyFileName="sky_wilds24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="73" DataName="ShroudedGladeCaveTransSanctuary" SkyFileName="sky_shrouded_glade24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="74" DataName="TreasureVault" SkyFileName="sky_treasure_trove_ent.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="75" DataName="KartCaverns" SkyFileName="sky_kartcavern_bbe.xml" MinimapTileset="sg_kt_track2" RoomType="0" />
+<ObjectTerrainData Id="76" DataName="Hidden Valley" SkyFileName="sky_hidden_valley24.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="77" DataName="Pir_Seaside" SkyFileName="sky_pir_seaside_bbe.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="78" DataName="Wilds_Underwater" SkyFileName="sky_wilds_underwater_bbe.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="79" DataName="Briarwood_Underwater" SkyFileName="sky_briarwood_underwater_bbe.xml" MinimapTileset="FabledRealms" RoomType="0" />
+<ObjectTerrainData Id="80" DataName="SnowHill_Underwater" SkyFileName="sky_snowhill_underwater_bbe.xml" MinimapTileset="FabledRealms" RoomType="0" />

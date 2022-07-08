@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="SkyLight_3">
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="SkyTexture" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_NEAREST_NEAREST" />
+          <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_DST_COLOR" />
+      <Argument sfAlpha="CELL_GCM_DST_COLOR" />
+      <Argument dfColor="CELL_GCM_ZERO" />
+      <Argument dfAlpha="CELL_GCM_ZERO" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

@@ -1,0 +1,2483 @@
+#ID^MODEL_FILE_NAME^RACE_ID^SCALE^DESCRIPTION^GENDER^AGE^DESCRIPTOR^MATERIAL_TYPE^WATER_DISPLACEMENT^TELEPORT_EFFECT_ID
+1^human_m.adr^1^0.000000^^1^0^human^1^0.000000^0
+2^fairy_m.adr^2^0.000000^^1^0^fairy^1^0.000000^0
+3^jollyroger.adr^1^0.000000^Pirate: Jolly Roger^1^0^^1^0.000000^0
+4^robgoblin_m_basic.adr^102^0.000000^Combat NPC^1^0^^3^0.000000^0
+5^banshee_01.adr^9^0.000000^Combat NPC^2^0^^1^0.000000^0
+6^turtle_01.adr^5^0.000000^^0^0^^1^0.000000^0
+7^humanchild_f_skirtandtunic.adr^1^0.000000^^2^0^^1^0.000000^0
+8^humanchild_m_tshirtwithbaggypants.adr^1^0.000000^^1^0^^1^0.000000^0
+9^humanchild_m_tshirtwithbeltbig.adr^1^0.000000^^1^0^^1^0.000000^0
+10^ghostdwarf_m_miner_01.adr^9^0.000000^Combat NPC^1^0^^1^0.000000^0
+11^fairychild_f_sleevesandshorts.adr^2^0.000000^^2^0^^1^0.000000^0
+12^fairychild_m_pointyhair.adr^2^0.000000^^1^0^^1^0.000000^0
+13^chugawug_f_01.adr^7^0.000000^^2^0^^1^0.000000^0
+14^chugawug_m_01.adr^7^0.000000^^1^0^^1^0.000000^0
+15^chugawug_m_miner_01.adr^7^0.000000^^1^0^^1^0.000000^0
+16^penguin_01.adr^8^0.000000^^1^0^^1^0.000000^0
+17^present_01.adr^99^0.000000^^0^0^^0^0.000000^0
+18^present_02.adr^99^0.000000^^0^0^^0^0.000000^0
+19^humanchild_f_skates.adr^1^0.000000^^2^0^^1^0.000000^0
+20^human_rockstar_m.adr^1^0.000000^^1^0^^1^0.000000^0
+21^penguin_bert.adr^8^0.000000^^1^0^^1^0.000000^0
+22^cakenstein.adr^0^0.000000^^0^0^^1^0.000000^0
+23^human_m_ninjatrainer.adr^1^0.000000^^1^0^^1^0.000000^0
+24^humanelder_f_generic.adr^1^0.000000^^2^0^^1^0.000000^0
+25^humanelder_m_peacoat.adr^1^0.000000^^1^0^^1^0.000000^0
+26^pushbutton_01.adr^99^0.000000^^0^0^^0^0.000000^0
+27^mail_01.adr^99^0.000000^^0^0^^0^0.000000^0
+28^bat_01.adr^12^0.000000^Combat NPC^0^0^^1^0.000000^0
+29^screecher_01.adr^12^0.000000^Combat NPC^0^0^^1^0.000000^0
+30^fairy_m_old_01.adr^2^0.000000^^1^0^^1^0.000000^0
+31^penguin_ernie.adr^8^0.000000^^1^0^^1^0.000000^0
+32^fairy_m_farmer_01.adr^2^0.000000^^1^0^^1^0.000000^0
+33^fairy_m_miner_01.adr^2^0.000000^^1^0^^1^0.000000^0
+34^fairy_f_lorina.adr^2^0.000000^^2^0^^1^0.000000^0
+35^fairy_f_penelope.adr^2^0.000000^^2^0^^1^0.000000^0
+36^fairy_f_valinda.adr^2^0.000000^^2^0^^1^0.000000^0
+37^dwarf_m_miner_01.adr^14^0.000000^^1^0^^1^0.000000^0
+38^human_m_miner_01.adr^1^0.000000^^1^0^^1^0.000000^0
+39^tikihead_m_ozymandias.adr^0^0.000000^^1^0^^1^0.000000^0
+40^human_f_courier.agr^1^0.000000^^2^0^^1^0.000000^0
+41^fairy_f_01.adr^2^0.000000^^2^0^^1^0.000000^0
+42^fairy_f_02.adr^2^0.000000^^2^0^^1^0.000000^0
+43^fairy_f_03.adr^2^0.000000^^2^0^^1^0.000000^0
+44^human_f_gardener.adr^1^0.000000^^2^0^^1^0.000000^0
+45^human_f_santa.adr^1^0.000000^^2^0^^1^0.000000^0
+46^dwarf_m_therin.adr^14^0.000000^^1^0^^1^0.000000^0
+47^penguin_baby_01.adr^8^0.000000^^1^0^^1^0.000000^0
+48^fairy_m_01.adr^2^0.000000^^1^0^^1^0.000000^0
+49^fairy_m_02.adr^2^0.000000^^1^0^^1^0.000000^0
+50^cat_shorthair.adr^15^0.000000^^1^0^shorthair^1^0.500000^0
+51^sasquatch_01.adr^16^0.000000^Combat NPC^1^0^^1^0.000000^0
+52^blackwidow_01.adr^18^0.000000^Combat NPC^0^0^^1^0.000000^0
+53^blackwidowqueen.adr^18^0.000000^Combat NPC^0^0^^1^0.000000^0
+54^spideregg.adr^99^0.000000^^0^0^^2^0.000000^0
+55^youngling01.adr^1^0.000000^Demo Only^0^0^^1^0.000000^0
+56^yoda01.adr^1^0.000000^Demo Only^0^0^^1^0.000000^0
+57^bw_spiderweb_05.adr^99^0.000000^^0^0^^1^0.000000^0
+58^skycars01.adr^99^0.000000^Demo Only^0^0^^1^0.000000^0
+59^bw_spider_cocoon_05.adr^99^0.000000^^0^0^^1^0.000000^0
+60^human_f.adr^1^0.000000^^2^0^human^1^0.000000^0
+61^fairy_f.adr^2^0.000000^^2^0^fairy^1^0.000000^0
+62^bear_vinegolem.adr^105^0.000000^Combat NPC^0^0^^2^0.000000^0
+63^bw_gate_01.adr^99^0.000000^^0^0^^1^0.000000^0
+64^chugawug_f_greenwood_soldier.adr^7^0.000000^Combat NPC^2^0^^3^0.000000^0
+65^chugawug_m_greenwood_soldier.adr^7^0.000000^Combat NPC^1^0^^3^0.000000^0
+66^watto01.adr^1^0.000000^Demo Only^0^0^^1^0.000000^0
+67^droid01.adr^1^0.000000^Demo Only^0^0^^3^0.000000^0
+68^sh_icecube_01.adr^99^0.000000^^0^0^^1^0.000000^0
+69^widget_01.adr^99^0.000000^Invisible Block^0^0^^1^0.000000^0
+70^forestgiant.adr^27^0.000000^Combat NPC: Forest Giant^0^0^^2^0.000000^0
+71^necrowartzombie_01.adr^11^0.000000^Combat NPC^0^0^^1^0.000000^0
+72^necrowartzombie_02.adr^11^0.000000^Combat NPC^0^0^^1^0.000000^0
+73^necrowartzombie_03.adr^11^0.000000^Combat NPC^0^0^^2^0.000000^0
+74^treesoldier.adr^27^0.000000^^0^0^^2^0.000000^0
+75^forestgiantboss.adr^27^0.000000^Combat NPC: Forest Giant Boss^0^0^^2^0.000000^0
+76^sh_mailbox_01.adr^99^0.000000^Snowhill Mailbox^0^0^^1^0.000000^0
+77^troll_forest.adr^20^0.000000^Combat NPC^1^0^^3^0.000000^0
+78^bw_flag_01.adr^99^0.000000^Briarwood Exploration Flag^0^0^^1^0.000000^0
+79^bw_spider_cocoon_01.adr^99^0.000000^Briarwood Spider Web Cocoon^0^0^^1^0.000000^0
+80^bw_sack_02.adr^99^0.000000^Briarwood Sack^0^0^^0^0.000000^0
+81^bw_sack_torn_02.adr^99^0.000000^Briarwood Torn Sack^0^0^^0^0.000000^0
+82^sh_firehydrant_01.adr^99^0.000000^Snowhilld Fire Hydrant^0^0^^0^0.000000^0
+83^sh_barrel_01.adr^99^0.000000^Snowhill Barrel^0^0^^0^0.000000^0
+84^sh_crate_01.adr^99^0.000000^Snowhill Crate^0^0^^2^0.000000^0
+85^sh_crate_barrel_combo_03.adr^99^0.000000^Snowhill Crates and barrels^0^0^^0^0.000000^0
+86^sh_crate_barrel_combo_04.adr^99^0.000000^Snowhill Crates group^0^0^^0^0.000000^0
+87^sh_boulder_03.adr^99^0.000000^Snowhill Boulder^0^0^^0^0.000000^0
+88^maneatingplant.adr^105^0.000000^Combat NPC^0^0^^2^0.000000^0
+89^mv_balloons_single_01.adr^99^0.000000^^0^0^^1^0.000000^0
+90^bw_hedge_destructable_01.adr^99^0.000000^Destructable Hedge Maze^0^0^^2^0.000000^0
+91^bear_normal.adr^99^0.000000^^0^0^^1^0.000000^0
+92^bear_fierce.adr^99^0.000000^^0^0^^1^0.000000^0
+93^bw_collectible_mushrooms_01.adr^99^0.000000^NOT the Collection Node^0^0^^1^0.000000^0
+94^bw_collectible_mushrooms_02.adr^99^0.000000^NOT the Collection Node^0^0^^1^0.000000^0
+95^bw_collectible_mushrooms_03.adr^99^0.000000^NOT the Collection Node^0^0^^1^0.000000^0
+96^bw_collectible_mushrooms_04.adr^99^0.000000^NOT the Collection Node^0^0^^1^0.000000^0
+97^sh_icecage_01.adr^99^0.000000^^0^0^^1^0.000000^0
+98^treesoldier_ice.adr^25^0.000000^^0^0^^1^0.000000^0
+99^troll_stone_grey.adr^20^0.000000^^1^0^^1^0.000000^0
+100^troll_ice.adr^106^0.000000^^1^0^^1^0.000000^0
+101^sh_mine_crate_01.adr^99^0.000000^^0^0^^1^0.000000^0
+102^sh_mine_barrel_01.adr^99^0.000000^^0^0^^1^0.000000^0
+103^bw_tents.adr^99^0.000000^^0^0^^1^0.000000^0
+104^sh_table_battlepets_01.adr^99^0.000000^Snowhill Battlepets Card Table^0^0^^1^0.000000^0
+105^bw_mirror_magic_01.adr^99^0.000000^Magic Mirror^0^0^^1^0.000000^0
+106^bw_mirror_shard_01.adr^99^0.000000^Magic Mirror Shard 01^0^0^^1^0.000000^0
+107^bw_mirror_shard_02.adr^99^0.000000^Magic Mirror Shard 02^0^0^^1^0.000000^0
+108^bw_mirror_shard_03.adr^99^0.000000^Magic Mirror Shard 03^0^0^^1^0.000000^0
+109^bw_mirror_shard_04.adr^99^0.000000^Magic Mirror Shard 04^0^0^^1^0.000000^0
+110^sh_icehole_01.adr^99^0.000000^^0^0^^1^0.000000^0
+111^sh_gates_01.adr^99^0.000000^Snowhill Primitive Gate^0^0^^1^0.000000^0
+112^bw_mushroom_door_01.adr^99^0.000000^^0^0^^1^0.000000^0
+113^bw_mushroom_door_02.adr^99^0.000000^^0^0^^1^0.000000^0
+114^sh_flag_01.adr^99^0.000000^Flag^0^0^^1^0.000000^0
+115^sh_flag_02.adr^99^0.000000^Flag^0^0^^1^0.000000^0
+116^sh_mailbox_02.adr^99^0.000000^Snowhill Mailbox^0^0^^1^0.000000^0
+117^bw_boulder_01.adr^99^0.000000^^0^0^^1^0.000000^0
+118^bw_boulder_02.adr^99^0.000000^^0^0^^1^0.000000^0
+119^bw_boulder_03.adr^99^0.000000^^0^0^^1^0.000000^0
+120^bw_boulder_04.adr^99^0.000000^^0^0^^1^0.000000^0
+121^shroomgiant.adr^27^0.000000^^0^0^^1^0.000000^0
+122^bw_wall_01.adr^99^0.000000^^0^0^^1^0.000000^0
+123^bw_wall_02.adr^99^0.000000^^0^0^^1^0.000000^0
+124^bw_wall_03.adr^99^0.000000^^0^0^^1^0.000000^0
+125^poison_wizard.agr^1^0.000000^^0^0^^1^0.000000^0
+126^birds_dove.adr^21^0.000000^^0^0^^1^0.000000^0
+127^birds_eagle.adr^21^0.000000^^0^0^^1^0.000000^0
+128^birds_hawk.adr^21^0.000000^^0^0^^1^0.000000^0
+129^birds_owl.adr^21^0.000000^^0^0^^1^0.000000^0
+130^antelope.adr^22^0.000000^^1^0^^1^0.000000^0
+131^antelope_female.adr^22^0.000000^^2^0^^1^0.000000^0
+132^forest_buck.adr^22^0.000000^^1^0^^1^0.000000^0
+133^forest_doe.adr^22^0.000000^^2^0^^1^0.000000^0
+134^floren.adr^104^0.000000^^0^0^^2^0.000000^0
+135^billygoat.adr^23^0.000000^^0^0^^1^0.000000^0
+136^nannygoat.adr^23^0.000000^^0^0^^1^0.000000^0
+137^pig.adr^24^0.000000^^0^0^^1^0.000000^0
+138^snowhog.adr^24^0.000000^^0^0^^1^0.000000^0
+139^warthog.adr^24^0.000000^^0^0^^1^0.000000^0
+140^snowman.adr^25^0.000000^^0^0^^1^0.000000^0
+141^toad.adr^26^0.000000^^0^0^^1^0.000000^0
+142^wolf_vinegolum.adr^105^0.000000^^0^0^^1^0.000000^0
+143^sg_gametable_02.adr^99^0.000000^Table AND Chairs^0^0^^1^0.000000^0
+144^human_m_ninja.adr^1^0.000000^^1^0^^1^0.000000^0
+145^cow.adr^32^0.000000^^0^0^^1^0.000000^0
+146^sasquatch_boss.adr^16^0.000000^^1^0^^2^0.000000^0
+147^sh_bridge_01.adr^99^0.000000^^0^0^^1^0.000000^0
+148^sh_bridge_02.adr^99^0.000000^^0^0^^1^0.000000^0
+149^sh_bridge_03.adr^99^0.000000^^0^0^^1^0.000000^0
+150^sh_bridge_04.adr^99^0.000000^^0^0^^1^0.000000^0
+151^sg_treasure_chest_01.adr^99^0.000000^^0^0^^1^0.000000^0
+152^cakeling_m_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+153^sg_treasure_hunter_totem_01.adr^99^0.000000^^0^0^^1^0.000000^0
+154^sg_treasure_torch_01.adr^99^0.000000^^0^0^^1^0.000000^0
+155^sg_treasure_hunter_gem_01.adr^99^0.000000^^0^0^^1^0.000000^0
+156^sg_treasure_hunter_plank_01.adr^99^0.000000^^0^0^^1^0.000000^0
+157^sg_treasure_floor_lever_01.adr^99^0.000000^^0^0^^1^0.000000^0
+158^sg_treasure_wall_lever_01.adr^99^0.000000^^0^0^^1^0.000000^0
+159^sg_treasure_trap_bear_01.adr^99^0.000000^^0^0^^1^0.000000^0
+160^maneatingfungus.adr^105^0.000000^^0^0^^1^0.000000^0
+161^human_m_ninja_caucasian_01.agr^1^0.000000^^1^0^^1^0.000000^0
+162^human_m_ninja_caucasian_02.agr^1^0.000000^^1^0^^1^0.000000^0
+163^human_m_ninja_caucasian_03.agr^1^0.000000^^1^0^^1^0.000000^0
+164^human_m_ninja_caucasian_04.agr^1^0.000000^^1^0^^1^0.000000^0
+165^human_m_ninja_caucasian_05.agr^1^0.000000^^1^0^^1^0.000000^0
+166^troll_peasant_01.adr^20^0.000000^^1^0^^1^0.000000^0
+167^troll_peasant_02.adr^20^0.000000^^1^0^^1^0.000000^0
+168^troll_shaman.adr^20^0.000000^^1^0^^1^0.000000^0
+169^dog_large_floppy.adr^10^0.000000^^1^0^large^1^0.500000^0
+170^dog_large_pointy.adr^10^0.000000^^1^0^large^1^0.500000^0
+171^dog_large_shortears.adr^10^0.000000^^2^0^large^1^0.500000^0
+172^dog_small_floppy.adr^10^0.000000^^2^0^small^1^0.500000^0
+173^dog_small_pointy.adr^10^0.000000^^1^0^small^1^0.500000^0
+174^evnt_anniversary_firecracker_box_01.adr^0^0.000000^^0^0^^1^0.000000^0
+175^mauthedog.adr^28^0.000000^^0^0^^1^0.000000^0
+176^wolf.adr^28^0.000000^^0^0^^1^0.000000^0
+177^wolf_evil.adr^28^0.000000^^0^0^^1^0.000000^0
+178^changeling_f.adr^6^0.000000^^2^0^^1^0.000000^0
+179^changeling_m.adr^6^0.000000^^1^0^^1^0.000000^0
+180^snake.adr^29^0.000000^^0^0^^1^0.000000^0
+181^human_f_explorer_caucasian01.agr^1^0.000000^^2^0^^1^0.000000^0
+182^troll_scout.adr^20^0.000000^^1^0^^1^0.000000^0
+183^troll_archer.adr^20^0.000000^^1^0^^1^0.000000^0
+184^human_m_freestyle_01.agr^1^0.000000^^1^0^^1^0.000000^0
+185^sh_primitive_radio_01.adr^99^0.000000^^0^0^^1^0.000000^0
+186^wolf_vinegolum_fungus.adr^105^0.000000^^0^0^^1^0.000000^0
+187^robgoblin_f_cook.adr^102^0.000000^^2^0^^1^0.000000^0
+188^robgoblin_f_mage.adr^103^0.000000^^2^0^^1^0.000000^0
+189^robgoblin_m_bruiser.adr^102^0.000000^^1^0^^1^0.000000^0
+190^robgoblin_f_basic.adr^102^0.000000^^2^0^^1^0.000000^0
+191^robgoblin_m_mage.adr^103^0.000000^^1^0^^1^0.000000^0
+192^sh_primitive_television_01.adr^99^0.000000^^0^0^^1^0.000000^0
+193^sh_dynamite_crate_01.adr^99^0.000000^^0^0^^2^0.000000^0
+194^sh_dynamite_pile_01.adr^99^0.000000^^0^0^^1^0.000000^0
+195^sh_dynamite_pile_02.adr^99^0.000000^^0^0^^1^0.000000^0
+196^sh_pick_01.adr^99^0.000000^^0^0^^1^0.000000^0
+197^sh_shovel_01.adr^99^0.000000^^0^0^^1^0.000000^0
+198^birds_raven.adr^21^0.000000^^0^0^^1^0.000000^0
+199^chugawug_m_bandit_01.adr^7^0.000000^^1^0^^1^0.000000^0
+200^chugawug_f_bandit_01.adr^7^0.000000^^2^0^^1^0.000000^0
+201^human_m_hooligan_archer_01.agr^1^0.000000^^1^0^^1^0.000000^0
+202^human_m_hooligan_boss_01.agr^1^0.000000^^1^0^^1^0.000000^0
+203^human_m_hooligan_brawler_01.agr^1^0.000000^^1^0^^1^0.000000^0
+204^bw_campfire_01.adr^99^0.000000^^0^0^^1^0.000000^0
+205^bw_bonfireOFF_01.adr^99^0.000000^^0^0^^1^0.000000^0
+206^bw_bonfireON_01.adr^99^0.000000^^0^0^^1^0.000000^0
+207^sh_cart_vendor_01.adr^99^0.000000^^0^0^^1^0.000000^0
+208^changeling_f_cook_01.adr^6^0.000000^^2^0^^1^0.000000^0
+209^changeling_m_gardener_01.adr^6^0.000000^^1^0^^1^0.000000^0
+210^bixie_f_gatherer.adr^31^0.000000^^2^0^^1^0.000000^0
+211^bixie_f_mage.adr^31^0.000000^Bixie Female Mage^2^0^^1^0.000000^0
+212^chick.adr^21^0.000000^Baby Chick^0^0^^1^0.000000^0
+213^sh_mailbox_blue_01.adr^99^0.000000^Blue Mailbox^0^0^^1^0.000000^0
+214^chugawug_m_greenwood_archer_01.adr^7^0.000000^Chugawug Male Archer^1^0^^1^0.000000^0
+215^chugawug_f_greenwood_archer_01.adr^7^0.000000^Chugawug Female Archer^2^0^^1^0.000000^0
+216^chugawug_f_greenwood_mage_01.adr^7^0.000000^Chugawug Female Mage^2^0^^1^0.000000^0
+217^bixie_f_queen.adr^31^0.000000^Bixie Queen^2^0^^1^0.000000^0
+218^bixie_m_elite_guard.adr^31^0.000000^Bixie Male Elite Guard^1^0^^3^0.000000^0
+219^bixie_m_gatherer.adr^31^0.000000^Bixie Male Gatherer^1^0^^1^0.000000^0
+220^bixie_m_warrior.adr^31^0.000000^Bixie Male Warrior^1^0^^2^0.000000^0
+221^chugawug_m_02.adr^7^0.000000^Generic Male Chugawug^1^0^^1^0.000000^0
+222^chugawug_f_02.adr^7^0.000000^Generic Female Chugawug^2^0^^1^0.000000^0
+223^sh_brazier_01.adr^99^0.000000^Snowhill brazier variant 1^0^0^^1^0.000000^0
+224^sh_brazier_02.adr^99^0.000000^Snowhill brazier variant 2^0^0^^1^0.000000^0
+225^human_m_qa_test.agr^1^0.000000^QA test PC/NPC^1^0^^1^0.000000^0
+226^sg_chugawug_targets_01.adr^99^0.000000^Chugawug Target Dummy^0^0^^1^0.000000^0
+227^sg_chugawug_targets_02.adr^99^0.000000^Chugawug Target Dummy^0^0^^1^0.000000^0
+228^sh_mailbox_blue_group_01.adr^99^0.000000^Snowhill Blue Mailbox Group^0^0^^1^0.000000^0
+229^sg_troll_hut_02.adr^99^0.000000^Troll Hut to be used as Troll Spawner^0^0^^1^0.000000^0
+230^bw_tent_01.adr^99^0.000000^Tent to be used as a Lumberjack Spawner^0^0^^1^0.000000^0
+231^bw_brazier_01.adr^99^0.000000^Briarwood brazier 01^0^0^^1^0.000000^0
+232^bw_brazier_02.adr^99^0.000000^Briarwood brazier 02^0^0^^1^0.000000^0
+233^widget_01_solid.adr^99^0.000000^VISIBLE Widget - For placement purposes^0^0^^1^0.000000^0
+234^changeling_m_mage.adr^6^0.000000^Changeling Male Mage^1^0^^1^0.000000^0
+235^bear_vinegolem_fungus.adr^105^0.000000^Vingolem Bear - Fungus variant^0^0^^1^0.000000^0
+236^bw_palisade_03.adr^99^0.000000^Fort Palisade Gate^0^0^^1^0.000000^0
+237^human_m_qa_test2.agr^1^0.000000^QA test PC/NPC (2)^1^0^^1^0.000000^0
+238^changeling_fighter_f.adr^6^0.000000^Changeling fighter male^2^0^^3^0.000000^0
+239^changeling_fighter_m.adr^6^0.000000^Changeling fighter male^1^0^^1^0.000000^0
+240^changeling_ninja_m.adr^6^0.000000^Changeling ninja male^1^0^^3^0.000000^0
+241^fairychild_f_pigtailsdress.adr^2^0.000000^Second variant of female pixie child^2^0^^1^0.000000^0
+242^fairychild_m_mohawkshorts.adr^2^0.000000^Second variant of male pixie child^1^0^^1^0.000000^0
+243^evnt_anniversary_fireworks_cart_01.adr^0^0.000000^^0^0^^1^0.000000^0
+244^sg_changeling_fairy_cage_01.adr^99^0.000000^Changeling pixie cage^0^0^^1^0.000000^0
+245^sg_fairy_flora_01_flower01.adr^99^0.000000^Sanctuary flower 01^0^0^^1^0.000000^0
+246^sg_fairy_flora_02_flower01.adr^99^0.000000^Sanctuary flower 02^0^0^^1^0.000000^0
+247^sg_fairy_flora_03_flower01.adr^99^0.000000^Sanctuary flower 03^0^0^^1^0.000000^0
+248^sg_collection_node_flowers_01.adr^99^0.000000^Collection Node: Flowers^0^0^^1^0.000000^0
+249^sg_collection_node_mushrooms_01.adr^99^0.000000^Collection Node: Mushrooms^0^0^^1^0.000000^0
+250^chugawug_farmer_f.adr^7^0.000000^Female chugawug farmer^2^0^^1^0.000000^0
+251^sh_cave_entrance_bat_cave_01.adr^99^0.000000^Cave - Wooden Fence^0^0^^1^0.000000^0
+252^sh_telephone_booth_01.adr^99^0.000000^Snowhill Telephone Booth - Snowy^0^0^^1^0.000000^0
+253^sg_troll_cage.adr^99^0.000000^Destructible Troll Cage^0^0^^1^0.000000^0
+254^changeling_elder_m_01.adr^6^0.000000^Changeling elder male^1^0^^1^0.000000^0
+255^changeling_elder_f_01.adr^6^0.000000^Changeling elder female^2^0^^1^0.000000^0
+256^sg_fairy_flora_03_flower03.adr^99^0.000000^Sanctuary flower 03 variant 3^0^0^^1^0.000000^0
+257^kart_speedster.adr^99^0.000000^Speedster Kart for Vehicle Race^0^0^^1^0.000000^0
+258^bw_brazier_01_purple_fire.adr^99^0.000000^Briarwood purple flame brazier variant^0^0^^1^0.000000^0
+259^sg_harvesting_node_ore_01.adr^101^0.000000^Mining Node Common^0^0^^1^0.000000^0
+260^sg_harvesting_node_ore_02.adr^101^0.000000^Mining Node Rare^0^0^^1^0.000000^0
+261^sg_chugawug_roasting_spit_caterpillar_01.adr^99^0.000000^Caterpillar on a spit^0^0^^1^0.000000^0
+262^sg_chugawug_roasting_spit_mushrooms_01.adr^99^0.000000^Mushrooms on a spit^0^0^^1^0.000000^0
+263^sg_chugawug_roasting_spit_nuts_01.adr^99^0.000000^Nuts on a spit^0^0^^1^0.000000^0
+264^bw_tent_02.adr^99^0.000000^Special Spawn Tent for Highroad Hijinx^0^0^^1^0.000000^0
+265^sg_bixie_storagevat_02.adr^99^0.000000^Bixie honey storage container 02^0^0^^1^0.000000^0
+266^warthog_ghost.adr^9^0.000000^Ghost warthog used in Mugwort's Hollow^0^0^^1^0.000000^0
+267^bw_hedge_door_01.adr^99^0.000000^Hedge Maze2 Door^0^0^^1^0.000000^0
+268^sg_mail_package_01.adr^99^0.000000^Brown Box DPO^0^0^^1^0.000000^0
+269^sg_pies.adr^99^0.000000^Pie DPO^0^0^^1^0.000000^0
+270^invisible_cube_butterflies.adr^46^0.000000^Butterfly Particle Effect^0^0^^1^0.000000^0
+271^invisible_cube.adr^99^0.000000^Invisible Cube without particles^0^0^^1^0.000000^0
+272^sg_troll_cage_with_bottom.adr^99^0.000000^Destructible Troll Cage with bottom^0^0^^1^0.000000^0
+273^sg_anvil_stump_01.adr^99^0.000000^Anvil DPO^0^0^^1^0.000000^0
+274^sg_farming_node_common_01.adr^107^0.000000^Farming Node DPO - Common^0^0^^1^0.000000^0
+275^sg_farming_node_rich_01.adr^107^0.000000^Farming Node DPO - Rare^0^0^^1^0.000000^0
+276^sg_robgoblin_junkpile_01.adr^99^0.000000^RobGoblin Junkpile DPO^0^0^^1^0.000000^0
+277^chatdy.adr^44^0.000000^Annoying^0^0^^1^0.000000^0
+278^changeling_scoutthief_f.adr^6^0.000000^Changeling Scout^2^0^^2^0.000000^0
+279^sg_robgoblin_trunk_01.adr^99^0.000000^RobGoblin Trunk^0^0^^1^0.000000^0
+280^sg_warpstone_01.adr^45^0.000000^Warpstone^0^0^^1^0.000000^0
+281^hum_dining_chair_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+282^hum_dining_chair_06.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+283^hum_loveseat_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+284^hum_sofa_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+285^hum_upholstered_chair_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+286^hum_upholstered_chair_02.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+287^hum_upholstered_chair_03.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+288^hum_upholstered_chair_04.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+289^hum_upholstered_chair_05.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+290^hum_console_PS2_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+291^hum_console_PS3_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+292^hum_stereo_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+293^hum_television_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+294^hum_rectangle_rug_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+295^hum_round_rug_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+296^hum_square_rug_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+297^hum_bookshelves_short_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+298^hum_bookshelves_tall_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+299^hum_coffee_table_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+300^hum_coffee_table_02.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+301^hum_coffee_table_03.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+302^hum_coffee_table_04.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+303^hum_coffee_table_05.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+304^hum_dining_table_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+305^hum_dining_table_02.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+306^hum_end_table_01.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+307^hum_end_table_02.adr^99^0.000000^Human housing object^0^0^^1^0.000000^0
+308^sh_table_battlechair01.adr^99^0.000000^Chair - Battlepets Set^0^0^^1^0.000000^0
+309^sg_gametable_01.adr^99^0.000000^Table - Game Table^0^0^^1^0.000000^0
+310^sg_archaeologist_tool_node_01.adr^99^0.000000^Ruins - DPO for mini games^0^0^^1^0.000000^0
+311^human_m_freestyle_02.agr^1^0.000000^Freestyle^1^0^^1^0.000000^0
+312^human_m_freestyle_03.agr^1^0.000000^Freestyle^1^0^^1^0.000000^0
+313^human_m_freestyle_04.agr^1^0.000000^Freestyle^1^0^^1^0.000000^0
+314^troll_hogosh_m.adr^20^0.000000^Combat NPC^1^0^^1^0.000000^0
+315^evnt_anniversary_fireworks_wagon_01.adr^0^0.000000^^0^0^^1^0.000000^0
+316^sh_musicstand_01.adr^99^0.000000^Music stand DPO^0^0^^1^0.000000^0
+317^sg_collection_node_shells_01.adr^99^0.000000^Collection Node^0^0^^1^0.000000^0
+318^sg_shells_01.adr^99^0.000000^Shell DPO^0^0^^1^0.000000^0
+319^sg_dogbone.adr^99^0.000000^Dogbone DPO^0^0^^1^0.000000^0
+320^sg_treasure_hunter_icewall_01.adr^99^0.000000^Icewall DPO^0^0^^1^0.000000^0
+321^human_f_diana.adr^1^0.000000^Human ambassadar Diana^2^0^^1^0.000000^0
+322^sg_weapon_rack.adr^99^0.000000^Weapon rack DPO^0^0^^1^0.000000^0
+323^evnt_presents_01.adr^0^0.000000^^0^0^^1^0.000000^0
+324^fairy_generalglowlight_m.adr^2^0.000000^Pixie general glowlight^1^0^^1^0.000000^0
+325^sh_table_wartable01.adr^99^0.000000^War table DPO^0^0^^1^0.000000^0
+326^sg_collection_node_leaves_01.adr^99^0.000000^Collection Node^0^0^^1^0.000000^0
+327^sg_farming_node_tools_01.adr^99^0.000000^Farming tools DPO^0^0^^1^0.000000^0
+328^sg_storm_cellar_01.adr^99^0.000000^Storm Cellar DPO^0^0^^1^0.000000^0
+329^evnt_presents_02.adr^0^0.000000^^0^0^^1^0.000000^0
+330^sprite_tinklycrown_m.adr^47^0.000000^Fairy ambassador Tinklycrown^1^0^^1^0.000000^0
+331^shaggy_cow.adr^32^0.000000^A shaggy cow^0^0^^1^0.000000^0
+332^evnt_anniversary_banners_pole_01.adr^0^0.000000^^0^0^^1^0.000000^0
+333^sg_collection_node_robgoblin_junkpile_01.adr^99^0.000000^Collection Node^0^0^^1^0.000000^0
+334^sg_wanted_sign.adr^99^0.000000^Wanted sign DPO^0^0^^1^0.000000^0
+335^sh_sign01.adr^99^0.000000^Sign DPO^0^0^^1^0.000000^0
+336^sg_sign01.adr^99^0.000000^Sign DPO^0^0^^1^0.000000^0
+337^human_m_courier_finneus.agr^1^0.000000^Human courier Finneus^1^0^^1^0.000000^0
+338^chugawug_m_sergeantcargug.adr^7^0.000000^Male chugawug Sergeant Cargug^1^0^^3^0.000000^0
+339^human_f_freestyle_01.agr^1^0.000000^Human Freestyle^2^0^^1^0.000000^0
+340^sg_mailbox_group_01.adr^99^0.000000^Mailbox group of 3, no snow^0^0^^1^0.000000^0
+341^dwarf_buren_m.adr^14^0.000000^^1^0^^1^0.000000^0
+342^butterfly.adr^46^0.000000^Butterfly^0^0^^1^0.000000^0
+343^vulture.adr^21^0.000000^^0^0^^1^0.000000^0
+344^fairy_royalguard_f.adr^2^0.000000^^2^0^^3^0.000000^0
+345^fairy_royalguard_m.adr^2^0.000000^^1^0^^3^0.000000^0
+346^evnt_anniversary_pole_01.adr^0^0.000000^^0^0^^1^0.000000^0
+347^sg_cauldron_node_01.adr^99^0.000000^^0^0^^1^0.000000^0
+348^ewe_shaved.adr^48^0.000000^^2^0^^1^0.000000^0
+349^bowl_basic.adr^99^0.000000^^0^0^^1^0.000000^0
+350^ewe.adr^48^0.000000^^2^0^^1^0.000000^0
+351^test_soccerball.adr^99^0.000000^soccer ball^0^0^^1^0.000000^0
+352^human_m.adr^1^0.000000^vehicle npc^1^0^^1^0.000000^0
+353^fairy_darkthorne_f.adr^2^0.000000^Darkthorne^2^0^^1^0.000000^0
+354^human_f_ninja_01.agr^1^0.000000^^2^0^^1^0.000000^0
+355^human_m_chef_01.agr^1^0.000000^^1^0^^1^0.000000^0
+356^fairy_f_freestyle_01.agr^2^0.000000^^2^0^^1^0.000000^0
+357^fairy_f_freestyle_02.agr^2^0.000000^^2^0^^1^0.000000^0
+358^human_f_freestyle_02.agr^1^0.000000^^2^0^^1^0.000000^0
+359^human_f_chef_01.agr^1^0.000000^^2^0^^1^0.000000^0
+360^human_m_racer_johnny_thunder.agr^1^0.000000^^1^0^^1^0.000000^0
+361^fairy_m_freestyle_jestin_01.agr^2^0.000000^^1^0^^1^0.000000^0
+362^fairy_f_freestyle_glitter_01.agr^2^0.000000^^2^0^^1^0.000000^0
+363^fairy_m_freestyle_speedy_01.agr^2^0.000000^^1^0^^1^0.000000^0
+364^dog_small_fluffy.adr^10^0.000000^^2^0^small^1^0.500000^0
+365^human_m_burton_01.agr^1^0.000000^^1^0^^1^0.000000^0
+366^fairy_f_freestyle_03.agr^2^0.000000^^2^0^^1^0.000000^0
+367^sg_animated_cage01.adr^3^0.000000^^0^0^^1^0.000000^0
+368^human_f_maria_01.agr^1^0.000000^^2^0^^1^0.000000^0
+369^human_m_evan_01.agr^1^0.000000^^1^0^^1^0.000000^0
+370^bw_flag_01_blue.adr^99^0.000000^Briarwood Blue Flag^0^0^^1^0.000000^0
+371^bw_flag_01_green.adr^99^0.000000^Briarwood Green Flag^0^0^^1^0.000000^0
+372^bw_flag_01_orange.adr^99^0.000000^Briarwood Orange Flag^0^0^^1^0.000000^0
+373^bw_flag_01_purple.adr^99^0.000000^Briarwood Purple Flag^0^0^^1^0.000000^0
+374^bw_flag_01_red.adr^99^0.000000^Briarwood Red Flag^0^0^^1^0.000000^0
+375^bw_flag_01_teal.adr^99^0.000000^Briarwood Teal Flag^0^0^^1^0.000000^0
+376^treeble.adr^44^0.000000^^0^0^^1^0.000000^0
+377^fairy_farmer_f.adr^2^0.000000^^2^0^^1^0.000000^0
+378^fairy_m_old_silversnow_01.adr^2^0.000000^^1^0^^1^0.000000^0
+379^screecher_boss.adr^12^0.000000^^0^0^^1^0.000000^0
+380^dwarf_rocken_m.adr^14^0.000000^^1^0^^1^0.000000^0
+381^dwarf_therin_m.adr^14^0.000000^^1^0^^1^0.000000^0
+382^dwarf_miner_m.adr^14^0.000000^^1^0^^1^0.000000^0
+383^human_briarpatchboss_m.adr^1^0.000000^^1^0^^1^0.000000^0
+384^fairy_sanctuary_f.adr^2^0.000000^^2^0^^1^0.000000^0
+385^fairy_f_warrior_01.agr^2^0.000000^^2^0^^1^0.000000^0
+386^human_m_ninja_flyingdragon_05.agr^1^0.000000^^1^0^^1^0.000000^0
+387^sg_practicedummy_nodes_01.adr^99^0.000000^^0^0^^1^0.000000^0
+388^human_m_ninja_flyingdragon_03.agr^1^0.000000^^1^0^^1^0.000000^0
+389^human_m_ninja_flyingdragon_04.agr^1^0.000000^^1^0^^1^0.000000^0
+390^human_m_ninja_flyingdragon_01.agr^1^0.000000^^1^0^^1^0.000000^0
+391^fairy_m_warrior_01.agr^2^0.000000^^1^0^^1^0.000000^0
+392^human_m_ninja_flyingdragon_02.agr^1^0.000000^^1^0^^1^0.000000^0
+393^human_m_ninja_shadowtalon_05.agr^1^0.000000^^1^0^^1^0.000000^0
+394^human_m_ninja_shadowtalon_02.agr^1^0.000000^^1^0^^1^0.000000^0
+395^human_m_ninja_shadowtalon_03.agr^1^0.000000^^1^0^^1^0.000000^0
+396^human_m_ninja_shadowtalon_01.agr^1^0.000000^^1^0^^1^0.000000^0
+397^human_m_ninja_shadowtalon_04.agr^1^0.000000^^1^0^^1^0.000000^0
+398^fairy_sanctuary_m_01.adr^2^0.000000^^1^0^^1^0.000000^0
+399^fairy_seaside_f.adr^2^0.000000^^2^0^^1^0.000000^0
+400^fairy_queenvalerian.adr^2^0.000000^^2^0^^1^0.000000^0
+401^fairy_seaside_f_01.adr^2^0.000000^^2^0^^1^0.000000^0
+402^squirrel.adr^50^0.000000^^0^0^^1^0.000000^0
+403^rabbit.adr^51^0.000000^^0^0^^1^0.000000^0
+404^human_m_wizard_01.agr^1^0.000000^^1^0^^1^0.000000^0
+405^evnt_anniversary_balloons_01.adr^0^0.000000^^0^0^^1^0.000000^0
+406^evnt_anniversary_balloons_02.adr^0^0.000000^^0^0^^1^0.000000^0
+407^mkt_cakes_glerga_01.adr^0^1.000000^^0^0^Glerga's Cake^1^0.000000^0
+408^troll_queenverda_f.adr^20^0.000000^^2^0^^1^0.000000^0
+409^chugawug_captainchugug_m.adr^7^0.000000^^1^0^^1^0.000000^0
+410^enforcer_m.agr^1^0.000000^^1^0^^1^0.000000^0
+411^fairy_f_courier_flitter_01.agr^2^0.000000^^2^0^^1^0.000000^0
+412^shaggyspider_01.adr^18^0.000000^^0^0^^1^0.000000^0
+413^bw_spiderweb_gate_01.adr^99^0.000000^^0^0^^1^0.000000^0
+414^fairy_seaside_m_01_lod0.adr^2^0.000000^^1^0^^1^0.000000^0
+415^fairy_m_geoffrey.adr^2^0.000000^^1^0^^1^0.000000^0
+416^sg_doorknocker_01.adr^99^0.000000^^0^0^^1^0.000000^0
+417^duck_f_01.adr^0^0.000000^^2^0^^1^0.000000^0
+418^fish.adr^0^0.000000^^0^0^^1^0.000000^0
+419^sg_cooking_table_nodes_01.adr^99^0.000000^^0^0^^1^0.000000^0
+420^sg_warpstone_broken_01.adr^99^0.000000^^0^0^^1^0.000000^0
+421^human_f_nurse_naia.agr^1^0.000000^^2^0^^1^0.000000^0
+422^fairy_f_nirvi.agr^2^0.000000^^2^0^^1^0.000000^0
+423^human_m_archnos.agr^1^0.000000^^1^0^^1^0.000000^0
+424^human_m_farmer_henry.agr^1^0.000000^^1^0^^1^0.000000^0
+425^fairy_m_bullseye.agr^2^0.000000^^1^0^^1^0.000000^0
+426^human_m_brody_sparfist.agr^1^0.000000^^1^0^^1^0.000000^0
+427^human_m_chaz_armstrong.agr^1^0.000000^^1^0^^1^0.000000^0
+428^fairy_m_sakka.agr^2^0.000000^^1^0^^1^0.000000^0
+429^human_f_simone.agr^1^0.000000^^2^0^^1^0.000000^0
+430^human_m_pappy_farnum.agr^1^0.000000^^1^0^^1^0.000000^0
+431^human_f_samantha.agr^1^0.000000^^2^0^^1^0.000000^0
+432^sg_cauldron_01.adr^99^0.000000^Bubble bubble toil and trouble…^0^0^^1^0.000000^0
+433^maneatingplant_brownpink.adr^105^0.000000^^0^0^^1^0.000000^0
+434^maneatingplant_greenpurple.adr^105^0.000000^^0^0^^1^0.000000^0
+435^human_m_courier_rudolfo.agr^1^0.000000^^1^0^^1^0.000000^0
+436^human_m_andy.agr^1^0.000000^^1^0^^1^0.000000^0
+437^human_f_anne.agr^1^0.000000^^2^0^^1^0.000000^0
+438^human_m_andrew.agr^1^0.000000^^1^0^^1^0.000000^0
+439^human_f_mary.agr^1^0.000000^^2^0^^1^0.000000^0
+440^fairy_f_tori.agr^2^0.000000^^2^0^^1^0.000000^0
+441^fairy_f_courier_01.agr^2^0.000000^^2^0^^1^0.000000^0
+442^fairy_m_courier_01.agr^2^0.000000^^1^0^^1^0.000000^0
+443^fairy_m_freestyle_01.agr^2^0.000000^^1^0^^1^0.000000^0
+444^human_m_tcg_rick_garfield.agr^1^0.000000^^1^0^^1^0.000000^0
+445^fairy_f_freestyle_04.agr^2^0.000000^^2^0^^1^0.000000^0
+446^human_rockstar_m.adr^1^0.000000^^1^0^^1^0.000000^0
+447^fairy_f_ashley_lightwings.agr^2^0.000000^^2^0^^1^0.000000^0
+448^human_m_michael_tallstrider.agr^1^0.000000^^1^0^^1^0.000000^0
+449^changeling_f_02.adr^6^0.000000^^2^0^^1^0.000000^0
+450^sh_soccer_ball_01.adr^99^0.000000^^0^0^^1^0.000000^0
+451^human_m_mad_jack.agr^1^0.000000^^1^0^^1^0.000000^0
+452^chugawug_m_glugmort.adr^7^0.000000^^1^0^^1^0.000000^0
+453^sh_bush_rose_01.adr^99^0.000000^^0^0^^1^0.000000^0
+454^sprite_basic_m.adr^47^0.000000^^1^0^^1^0.000000^0
+455^sg_icon_health_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+456^fairy_druid_f.adr^2^0.000000^^2^0^^1^0.000000^0
+457^bw_gigantic_boulder_01.adr^99^0.000000^^0^0^^1^0.000000^0
+458^sprite_basic_f.adr^47^0.000000^^2^0^^1^0.000000^0
+459^fairy_archdruid_f.adr^2^0.000000^^2^0^^1^0.000000^0
+460^human_hooligan_boss.adr^1^0.000000^^1^0^^1^0.000000^0
+461^sg_icon_attack_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+462^sg_icon_boost_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+463^sg_icon_health_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+464^sg_icon_sheild_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+465^sg_icon_ultimate_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+466^sg_missile_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+467^sg_random_box_pickup_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+468^fairy_druid_m.adr^2^0.000000^^1^0^^1^0.000000^0
+469^sg_icon_health_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+470^cray_ocean.adr^0^0.000000^^0^0^^2^0.000000^0
+471^cray_arctic_swamp.adr^0^0.000000^^0^0^^2^0.000000^0
+472^sg_icon_attack_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+473^sg_icon_boost_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+474^sg_icon_ultimate_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+475^sg_icon_sheild_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+476^human_m_collin.agr^1^0.000000^^1^0^^1^0.000000^0
+477^human_m_mac.agr^1^0.000000^^1^0^^1^0.000000^0
+478^treesoldier_mushroom.adr^0^0.000000^^0^0^^1^0.000000^0
+479^archer_human_f_head_shades.adr^99^0.000000^^0^0^^1^0.000000^0
+480^sg_boulder_01.adr^99^0.000000^^0^0^^1^0.000000^0
+481^sg_racing_mine_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+482^butterfly_insect.adr^0^0.000000^^0^0^^1^0.000000^0
+483^firefly.adr^0^0.000000^^0^0^^1^0.000000^0
+484^sh_forge_01.adr^99^0.000000^^0^0^^1^0.000000^0
+485^fairy_petulia_f.adr^2^0.000000^^2^0^^1^0.000000^0
+486^sg_icon_shield_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+487^sh_soccer_ball_01.adr^99^0.000000^Soccer Ball^0^0^^1^0.000000^0
+488^chugawug_farmer_m.adr^7^0.000000^^1^0^^1^0.000000^0
+489^human_m_hooligan_brawler_02.agr^1^0.000000^^1^0^^1^0.000000^0
+490^fairy_m_old_02.adr^2^0.000000^^1^0^^1^0.000000^0
+491^human_f_aunt_daisy.agr^1^0.000000^^2^0^^1^0.000000^0
+492^human_f_awesome.agr^1^0.000000^^2^0^^1^0.000000^0
+493^human_f_aida.agr^1^0.000000^^2^0^^1^0.000000^0
+494^fairy_m_johnstone.agr^2^0.000000^^1^0^^1^0.000000^0
+495^fairy_f_jock.agr^2^0.000000^^2^0^^1^0.000000^0
+496^human_m_treasurehunter.agr^1^0.000000^^1^0^^1^0.000000^0
+497^sg_icon_random_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+498^human_m.adr^1^0.000000^BBE Placeholder^1^0^^1^0.000000^0
+499^human_f_aster.agr^1^0.000000^^2^0^^1^0.000000^0
+500^sprite_cultist_m.adr^47^0.000000^^1^0^^1^0.000000^0
+501^robgoblin_carrying_pig.agr^3^0.000000^^1^0^^1^0.000000^0
+502^human_m_freestyle_10.agr^1^0.000000^^1^0^^1^0.000000^0
+503^hoverboard_clockwork_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+504^human_f_freestyle_07.agr^1^0.000000^^2^0^^1^0.000000^0
+505^human_m_freestyle_11.agr^1^0.000000^^1^0^^1^0.000000^0
+506^human_m_doctor_gordon.agr^1^0.000000^^1^0^^1^0.000000^0
+507^human_f_cookie.agr^1^0.000000^^2^0^^1^0.000000^0
+508^robgoblin_carrying_warpstonechunk.agr^3^0.000000^^1^0^^1^0.000000^0
+509^human_m_flanders.agr^1^0.000000^^1^0^^1^0.000000^0
+510^human_m_sirwellington.agr^1^0.000000^^1^0^^1^0.000000^0
+511^human_invisible_m.adr^1^0.000000^^1^0^^1^0.000000^0
+512^fairy_druidmugwort_m.adr^2^0.000000^^1^0^^1^0.000000^0
+513^Wc_chuga_root_01.adr^99^0.000000^^0^0^^1^0.000000^0
+514^dog_large_dalmation.adr^10^0.000000^^1^0^large^1^0.500000^0
+515^dog_large_lab.adr^10^0.000000^^2^0^large^1^0.500000^0
+516^sg_eyeglasses_01.adr^0^0.000000^^0^0^^1^0.000000^0
+517^fairy_m_hooligan_brawler_01.agr^2^0.000000^^1^0^^1^0.000000^0
+518^human_f_hooligan_brawler_01.agr^99^0.000000^^2^0^^1^0.000000^0
+519^human_m_hooligan_brawler_03.agr^99^0.000000^^1^0^^1^0.000000^0
+520^human_m_hooligan_archer_02.agr^99^0.000000^^1^0^^1^0.000000^0
+521^sh_bucket_01.adr^99^0.000000^^0^0^^1^0.000000^0
+522^hoverboard_precursor_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+523^hoverboard_precursorlava_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+524^fairy_f_freestyle_06.agr^2^0.000000^^2^0^^1^0.000000^0
+525^human_m_wizard_rio.agr^1^0.000000^wizard with orb wand^1^0^^1^0.000000^0
+526^human_m_freestyle_09.agr^1^0.000000^^1^0^^1^0.000000^0
+527^fairy_m_freestyle_03.agr^2^0.000000^^1^0^^1^0.000000^0
+528^fairy_m_freestyle_02.agr^2^0.000000^^1^0^^1^0.000000^0
+529^sg_gold_coin_01.adr^0^0.000000^coin for cloud plane^0^0^^1^0.000000^0
+530^fairy_f_freestyle_05.agr^2^0.000000^^2^0^^1^0.000000^0
+531^human_f_domo.agr^1^0.000000^^2^0^^1^0.000000^0
+532^sg_chugawug_keg_01.adr^99^0.000000^^0^0^^1^0.000000^0
+533^wc_mug_01.adr^99^0.000000^^0^0^^1^0.000000^0
+534^fairy_m_mechanic_crofti_01.agr^2^0.000000^^1^0^^1^0.000000^0
+535^chicken.adr^0^0.000000^^0^0^^1^0.000000^0
+536^enforcer_m.adr^1^0.000000^^1^0^^1^0.000000^0
+537^human_m_ninja_shadowtalon_taka.agr^1^0.000000^^1^0^^1^0.000000^0
+538^human_m_ninja_shadowtalon_trainee_01.agr^1^0.000000^^1^0^^1^0.000000^0
+539^wc_table_02.adr^99^0.000000^^0^0^^1^0.000000^0
+540^cat_longhair.adr^15^0.000000^^2^0^longhair^1^0.500000^0
+541^ss_deco_flower_04.adr^99^0.000000^^0^0^^1^0.000000^0
+542^forestgiant_tutorial.adr^27^0.000000^Forest giant at 75% reduced size^0^0^^1^0.000000^0
+543^sh_cart_mine_01.adr^99^0.000000^Mine Cart^0^0^^1^0.000000^0
+544^sg_rock_01.adr^99^0.000000^Rock^0^0^^1^0.000000^0
+545^human_f_freestyle_03.agr^1^0.000000^^2^0^^1^0.000000^0
+546^human_f_freestyle_04.agr^1^0.000000^^2^0^^1^0.000000^0
+547^human_f_freestyle_05.agr^1^0.000000^^2^0^^1^0.000000^0
+548^human_f_freestyle_06.agr^1^0.000000^^2^0^^1^0.000000^0
+549^human_f_freestyle_08.agr^1^0.000000^^2^0^^1^0.000000^0
+550^human_f_freestyle_09.agr^1^0.000000^^2^0^^1^0.000000^0
+551^human_f_freestyle_10.agr^1^0.000000^^2^0^^1^0.000000^0
+552^human_f_freestyle_11.agr^1^0.000000^^2^0^^1^0.000000^0
+553^human_m_freestyle_07.agr^1^0.000000^^1^0^^1^0.000000^0
+554^human_m_freestyle_08.agr^1^0.000000^^1^0^^1^0.000000^0
+555^human_m_freestyle_09.agr^1^0.000000^^1^0^^1^0.000000^0
+556^human_m_freestyle_10.agr^1^0.000000^^1^0^^1^0.000000^0
+557^human_m_freestyle_11.agr^1^0.000000^^1^0^^1^0.000000^0
+558^human_m_freestyle_05.agr^1^0.000000^^1^0^^1^0.000000^0
+559^human_m_freestyle_06.agr^1^0.000000^^1^0^^1^0.000000^0
+560^hsg_brazier_01.adr^0^0.000000^^0^0^^1^0.000000^0
+561^hsg_flag_01.adr^0^0.000000^^0^0^^1^0.000000^0
+562^hsg_juicebar_01.adr^0^0.000000^^0^0^^1^0.000000^0
+563^hsg_palisade_01.adr^0^0.000000^^0^0^^1^0.000000^0
+564^hsg_ramp_small_02.adr^0^0.000000^^0^0^^1^0.000000^0
+565^human_m_roland_spore.agr^0^0.000000^^0^0^^1^0.000000^0
+566^fairy_m_jackson_strongarm.agr^2^0.000000^^1^0^new tcg2 npc - tchu^1^0.000000^0
+569^fairy_f_freestyle_07.agr^2^0.000000^^2^0^^1^0.000000^0
+570^fairy_f_freestyle_08.agr^2^0.000000^^2^0^^1^0.000000^0
+571^fairy_f_freestyle_09.agr^2^0.000000^^2^0^^1^0.000000^0
+572^fairy_f_freestyle_10.agr^2^0.000000^^2^0^^1^0.000000^0
+573^fairy_f_freestyle_11.agr^2^0.000000^^2^0^^1^0.000000^0
+574^fairy_m_blacksmith_01.agr^2^0.000000^^1^0^^1^0.000000^0
+575^fairy_m_freestyle_04.agr^2^0.000000^^1^0^^1^0.000000^0
+576^human_enforcer_m.adr^1^0.000000^^1^0^^1^0.000000^0
+577^human_f_freestyle_07.agr^1^0.000000^^2^0^^1^0.000000^0
+578^powerup_speed_buff.adr^99^0.000000^^0^0^^1^0.000000^0
+579^sg_icon_boost_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+580^sg_icon_mine_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+581^sg_icon_missile_pickup_anim_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+582^robgoblin_f_basic_tutorial.adr^0^0.000000^^2^0^^1^0.000000^0
+583^human_m_shadow.adr^1^0.000000^^1^0^^1^0.000000^0
+584^sg_papers_01.adr^0^0.000000^^0^0^^1^0.000000^0
+585^sg_papers_02.adr^0^0.000000^^0^0^^1^0.000000^0
+586^sg_mining_node_ore_01.adr^101^0.000000^^0^0^^1^0.000000^0
+587^sg_mining_node_ore_briarwood_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+588^sg_mining_node_ore_briarwood_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+589^sg_mining_node_ore_briarwood_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+590^sg_mining_node_ore_briarwood_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+591^sg_mining_node_ore_briarwood_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+592^sg_mining_node_ore_ice_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+593^sg_mining_node_ore_ice_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+594^sg_mining_node_ore_ice_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+595^sg_mining_node_ore_ice_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+596^sg_mining_node_ore_ice_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+597^sg_mining_node_ore_manmade_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+598^sg_mining_node_ore_manmade_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+599^sg_mining_node_ore_manmade_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+600^sg_mining_node_ore_manmade_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+601^sg_mining_node_ore_manmade_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+602^sg_mining_node_ore_naturalcool_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+603^sg_mining_node_ore_naturalcool_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+604^sg_mining_node_ore_naturalcool_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+605^sg_mining_node_ore_naturalcool_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+606^sg_mining_node_ore_naturalcool_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+607^sg_mining_node_ore_naturaldirt_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+608^sg_mining_node_ore_naturaldirt_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+609^sg_mining_node_ore_naturaldirt_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+610^sg_mining_node_ore_naturaldirt_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+611^sg_mining_node_ore_naturaldirt_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+612^sg_mining_node_ore_sanctuary_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+613^sg_mining_node_ore_sanctuary_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+614^sg_mining_node_ore_sanctuary_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+615^sg_mining_node_ore_sanctuary_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+616^sg_mining_node_ore_sanctuary_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+617^sg_mining_node_ore_sh_naturaldirt_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+618^sg_mining_node_ore_sh_naturaldirt_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+619^sg_mining_node_ore_sh_naturaldirt_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+620^sg_mining_node_ore_sh_naturaldirt_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+621^sg_mining_node_ore_sh_naturaldirt_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+622^sg_mining_node_ore_snowhill_copper_01.agr^101^0.000000^^0^0^^1^0.000000^0
+623^sg_mining_node_ore_snowhill_gold_01.agr^101^0.000000^^0^0^^1^0.000000^0
+624^sg_mining_node_ore_snowhill_iron_01.agr^101^0.000000^^0^0^^1^0.000000^0
+625^sg_mining_node_ore_snowhill_silver_01.agr^101^0.000000^^0^0^^1^0.000000^0
+626^sg_mining_node_ore_snowhill_tin_01.agr^101^0.000000^^0^0^^1^0.000000^0
+627^sg_mining_node_01.adr^101^0.000000^^0^0^^1^0.000000^0
+628^sg_mining_node_rare_01.adr^101^0.000000^^0^0^^1^0.000000^0
+629^sss_human_m_07.agr^1^0.000000^^1^0^^1^0.000000^0
+630^sss_human_m_06.agr^1^0.000000^^1^0^^1^0.000000^0
+631^sss_human_m_05.agr^1^0.000000^^1^0^^1^0.000000^0
+632^sss_human_m_04.agr^1^0.000000^^1^0^^1^0.000000^0
+633^sss_human_m_03.agr^1^0.000000^^1^0^^1^0.000000^0
+634^sss_human_m_02.agr^1^0.000000^^1^0^^1^0.000000^0
+635^sss_human_m_01.agr^1^0.000000^^1^0^^1^0.000000^0
+636^sss_human_f_04.agr^1^0.000000^^2^0^^1^0.000000^0
+637^sss_human_f_03.agr^1^0.000000^^2^0^^1^0.000000^0
+638^sss_human_f_02.agr^1^0.000000^^2^0^^1^0.000000^0
+639^sss_human_f_01.agr^1^0.000000^^2^0^^1^0.000000^0
+640^human_donovanshadeweaver_m.adr^1^0.000000^^1^0^^1^0.000000^0
+641^fairy_f_tcg_jammie_swiftsong.agr^2^0.000000^^2^0^^1^0.000000^0
+642^fairy_f_tcg_maple_sugarleaf.agr^2^0.000000^^2^0^^1^0.000000^0
+643^fairy_f_tcg_bry.agr^2^0.000000^^2^0^^1^0.000000^0
+644^fairy_m_tcg_rick_garfield.agr^2^0.000000^^1^0^^1^0.000000^0
+645^human_f_tcg_ari_the_fish.agr^1^0.000000^^2^0^^1^0.000000^0
+646^human_f_tcg_sam_potts.agr^1^0.000000^^2^0^^1^0.000000^0
+647^human_m_sheriff_bart_purpleton.agr^1^0.000000^^1^0^^1^0.000000^0
+648^human_m_tcg_poe_tatters.agr^1^0.000000^^1^0^^1^0.000000^0
+649^human_m_tcg_shifty_the_shuffler.agr^1^0.000000^^1^0^^1^0.000000^0
+650^sg_collection_node_leaves_rare_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+651^sprite_sentry_f.adr^0^0.000000^^2^0^^1^0.000000^0
+652^sprite_sentry_m.adr^0^0.000000^^1^0^^1^0.000000^0
+653^fairy_f_darcie_flitterstride.agr^2^0.000000^^2^0^^1^0.000000^0
+654^fairy_m_freestyle_05.agr^2^0.000000^^1^0^^1^0.000000^0
+655^fairy_m_freestyle_06.agr^2^0.000000^^1^0^^1^0.000000^0
+656^fairy_m_freestyle_07.agr^2^0.000000^^1^0^^1^0.000000^0
+657^fairy_m_freestyle_08.agr^2^0.000000^^1^0^^1^0.000000^0
+658^fairy_m_freestyle_09.agr^2^0.000000^^1^0^^1^0.000000^0
+659^fairy_m_freestyle_10.agr^2^0.000000^^1^0^^1^0.000000^0
+660^fairy_m_freestyle_11.agr^2^0.000000^^1^0^^1^0.000000^0
+661^human_f_chloe.agr^1^0.000000^^2^0^^1^0.000000^0
+662^human_f_iliya.agr^1^0.000000^^2^0^^1^0.000000^0
+663^human_m_greg_veilmont.agr^1^0.000000^^1^0^^1^0.000000^0
+664^human_m_milford.agr^1^0.000000^^1^0^^1^0.000000^0
+665^human_m_ramirez.agr^1^0.000000^^1^0^^1^0.000000^0
+666^changeling_eggertthemad_m.adr^0^0.000000^^1^0^^1^0.000000^0
+667^chugawug_m_01_blue_drinking.agr^0^0.000000^^1^0^^1^0.000000^0
+668^chugawug_m_02_ltgreen_drinking.agr^0^0.000000^^1^0^^1^0.000000^0
+669^human_blackspore_thief_m.adr^1^0.000000^^1^0^^1^0.000000^0
+670^sg_collection_node_flowers_rare_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+671^sg_collection_node_robgoblin_junkpile_rare_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+672^sg_collection_node_shells_rare_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+673^sg_dirt_mound_01.adr^0^0.000000^^0^0^^1^0.000000^0
+674^sg_collection_node_mushrooms_rare_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+675^sg_harvesting_node_farm_01.adr^107^0.000000^^0^0^^1^0.000000^0
+676^cray_boss_ocean.adr^0^0.000000^^0^0^^2^0.000000^0
+677^cray_boss_swamp.adr^0^0.000000^^0^0^^2^0.000000^0
+678^sg_tents_med_01.adr^0^0.000000^^0^0^^1^0.000000^0
+679^ball_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+680^bone_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+681^flyingdisc_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+682^bs_pearl_01.adr^0^0.000000^^0^0^^1^0.000000^0
+683^mv_mana_drain01.adr^0^0.000000^^0^0^^1^0.000000^0
+684^dwarf_blackspore_miner_m.adr^0^0.000000^^1^0^^1^0.000000^0
+685^human_blackspore_thief_f.adr^1^0.000000^^2^0^^1^0.000000^0
+688^humanchild_m_afro.adr^1^0.000000^^1^0^^1^0.000000^0
+689^humanchild_m_shortrobewithglove.adr^1^0.000000^^1^0^^1^0.000000^0
+690^humanchild_m_swirltrimbig.adr^1^0.000000^^1^0^^1^0.000000^0
+691^sg_collection_node_crate_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+692^human_m_referee_01.agr^1^0.000000^^1^0^^1^0.000000^0
+693^bw_dirt_pile_01.agr^0^0.000000^^0^0^^1^0.000000^0
+694^ss_dirt_pile_01.agr^0^0.000000^^0^0^^1^0.000000^0
+695^bs_spore_02.adr^0^0.000000^^0^0^^1^0.000000^0
+696^sg_collection_node_archer_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+697^sg_collection_node_archer_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+698^sg_collection_node_blacksmith_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+699^sg_collection_node_blacksmith_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+700^sg_collection_node_chef_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+701^sg_collection_node_chef_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+702^sg_collection_node_demolition_derby_driver_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+703^sg_collection_node_demolition_derby_driver_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+704^sg_collection_node_fighter_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+705^sg_collection_node_fighter_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+706^sg_collection_node_medic_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+707^sg_collection_node_medic_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+708^sg_collection_node_miner_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+709^sg_collection_node_miner_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+710^sg_collection_node_ninja_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+711^sg_collection_node_ninja_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+712^sg_collection_node_postman_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+713^sg_collection_node_postman_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+714^sg_collection_node_racecar_driver_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+715^sg_collection_node_racecar_driver_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+716^sg_collection_node_warrior_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+717^sg_collection_node_warrior_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+718^sg_collection_node_wizard_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+719^sg_collection_node_wizard_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+720^loot_chest_01.adr^0^0.000000^^0^0^^1^0.000000^0
+721^robgoblin_jester_m.adr^0^0.000000^^1^0^^1^0.000000^0
+722^sg_collection_node_spring_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+723^sg_collection_node_springs_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+724^sg_collection_node_fossils_01.adr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+725^sh_bones_02.adr^0^0.000000^^0^0^^1^0.000000^0
+727^bw_rolling_boulder_01.adr^99^0.000000^^0^0^^1^0.000000^0
+729^sg_ktdm_proximity_arrow_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+730^dwarf_blackspore_thief_m.adr^0^0.000000^^1^0^^1^0.000000^0
+731^fairy_f_morninglory.agr^2^0.000000^^2^0^^1^0.000000^0
+732^fairy_m_chaz_strongarm.agr^2^0.000000^^1^0^^1^0.000000^0
+733^human_f_gloam_agent.agr^1^0.000000^^2^0^^1^0.000000^0
+734^human_f_michi.agr^1^0.000000^^2^0^^1^0.000000^0
+735^human_seaside_m.adr^1^0.000000^^1^0^^1^0.000000^0
+736^powerup_health_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+737^powerup_mana_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+738^powerup_speed_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+739^troll_f.adr^0^0.000000^^2^0^^1^0.000000^0
+740^vulture_m_undead.adr^0^0.000000^^1^0^^1^0.000000^0
+742^sg_ktdm_proximity_arrow_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+743^blackwidow_baby_01.adr^18^0.000000^^0^0^^1^0.000000^0
+744^human_blackspore_miner_m.adr^1^0.000000^^1^0^^1^0.000000^0
+745^powerup_damage_aoe_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+746^powerup_damage_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+747^powerup_defense_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+748^sg_log_wFirefly.adr^0^0.000000^^0^0^^1^0.000000^0
+749^birds_parrot.adr^0^0.000000^^0^0^^1^0.000000^0
+750^birds_seagull.adr^0^0.000000^^0^0^^1^0.000000^0
+751^wraith_m_cloakedskelly.adr^0^0.000000^^1^0^^1^0.000000^0
+752^chugawug_m_adrotolberug.adr^0^0.000000^^1^0^^1^0.000000^0
+753^chugawug_m_nucklehead.adr^0^0.000000^^1^0^^1^0.000000^0
+754^cray_m_crabcake.adr^0^0.000000^^1^0^^2^0.000000^0
+755^fairy_f_brenna.agr^2^0.000000^^2^0^^1^0.000000^0
+756^fairy_f_daprie_dozen.agr^2^0.000000^^2^0^^1^0.000000^0
+757^fairy_f_jambe.agr^2^0.000000^^2^0^^1^0.000000^0
+758^fairy_f_osiri.agr^2^0.000000^^2^0^^1^0.000000^0
+759^fairy_m_benolardo.adr^2^0.000000^^1^0^^1^0.000000^0
+760^fairy_m_cayce_mackana.agr^2^0.000000^^1^0^^1^0.000000^0
+761^fairy_m_cole.agr^2^0.000000^^1^0^^1^0.000000^0
+762^fairy_m_gilly.adr^2^0.000000^^1^0^^1^0.000000^0
+763^fairy_m_monty_dozen.agr^2^0.000000^^1^0^^1^0.000000^0
+764^fairy_m_osgood.adr^2^0.000000^^1^0^^1^0.000000^0
+765^fairy_m_seaspray.adr^2^0.000000^^1^0^^1^0.000000^0
+766^fairy_m_spritzy.adr^2^0.000000^^1^0^^1^0.000000^0
+767^graveelemental_m_skullwgraves.adr^0^0.000000^^1^0^^3^0.000000^0
+768^human_f_harriet_alfapopper.agr^1^0.000000^^2^0^^1^0.000000^0
+769^human_f_kattee_leroy.agr^1^0.000000^^2^0^^1^0.000000^0
+770^human_f_squeegee_ele.agr^1^0.000000^^2^0^^1^0.000000^0
+771^human_m_acade_vulgari.agr^1^0.000000^^1^0^^1^0.000000^0
+772^human_m_delvin.agr^1^0.000000^^1^0^^1^0.000000^0
+773^human_m_diggy.agr^1^0.000000^^1^0^^1^0.000000^0
+774^human_m_dr_callahan.agr^1^0.000000^^1^0^^1^0.000000^0
+775^human_m_kendall.agr^1^0.000000^^1^0^^1^0.000000^0
+776^chugawug_m_aziwug.adr^0^0.000000^^1^0^^1^0.000000^0
+777^chugawug_m_olberug.adr^0^0.000000^^1^0^^1^0.000000^0
+779^human_m_great_koodini.agr^1^0.000000^^1^0^^1^0.000000^0
+780^human_sanctuary_m.adr^1^0.000000^^1^0^^1^0.000000^0
+781^fairy_m_bulkybeno.adr^2^0.000000^^1^0^^1^0.000000^0
+782^human_f_mae_farnum.agr^1^0.000000^^2^0^^1^0.000000^0
+783^human_m_farmhand_01.agr^1^0.000000^^1^0^^1^0.000000^0
+784^human_m_farmhand_02.agr^1^0.000000^^1^0^^1^0.000000^0
+785^human_seaside_f.adr^1^0.000000^^2^0^^1^0.000000^0
+786^robgoblin_m_brute.adr^102^0.000000^^1^0^^1^0.000000^0
+787^bs_shrub_03.adr^0^0.000000^^0^0^^1^0.000000^0
+788^bs_cattails_03.adr^0^0.000000^^0^0^^1^0.000000^0
+789^bw_thorn_01.adr^0^0.000000^^0^0^^1^0.000000^0
+790^fairy_f_bacala_01.agr^2^0.000000^^2^0^^1^0.000000^0
+791^fairy_f_bacala_02.agr^2^0.000000^^2^0^^1^0.000000^0
+792^fairy_f_bacala_03.agr^2^0.000000^^2^0^^1^0.000000^0
+793^sg_ktdm_missle_arrow_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+794^wc_chuga_root_02.adr^99^0.000000^^0^0^^1^0.000000^0
+795^sh_playingcards_01.adr^99^0.000000^^0^0^^1^0.000000^0
+796^sh_playingcards_02.adr^99^0.000000^^0^0^^1^0.000000^0
+797^sg_book_01.adr^99^0.000000^^0^0^^1^0.000000^0
+798^sg_book_black_01.agr^99^0.000000^^0^0^^1^0.000000^0
+799^sg_book_blue_01.agr^99^0.000000^^0^0^^1^0.000000^0
+800^sg_book_brown_01.agr^99^0.000000^^0^0^^1^0.000000^0
+801^sg_book_darkblue_01.agr^99^0.000000^^0^0^^1^0.000000^0
+802^sg_book_gray_01.agr^99^0.000000^^0^0^^1^0.000000^0
+803^sg_book_green_01.agr^99^0.000000^^0^0^^1^0.000000^0
+804^sg_book_olive_01.agr^99^0.000000^^0^0^^1^0.000000^0
+805^sg_book_purple_01.agr^99^0.000000^^0^0^^1^0.000000^0
+806^sg_book_red_01.agr^99^0.000000^^0^0^^1^0.000000^0
+807^loot_bag_big_01.adr^0^0.000000^^0^0^^1^0.000000^0
+808^loot_bag_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+809^bw_hazards_01.adr^0^0.000000^^0^0^^1^0.000000^0
+810^bw_hazards_02.adr^0^0.000000^^0^0^^1^0.000000^0
+811^env_icon_blackspore.adr^0^0.000000^^0^0^^1^0.000000^0
+812^env_icon_briarwood.adr^0^0.000000^^0^0^^1^0.000000^0
+813^env_icon_chugawug.adr^0^0.000000^^0^0^^1^0.000000^0
+814^env_icon_merryvale.adr^0^0.000000^^0^0^^1^0.000000^0
+815^env_icon_sanctuary.adr^0^0.000000^^0^0^^1^0.000000^0
+816^env_icon_seaside.adr^0^0.000000^^0^0^^1^0.000000^0
+817^env_icon_shrouded_glade.adr^0^0.000000^^0^0^^1^0.000000^0
+818^env_icon_snowhill.adr^0^0.000000^^0^0^^1^0.000000^0
+819^fairy_f_medicstudent.agr^2^0.000000^^2^0^^1^0.000000^0
+820^fairy_f_mustang_alli.agr^2^0.000000^^2^0^^1^0.000000^0
+821^fairy_m_randall.agr^2^0.000000^^1^0^^1^0.000000^0
+822^fairy_m_sparks_blitzwing.agr^2^0.000000^^1^0^^1^0.000000^0
+823^human_f_amber_violet.agr^1^0.000000^^2^0^^1^0.000000^0
+824^human_f_medicstudent.agr^1^0.000000^^2^0^^1^0.000000^0
+825^human_f_mirana_vega.agr^1^0.000000^^2^0^^1^0.000000^0
+826^human_f_snowhill.adr^1^0.000000^^2^0^^1^0.000000^0
+827^human_m_ace_omally.agr^1^0.000000^^1^0^^1^0.000000^0
+828^human_m_antonio_taurino.agr^1^0.000000^^1^0^^1^0.000000^0
+829^human_m_burt_crewe.agr^1^0.000000^^1^0^^1^0.000000^0
+830^human_m_crash_davis.agr^1^0.000000^^1^0^^1^0.000000^0
+831^human_m_dane_blueshift.agr^1^0.000000^^1^0^^1^0.000000^0
+832^human_m_dimitri.agr^1^0.000000^^1^0^^1^0.000000^0
+833^human_m_kade_carmichael.agr^1^0.000000^^1^0^^1^0.000000^0
+834^human_m_medicstudent.agr^1^0.000000^^1^0^^1^0.000000^0
+835^human_m_rip_ringa.agr^1^0.000000^^1^0^^1^0.000000^0
+836^human_m_sampson_idlefist.agr^1^0.000000^^1^0^^1^0.000000^0
+837^human_m_snowhill.adr^1^0.000000^^1^0^^1^0.000000^0
+838^human_m_tr_walker_jr.agr^1^0.000000^^1^0^^1^0.000000^0
+839^human_m_verve_mcnichols.agr^1^0.000000^^1^0^^1^0.000000^0
+840^human_m_vittorio.agr^1^0.000000^^1^0^^1^0.000000^0
+841^loot_coins_01.adr^0^0.000000^^0^0^^1^0.000000^0
+842^powerup_dogbone_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+843^powerup_time_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+844^sg_brownbag_01.adr^0^0.000000^^0^0^^1^0.000000^0
+845^sg_collection_node_fossils_rare_01.agr^0^0.000000^Collection Node^0^0^^1^0.000000^0
+846^sg_exit_door_01.adr^0^0.000000^^0^0^^1^0.000000^0
+847^sg_fireworks_01.adr^0^0.000000^^0^0^^1^0.000000^0
+848^sg_dpo_flower_01.adr^99^0.000000^^0^0^^1^0.000000^0
+849^sg_foodtray_01.adr^0^0.000000^^0^0^^1^0.000000^0
+850^sg_icon_multiball_pickup_anim_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+851^sg_icon_springjump_pickup_anim_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+852^sg_icon_sprint_pickup_anim_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+853^sg_icon_toughness_pickup_anim_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+854^sg_signinbook_01.adr^0^0.000000^^0^0^^1^0.000000^0
+855^sg_signinbook_nostand_01.adr^0^0.000000^^0^0^^1^0.000000^0
+856^sg_soccerball_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+857^sg_testball_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+858^ss_fish_01.adr^0^0.000000^^0^0^^1^0.000000^0
+859^ss_loot_starfish_01.adr^0^0.000000^^0^0^^1^0.000000^0
+860^ss_shellfish_01.adr^0^0.000000^^0^0^^1^0.000000^0
+861^ss_sunscreen_01.adr^0^0.000000^^0^0^^1^0.000000^0
+862^ss_trash_pile_01.adr^0^0.000000^^0^0^^1^0.000000^0
+863^ss_fishbone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+864^human_m_johnny_thunder_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+865^fairy_f_mustang_all_incar.agr^2^0.000000^^2^0^^1^0.000000^0
+866^human_m_dane_blueshift_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+867^human_m_tr_walker_jr_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+868^human_m_ace_omally_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+869^human_m_verve_mcnichols_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+870^human_f_amber_violet_incar.agr^1^0.000000^^2^0^^1^0.000000^0
+871^fairy_m_sparks_blitzwing_incar.agr^2^0.000000^^1^0^^1^0.000000^0
+872^human_m_antonio_taurino_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+873^human_f_mirana_vega_incar.agr^1^0.000000^^2^0^^1^0.000000^0
+874^human_m_kade_carmichael_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+875^invisible_cube_orb_purple.adr^0^0.000000^^0^0^^1^0.000000^0
+877^fairy_f_courier_evil.agr^2^0.000000^^2^0^^1^0.000000^0
+878^fairy_f_pet_trainer_01.agr^2^0.000000^^2^0^^1^0.000000^0
+879^fairy_m_banana_suit.agr^2^0.000000^^1^0^^1^0.000000^0
+880^human_f_pet_trainer_01.agr^1^0.000000^^2^0^^1^0.000000^0
+881^human_m_courier_evil.agr^1^0.000000^^1^0^^1^0.000000^0
+882^human_m_pet_trainer_01.agr^1^0.000000^^1^0^^1^0.000000^0
+883^sg_garage_tire_01.adr^99^0.000000^^0^0^^1^0.000000^0
+884^sg_garage_tire_02.adr^99^0.000000^^0^0^^1^0.000000^0
+885^sg_garage_tire_03.adr^99^0.000000^^0^0^^1^0.000000^0
+886^sg_derby_tire_01.adr^99^0.000000^^0^0^^1^0.000000^0
+887^sg_icon_charge_pickup_anim_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+888^fairy_f_mustang_alli_incar.agr^2^0.000000^^2^0^^1^0.000000^0
+889^human_f_sanctuary.adr^1^0.000000^^2^0^^1^0.000000^0
+890^human_m_crash_davis_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+891^human_m_racer_johnny_thunder_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+892^human_m_rip_ringa_incar.agr^1^0.000000^^1^0^^1^0.000000^0
+893^bs_gravestone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+894^bs_gravestone_02.adr^0^0.000000^^0^0^^1^0.000000^0
+895^bs_gravestone_03.adr^0^0.000000^^0^0^^3^0.000000^0
+896^bs_gravestone_04.adr^0^0.000000^^0^0^^1^0.000000^0
+897^sg_pretty_cake.adr^99^0.000000^^0^0^^1^0.000000^0
+898^fairy_m_wienersuit.agr^2^0.000000^^1^0^^1^0.000000^0
+899^ss_surfboard_01.adr^0^0.000000^^0^0^^1^0.000000^0
+900^ss_surfboard_02.adr^0^0.000000^^0^0^^1^0.000000^0
+901^ss_surfboard_03.adr^0^0.000000^^0^0^^1^0.000000^0
+902^sg_broken_racecar_01.adr^0^0.000000^^0^0^^1^0.000000^0
+903^sg_derby_car_crusher_01.adr^0^0.000000^^0^0^^1^0.000000^0
+904^sg_derby_junk_car_01.adr^0^0.000000^^0^0^^1^0.000000^0
+905^sg_derby_car_ripper_01.adr^0^0.000000^^0^0^^1^0.000000^0
+906^sg_derby_car_01.adr^0^0.000000^^0^0^^1^0.000000^0
+907^human_m_ty_downtrodden.agr^1^0.000000^^1^0^^1^0.000000^0
+908^human_m_ty_redeemed.agr^1^0.000000^^1^0^^1^0.000000^0
+909^sg_chugawug_jug_03.adr^99^0.000000^^0^0^^1^0.000000^0
+910^sg_mailbox_01.adr^99^0.000000^^0^0^^1^0.000000^0
+911^sg_raceway_zipster02.adr^0^0.000000^^0^0^^1^0.000000^0
+912^sg_raceway_speedster01_blue.agr^0^0.000000^^0^0^^1^0.000000^0
+913^sg_raceway_speedster01_green.agr^0^0.000000^^0^0^^1^0.000000^0
+914^sg_raceway_speedster01_purple.agr^0^0.000000^^0^0^^1^0.000000^0
+915^sg_raceway_speedster01_red.agr^0^0.000000^^0^0^^1^0.000000^0
+916^sg_raceway_speedster02_blue.agr^0^0.000000^^0^0^^1^0.000000^0
+917^sg_raceway_speedster02_green.agr^0^0.000000^^0^0^^1^0.000000^0
+918^sg_raceway_speedster02_purple.agr^0^0.000000^^0^0^^1^0.000000^0
+919^sg_raceway_speedster02_red.agr^0^0.000000^^0^0^^1^0.000000^0
+920^sg_raceway_speedster01.adr^0^0.000000^^0^0^^1^0.000000^0
+921^sg_raceway_speedster02.adr^0^0.000000^^0^0^^1^0.000000^0
+922^wand_ar_ag_weapon_fancy.adr^99^0.000000^^0^0^^1^0.000000^0
+923^sg_chugawug_jug_03_blue.agr^0^0.000000^^0^0^^1^0.000000^0
+924^sg_chugawug_jug_03_green.agr^0^0.000000^^0^0^^1^0.000000^0
+925^sg_chugawug_jug_03_orange.agr^0^0.000000^^0^0^^1^0.000000^0
+926^sg_chugawug_jug_03_purple.agr^0^0.000000^^0^0^^1^0.000000^0
+927^sg_chugawug_jug_03_red.agr^0^0.000000^^0^0^^1^0.000000^0
+928^sg_dpo_flower_01_deepblue.agr^0^0.000000^^0^0^^1^0.000000^0
+929^sg_dpo_flower_01_orange.agr^0^0.000000^^0^0^^1^0.000000^0
+930^sg_dpo_flower_01_red.agr^0^0.000000^^0^0^^1^0.000000^0
+931^sg_dpo_flower_01_white.agr^0^0.000000^^0^0^^1^0.000000^0
+932^sg_dpo_flowiconer_01_yellow.agr^0^0.000000^^0^0^^1^0.000000^0
+940^sg_ktdm_crown_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+941^dog_small_pug.adr^10^0.000000^^1^0^small^1^0.000000^0
+942^cat_toyger.adr^15^0.000000^^1^0^shorthair^1^0.000000^0
+943^sg_icon_boost_tank_pickup_anim_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+944^sg_firecracker_01.adr^99^0.000000^^0^0^^1^0.000000^0
+945^human_m_ninja_ghost.adr^1^0.000000^^1^0^^1^0.000000^0
+946^sg_firecracker_box_01.adr^99^0.000000^^0^0^^1^0.000000^0
+947^env_icon_blackspore.adr^99^0.000000^^0^0^^1^0.000000^0
+948^env_icon_briarwood.adr^99^0.000000^^0^0^^1^0.000000^0
+949^env_icon_chugawug.adr^99^0.000000^^0^0^^1^0.000000^0
+950^env_icon_merryvale.adr^99^0.000000^^0^0^^1^0.000000^0
+951^env_icon_sanctuary.adr^99^0.000000^^0^0^^1^0.000000^0
+952^env_icon_seaside.adr^99^0.000000^^0^0^^1^0.000000^0
+953^env_icon_shrouded_glade.adr^99^0.000000^^0^0^^1^0.000000^0
+954^env_icon_snowhill.adr^99^0.000000^^0^0^^1^0.000000^0
+955^sword_ar_ag_weapon_fx.adr^99^0.000000^^0^0^^1^0.000000^0
+956^human_blackspore_miner_m_pickaxe.agr^1^0.000000^^1^0^^1^0.000000^0
+957^fairy_f_helena.agr^2^0.000000^^2^0^^1^0.000000^0
+958^fairy_f_merigold.agr^2^0.000000^^2^0^^1^0.000000^0
+959^fairy_m_auguste_frydaze.agr^2^0.000000^^1^0^^1^0.000000^0
+960^fairy_m_ricky_danger.agr^2^0.000000^^1^0^^1^0.000000^0
+961^human_f_caitlyn_gravefog.agr^1^0.000000^^2^0^^1^0.000000^0
+962^human_f_raina_rush.agr^1^0.000000^^2^0^^1^0.000000^0
+963^human_f_valerie.agr^1^0.000000^^2^0^^1^0.000000^0
+964^human_m_carlos_brazenfist.agr^1^0.000000^^1^0^^1^0.000000^0
+965^human_m_francis_panic.agr^1^0.000000^^1^0^^1^0.000000^0
+966^human_m_gerold.agr^1^0.000000^^1^0^^1^0.000000^0
+967^human_m_harold.agr^1^0.000000^^1^0^^1^0.000000^0
+968^human_m_racer_repair_guy.agr^1^0.000000^^1^0^^1^0.000000^0
+969^human_m_ranger_ricardo.agr^1^0.000000^^1^0^^1^0.000000^0
+970^human_m_seth_mcgrobie.agr^1^0.000000^^1^0^^1^0.000000^0
+971^fairy_m_chef_01.agr^2^0.000000^^1^0^^1^0.000000^0
+972^dog_large_floppy.adr^10^0.000000^^2^0^large^1^0.500000^0
+973^dog_large_pointy.adr^10^0.000000^^2^0^large^1^0.500000^0
+974^dog_large_shortears.adr^10^0.000000^^1^0^large^1^0.500000^0
+975^dog_small_floppy.adr^10^0.000000^^1^0^small^1^0.500000^0
+976^dog_small_pointy.adr^10^0.000000^^2^0^small^1^0.500000^0
+977^dog_large_dalmation.adr^10^0.000000^^2^0^large^1^0.500000^0
+978^dog_large_lab.adr^10^0.000000^^1^0^large^1^0.500000^0
+979^dog_small_pug.adr^10^0.000000^^2^0^small^1^0.000000^0
+980^dog_small_fluffy.adr^10^0.000000^^1^0^small^1^0.500000^0
+981^dog_large_floppy.adr^0^0.000000^^1^0^large^1^0.500000^0
+982^cat_toyger.adr^15^0.000000^^2^0^shorthair^1^0.000000^0
+983^cat_shorthair.adr^15^0.000000^^2^0^shorthair^1^0.500000^0
+984^cat_longhair.adr^15^0.000000^^1^0^longhair^1^0.500000^0
+985^cat_longhair_dragon.agr^0^0.000000^^0^0^^1^0.000000^0
+986^cat_longhair_hawaiian.agr^0^0.000000^^0^0^^1^0.000000^0
+987^cat_shorthair_panda.agr^0^0.000000^^0^0^^1^0.000000^0
+988^cat_shorthair_plaidsweater.agr^0^0.000000^^0^0^^1^0.000000^0
+989^dog_large_hawaiian.agr^0^0.000000^^0^0^^1^0.000000^0
+990^dog_large_largespikes.agr^0^0.000000^^0^0^^1^0.000000^0
+991^dog_large_stripedsweater.agr^0^0.000000^^0^0^^1^0.000000^0
+992^dog_small_bee.agr^0^0.000000^^0^0^^1^0.000000^0
+993^dog_small_ninja.agr^0^0.000000^^0^0^^1^0.000000^0
+994^human_m_brawler_01.agr^0^0.000000^^1^0^^1^0.000000^0
+995^human_m_warrior_01.agr^0^0.000000^^1^0^^1^0.000000^0
+996^sg_dpo_flower_01_yellow.agr^0^0.000000^^0^0^^1^0.000000^0
+997^sg_sign01_blacksmith.agr^0^0.000000^^0^0^^1^0.000000^0
+998^sg_sign01_corn.agr^0^0.000000^^0^0^^1^0.000000^0
+999^sg_sign01_dayspa.agr^0^0.000000^^0^0^^1^0.000000^0
+1000^sg_sign01_fisherman.agr^0^0.000000^^0^0^^1^0.000000^0
+1001^sg_sign01_mail_carrier.agr^0^0.000000^^0^0^^1^0.000000^0
+1002^sg_sign01_tavern.agr^0^0.000000^^0^0^^1^0.000000^0
+1003^sg_sign01_townhall.agr^0^0.000000^^0^0^^1^0.000000^0
+1004^sh_sign01_blacksmith.agr^0^0.000000^^0^0^^1^0.000000^0
+1005^sh_sign01_corn.agr^0^0.000000^^0^0^^1^0.000000^0
+1006^sh_sign01_dayspa.agr^0^0.000000^^0^0^^1^0.000000^0
+1007^sh_sign01_fisherman.agr^0^0.000000^^0^0^^1^0.000000^0
+1008^sh_sign01_tavern.agr^0^0.000000^^0^0^^1^0.000000^0
+1009^sh_sign01_townhall.agr^0^0.000000^^0^0^^1^0.000000^0
+1010^birds_raven_ghost.adr^9^0.000000^Ghost raven used in Mugwort's Hollow^0^0^^1^0.000000^0
+1011^snake_ghost.adr^9^0.000000^Ghost snake used in Mugwort's Hollow^0^0^^1^0.000000^0
+1012^toad_ghost.adr^9^0.000000^Ghost toad used in Mugwort's Hollow^0^0^^1^0.000000^0
+1013^cat_longhairghost.adr^15^0.000000^^1^0^longhair^1^0.500000^0
+1014^cat_shorthairghost.adr^15^0.000000^^1^0^shorthair^1^0.500000^0
+1015^cat_toygerghost.adr^15^0.000000^^1^0^shorthair^1^0.500000^0
+1016^chugawug_m_greenwood_soldierarcher_01.adr^0^0.000000^^1^0^^1^0.000000^0
+1017^dog_large_floppyghost.adr^10^0.000000^^1^0^large^1^0.500000^0
+1018^dog_large_pointyghost.adr^10^0.000000^^1^0^large^1^0.500000^0
+1019^dog_large_shortearsghost.adr^10^0.000000^^1^0^large^1^0.500000^0
+1020^dog_large_wiretailghost.adr^10^0.000000^^1^0^large^1^0.500000^0
+1021^dog_small_floppyghost.adr^10^0.000000^^1^0^small^1^0.500000^0
+1022^dog_small_fluffyghost.adr^10^0.000000^^1^0^small^1^0.500000^0
+1023^dog_small_pointyghost.adr^10^0.000000^^1^0^small^1^0.500000^0
+1024^dog_small_pugghost.adr^10^0.000000^^1^0^small^1^0.500000^0
+1025^faeriedrake.adr^0^0.000000^^0^0^^1^0.000000^0
+1026^graveelemental_m_ghost.adr^0^0.000000^^1^0^^1^0.000000^0
+1027^robgoblin_m_bobgoblin.adr^0^0.000000^^1^0^^1^0.000000^0
+1028^sg_dpo_mailbox_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1029^sh_table_wartable_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1030^ss_surfboard_stand_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1031^cat_longhairghost.adr^15^0.000000^^2^0^longhair^1^0.500000^0
+1032^cat_shorthairghost.adr^15^0.000000^^2^0^shorthair^1^0.500000^0
+1033^cat_toygerghost.adr^15^0.000000^^2^0^shorthair^1^0.500000^0
+1034^dog_large_floppyghost.adr^10^0.000000^^2^0^large^1^0.500000^0
+1035^dog_large_pointyghost.adr^10^0.000000^^2^0^large^1^0.500000^0
+1036^dog_large_shortearsghost.adr^10^0.000000^^2^0^large^1^0.500000^0
+1037^dog_large_wiretailghost.adr^10^0.000000^^2^0^large^1^0.500000^0
+1038^dog_small_floppyghost.adr^10^0.000000^^2^0^small^1^0.500000^0
+1039^dog_small_fluffyghost.adr^10^0.000000^^2^0^small^1^0.500000^0
+1040^dog_small_pointyghost.adr^10^0.000000^^2^0^small^1^0.500000^0
+1041^dog_small_pugghost.adr^10^0.000000^^2^0^small^1^0.500000^0
+1042^dog_large_gizmo.agr^0^0.000000^^0^0^^1^0.000000^0
+1043^dog_large_spooky.agr^0^0.000000^^0^0^^1^0.000000^0
+1044^dog_large_spot.agr^0^0.000000^^0^0^^1^0.000000^0
+1045^dog_large_vince.agr^0^0.000000^^0^0^^1^0.000000^0
+1046^dog_small_moxy.agr^0^0.000000^^0^0^^1^0.000000^0
+1047^dog_small_trooper.agr^0^0.000000^^0^0^^1^0.000000^0
+1048^sg_fishing_boat.adr^99^0.000000^^0^0^^1^0.000000^0
+1049^sg_fishing_boat_oar_02.adr^99^0.000000^^0^0^^1^0.000000^0
+1050^bw_cart_ransacked_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1051^fairy_m_feldman.agr^2^0.000000^^1^0^^1^0.000000^0
+1052^gl_roses_tintable_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1053^sg_trash_candy_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1054^dwarf_m_blacksporethiefghost.adr^0^0.000000^^1^0^^1^0.000000^0
+1055^fairy_m_frostflutter_ghost.adr^0^0.000000^^1^0^^1^0.000000^0
+1056^invisible_cube_with_skeleton.adr^0^0.000000^^0^0^^1^0.000000^0
+1057^sg_dares_instruments_amp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1058^sg_dares_instruments_amp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1059^human_m_daresben.adr^0^0.000000^^1^0^^1^0.000000^0
+1060^human_m_daresmartin.adr^0^0.000000^^1^0^^1^0.000000^0
+1061^human_m_daresmatt.adr^0^0.000000^^1^0^^1^0.000000^0
+1062^bw_boombox_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1063^fishing_bobber_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+1064^fish_bbe.adr^99^0.000000^^0^0^^1^0.000000^0
+1065^ss_sandcastle_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1066^mkt_sandcastle_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1067^fairy_f_autumn_mistflower.agr^2^0.000000^^2^0^^1^0.000000^0
+1068^human_m_justin_roderic.agr^1^0.000000^^1^0^^1^0.000000^0
+1069^human_f_audrye_jean.agr^1^0.000000^^2^0^^1^0.000000^0
+1070^human_f_michelle_mundy.agr^1^0.000000^^2^0^^1^0.000000^0
+1071^human_f_shibumi_shi.agr^1^0.000000^^2^0^^1^0.000000^0
+1072^fairy_m_narbo_amar.agr^2^0.000000^^1^0^^1^0.000000^0
+1073^freestyle_human_m_head_motorcyclehelmetplain.adr^99^0.000000^^1^0^^1^0.000000^0
+1074^mkt_fireworks_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1075^mkt_baitbucket_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1076^sg_car_crystals_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1077^sg_carkeys_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1078^sg_racecar_antonio_taurino_01.adr^99^0.000000^Antonio Taurino's Kart^0^0^^1^0.000000^0
+1079^sg_racecar_linx_01.adr^99^0.000000^Linx Redline's Kart^0^0^^1^0.000000^0
+1080^sg_racecar_pirate_flames_01.adr^99^0.000000^Generic (tintable) Kart^0^0^^1^0.000000^0
+1081^sg_racecar_samuel_bunker_01.adr^99^0.000000^Samuel Bunker's Kart^0^0^^1^0.000000^0
+1082^sg_racecar_striped_01.adr^99^0.000000^Chase Wheeler's Kart^0^0^^1^0.000000^0
+1083^sg_carparts_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1084^human_m_soccerblue.agr^1^0.000000^^1^0^^1^0.000000^0
+1085^human_m_soccerred.agr^1^0.000000^^1^0^^1^0.000000^0
+1086^sh_cart_fair_vendor_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1087^dynamite.adr^99^0.000000^^0^0^^1^0.000000^0
+1088^kt_stripes_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1089^kt_lightning_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1090^kt_flower_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1091^kt_hotrod_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1092^kt_scraper_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1093^kt_claw_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1094^kt_pirate_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1095^kt_cutter_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1096^kt_dragon_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1097^kt_card_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1098^kt_stripes_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1099^kt_lightning_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1100^kt_flower_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1101^kt_hotrod_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1102^kt_scraper_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1103^kt_claw_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1104^kt_pirate_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1105^kt_cutter_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1106^kt_dragon_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1107^kt_card_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1108^kt_stripes_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1109^kt_lightning_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1110^kt_flower_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1111^kt_hotrod_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1112^kt_scraper_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1113^kt_claw_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1114^kt_pirate_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1115^kt_cutter_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1116^kt_dragon_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1117^kt_card_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1118^kt_stripes_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1119^kt_lightning_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1120^kt_flower_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1121^kt_hotrod_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1122^kt_scraper_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1123^kt_claw_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1124^kt_pirate_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1125^kt_cutter_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1126^kt_dragon_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1127^kt_card_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1128^dm_stripes_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1129^dm_lightning_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1130^dm_flower_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1131^dm_hotrod_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1132^dm_scraper_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1133^dm_claw_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1134^dm_pirate_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1135^dm_cutter_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1136^dm_dragon_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1137^dm_card_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1138^dm_stripes_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1139^dm_lightning_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1140^dm_flower_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1141^dm_hotrod_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1142^dm_scraper_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1143^dm_claw_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1144^dm_pirate_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1145^dm_cutter_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1146^dm_dragon_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1147^dm_card_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1148^dm_stripes_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1149^dm_lightning_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1150^dm_flower_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1151^dm_hotrod_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1152^dm_scraper_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1153^dm_claw_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1154^dm_pirate_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1155^dm_cutter_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1156^dm_dragon_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1157^dm_card_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1158^dm_stripes_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1159^dm_lightning_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1160^dm_flower_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1161^dm_hotrod_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1162^dm_scraper_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1163^dm_claw_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1164^dm_pirate_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1165^dm_cutter_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1166^dm_dragon_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1167^dm_card_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1168^dm_stripes_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1169^dm_lightning_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1170^dm_flower_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1171^dm_hotrod_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1172^dm_scraper_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1173^dm_claw_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1174^dm_pirate_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1175^dm_cutter_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1176^dm_dragon_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1177^dm_card_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1178^kt_stripes_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1179^kt_lightning_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1180^kt_flower_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1181^kt_hotrod_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1182^kt_scraper_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1183^kt_claw_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1184^kt_pirate_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1185^kt_cutter_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1186^kt_dragon_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1187^kt_card_spoiler_speedster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1188^kt_stripes_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1189^kt_lightning_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1190^kt_flower_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1191^kt_hotrod_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1192^kt_scraper_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1193^kt_claw_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1194^kt_pirate_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1195^kt_cutter_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1196^kt_dragon_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1197^kt_card_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1198^kt_stripes_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1199^kt_lightning_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1200^kt_flower_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1201^kt_hotrod_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1202^kt_scraper_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1203^kt_claw_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1204^kt_pirate_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1205^kt_cutter_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1206^kt_dragon_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1207^kt_card_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1208^eng_stripes_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1209^eng_lightning_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1210^eng_flower_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1211^eng_hotrod_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1212^eng_scraper_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1213^eng_claw_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1214^eng_pirate_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1215^eng_cutter_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1216^eng_dragon_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1217^eng_card_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1218^kt_eng_stripes_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1219^kt_eng_lightning_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1220^kt_eng_flower_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1221^kt_eng_hotrod_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1222^kt_eng_scraper_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1223^kt_eng_claw_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1224^kt_eng_pirate_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1225^kt_eng_cutter_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1226^kt_eng_dragon_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1227^kt_eng_card_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1228^ktdm_eng_stripes_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1229^ktdm_eng_lightning_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1230^ktdm_eng_flower_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1231^ktdm_eng_hotrod_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1232^ktdm_eng_scraper_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1233^ktdm_eng_claw_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1234^ktdm_eng_pirate_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1235^ktdm_eng_cutter_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1236^ktdm_eng_dragon_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1237^ktdm_eng_card_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1238^kt_eng_stripes_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1239^kt_eng_lightning_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1240^kt_eng_stripes_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1241^kt_eng_hotrod_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1242^kt_eng_scraper_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1243^kt_eng_claw_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1244^kt_eng_pirate_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1245^kt_eng_cutter_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1246^kt_eng_dragon_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1247^kt_eng_card_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1248^dm_eng_stripes_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1249^dm_eng_lightning_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1250^dm_eng_flower_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1251^dm_eng_hotrod_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1252^dm_eng_scraper_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1253^dm_eng_claw_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1254^dm_eng_pirate_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1255^dm_eng_cutter_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1256^dm_eng_dragon_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1257^dm_eng_card_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1258^dm_eng_stripes_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1259^dm_eng_lightning_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1260^dm_eng_stripes_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1261^dm_eng_hotrod_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1262^dm_eng_scraper_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1263^dm_eng_claw_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1264^dm_eng_pirate_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1265^dm_eng_cutter_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1266^dm_eng_dragon_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1267^dm_eng_card_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1268^kt_kart07_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1269^kt_kart07_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1270^kt_kart07_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1271^kt_kart07_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1272^kt_kart07_hood_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1273^kt_kart07_spoiler_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1274^kt_kart07_body_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1275^kt_kart08_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1276^kt_kart08_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1277^kt_kart08_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1278^kt_kart08_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1279^kt_kart08_hood_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1280^kt_kart08_spoiler_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1281^kt_kart08_body_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1282^kt_eng_enginebase_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1283^ktdm_steeringwheel_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1284^dm_eng_enginebase_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1285^sg_3fish_trout_6meter.adr^0^0.000000^^0^0^^1^0.000000^0
+1286^sg_3fish_trout_med_3meter.adr^0^0.000000^^0^0^^1^0.000000^0
+1287^sg_3fish_trout_med_6meter.adr^0^0.000000^^0^0^^1^0.000000^0
+1288^sg_3fish_trout_med_9meter.adr^0^0.000000^^0^0^^1^0.000000^0
+1289^cat_shorthair_mannequin.adr^15^0.000000^^1^0^shorthair^1^0.000000^0
+1290^dog_large_mannequin.adr^10^0.000000^^1^0^large^1^0.000000^0
+1291^sg_firecracker_no_col_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1292^fairy_f_professor_rosenstem.agr^0^0.000000^^2^0^^1^0.000000^0
+1293^fairy_f_professor_rosenstem_incar.agr^0^0.000000^^2^0^^1^0.000000^0
+1294^fairy_f_racecardriver_01.agr^0^0.000000^^2^0^^1^0.000000^0
+1295^fairy_f_racecardriver_02.agr^0^0.000000^^2^0^^1^0.000000^0
+1296^fairy_f_willow_slamdash.agr^0^0.000000^^2^0^^1^0.000000^0
+1297^fairy_f_willow_slamdash_incar.agr^0^0.000000^^2^0^^1^0.000000^0
+1298^fairy_m_jace_wildwheel.agr^0^0.000000^^1^0^^1^0.000000^0
+1299^fairy_m_jace_wildwheel_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1300^fairy_m_linx_redline.agr^0^0.000000^^1^0^^1^0.000000^0
+1301^fairy_m_linx_redline_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1302^fairy_m_pit_boss_buck.agr^0^0.000000^^1^0^^1^0.000000^0
+1303^fairy_m_pit_boss_buck_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1304^fairy_m_racecardriver_01.agr^0^0.000000^^1^0^^1^0.000000^0
+1305^fairy_m_racecardriver_02.agr^0^0.000000^^1^0^^1^0.000000^0
+1306^fairy_m_sir_horace.agr^0^0.000000^^1^0^^1^0.000000^0
+1307^fairy_m_sir_horace_formal.agr^0^0.000000^^1^0^^1^0.000000^0
+1308^fairy_m_sir_horace_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1309^human_f_cora_caffeine.agr^0^0.000000^^2^0^^1^0.000000^0
+1310^human_f_cora_caffeine_incar.agr^0^0.000000^^2^0^^1^0.000000^0
+1311^human_f_erica_diggs.agr^0^0.000000^^2^0^^1^0.000000^0
+1312^human_f_erica_diggs_incar.agr^0^0.000000^^2^0^^1^0.000000^0
+1313^human_f_polly_caffeine.agr^0^0.000000^^2^0^^1^0.000000^0
+1314^human_f_polly_caffeine_incar.agr^0^0.000000^^2^0^^1^0.000000^0
+1315^human_f_racecardriver_01.agr^0^0.000000^^2^0^^1^0.000000^0
+1316^human_f_racecardriver_02.agr^0^0.000000^^2^0^^1^0.000000^0
+1317^human_m_chase_wheeler.agr^0^0.000000^^1^0^^1^0.000000^0
+1318^human_m_chase_wheeler_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1319^human_m_claudio_demarco.agr^0^0.000000^^1^0^^1^0.000000^0
+1320^human_m_claudio_demarco_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1321^human_m_jp_screecher.agr^0^0.000000^^1^0^^1^0.000000^0
+1322^human_m_jp_screecher_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1323^human_m_mad_jack_01.agr^0^0.000000^^1^0^^1^0.000000^0
+1324^human_m_mad_jack_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1325^human_m_nash_wright.agr^0^0.000000^^1^0^^1^0.000000^0
+1326^human_m_nash_wright_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1327^human_m_racecardriver_01.agr^0^0.000000^^1^0^^1^0.000000^0
+1328^human_m_racecardriver_02.agr^0^0.000000^^1^0^^1^0.000000^0
+1329^human_m_reporter.agr^0^0.000000^^1^0^^1^0.000000^0
+1330^human_m_samuel_bunker.agr^0^0.000000^^1^0^^1^0.000000^0
+1331^human_m_samuel_bunker_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1332^human_m_the_ghost.agr^0^0.000000^^1^0^^1^0.000000^0
+1333^human_m_the_ghost_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1334^human_m_tucker_thunderjolt.agr^0^0.000000^^1^0^^1^0.000000^0
+1335^human_m_tucker_thunderjolt_incar.agr^0^0.000000^^1^0^^1^0.000000^0
+1336^rocklar_peon_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1337^sg_car_crystals_blue_01.agr^0^0.000000^^0^0^^1^0.000000^0
+1338^sg_car_crystals_green_01.agr^0^0.000000^^0^0^^1^0.000000^0
+1339^tarantula_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1340^tarantula_baby_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1341^human_f_mannequin_antiquedivesuit.agr^0^0.000000^^2^0^^1^0.000000^0
+1342^human_f_mannequin_archer_skull.agr^0^0.000000^^2^0^^1^0.000000^0
+1343^human_f_mannequin_archer_spiderweb.agr^0^0.000000^^2^0^^1^0.000000^0
+1344^human_f_mannequin_astronaut_snow.agr^0^0.000000^^2^0^^1^0.000000^0
+1345^human_f_mannequin_blacksmith_chainmail.agr^0^0.000000^^2^0^^1^0.000000^0
+1346^human_f_mannequin_brawler_flamesbikerhelm.agr^0^0.000000^^2^0^^1^0.000000^0
+1347^human_f_mannequin_chef_flames.agr^0^0.000000^^2^0^^1^0.000000^0
+1348^human_f_mannequin_chef_sushi.agr^0^0.000000^^2^0^^1^0.000000^0
+1349^human_f_mannequin_demoderby_skullhelm.agr^0^0.000000^^2^0^^1^0.000000^0
+1350^human_f_mannequin_kartracer_skullhelm.agr^0^0.000000^^2^0^^1^0.000000^0
+1351^human_f_mannequin_medic_boombox.agr^0^0.000000^^2^0^^1^0.000000^0
+1352^human_f_mannequin_medic_skybluecamo.agr^0^0.000000^^2^0^^1^0.000000^0
+1353^human_f_mannequin_miner_manlyhat.agr^0^0.000000^^2^0^^1^0.000000^0
+1354^human_f_mannequin_ninja_hornedmask.agr^0^0.000000^^2^0^^1^0.000000^0
+1355^human_f_mannequin_postman_ropejacket.agr^0^0.000000^^2^0^^1^0.000000^0
+1356^human_f_mannequin_tuxedo_charcoal.agr^0^0.000000^^2^0^^1^0.000000^0
+1357^human_f_mannequin_tuxedo_timberwolf.agr^0^0.000000^^2^0^^1^0.000000^0
+1358^human_f_mannequin_warrior_skeletaltunic.agr^0^0.000000^^2^0^^1^0.000000^0
+1359^human_f_mannequin_wienersuit.agr^0^0.000000^^2^0^^1^0.000000^0
+1360^human_f_mannequin_wizard_beastcloak.agr^0^0.000000^^2^0^^1^0.000000^0
+1361^human_f_mannequin_wizard_layercloak.agr^0^0.000000^^2^0^^1^0.000000^0
+1362^human_m_mannequin_archer_skull.agr^0^0.000000^^1^0^^1^0.000000^0
+1363^human_m_mannequin_archer_spiderweb.agr^0^0.000000^^1^0^^1^0.000000^0
+1364^human_m_mannequin_blacksmith_chainmail.agr^0^0.000000^^1^0^^1^0.000000^0
+1365^human_m_mannequin_brawler_flamesbikerhelm.agr^0^0.000000^^1^0^^1^0.000000^0
+1366^human_m_mannequin_chef_flames.agr^0^0.000000^^1^0^^1^0.000000^0
+1367^human_m_mannequin_chef_sushi.agr^0^0.000000^^1^0^^1^0.000000^0
+1368^human_m_mannequin_demoderby_skullhelm.agr^0^0.000000^^1^0^^1^0.000000^0
+1369^human_m_mannequin_divingsuit.agr^0^0.000000^^1^0^^1^0.000000^0
+1370^human_m_mannequin_kartracer_skullhelm.agr^0^0.000000^^1^0^^1^0.000000^0
+1371^human_m_mannequin_medic_boombox.agr^0^0.000000^^1^0^^1^0.000000^0
+1372^human_m_mannequin_medic_skybluecamo.agr^0^0.000000^^1^0^^1^0.000000^0
+1373^human_m_mannequin_miner_manlyhat.agr^0^0.000000^^1^0^^1^0.000000^0
+1374^human_m_mannequin_ninja_hornedmask.agr^0^0.000000^^1^0^^1^0.000000^0
+1375^human_m_mannequin_postman_ropejacket.agr^0^0.000000^^1^0^^1^0.000000^0
+1376^human_m_mannequin_spacesuit.agr^0^0.000000^^1^0^^1^0.000000^0
+1377^human_m_mannequin_tuxedo_charcoal.agr^0^0.000000^^1^0^^1^0.000000^0
+1378^human_m_mannequin_tuxedo_timberwolf.agr^0^0.000000^^1^0^^1^0.000000^0
+1379^human_m_mannequin_warrior_skeletaltunic.agr^0^0.000000^^1^0^^1^0.000000^0
+1380^human_m_mannequin_wienersuit.agr^0^0.000000^^1^0^^1^0.000000^0
+1381^human_m_mannequin_wizard_beastcloak.agr^0^0.000000^^1^0^^1^0.000000^0
+1382^human_m_mannequin_wizard_layercloak.agr^0^0.000000^^1^0^^1^0.000000^0
+1383^sg_garage_toolbox_02.adr^99^0.000000^^0^0^^1^0.000000^0
+1384^sg_bomb_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1385^meatball.adr^0^0.000000^^0^0^^1^0.000000^0
+1386^cloudy_meatball_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1387^cloudy_donut_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1388^ktdm_eng_usa_topgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1389^kt_eng_usa_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1390^kt_eng_usa_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1391^kt_usa_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1392^kt_usa_spoiler_zipster_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1393^kt_usa_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1394^kt_usa_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1395^kt_usa_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1396^kt_usa_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1397^dm_eng_usa_bottle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1398^eng_usa_crystal_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1399^dm_usa_exhaust_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1400^dm_eng_usa_frontgear_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1401^dm_usa_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1402^dm_usa_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1403^dm_usa_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1404^dm_usa_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1405^cloudy_cheeseburger_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1406^dog_large_doberman.adr^10^0.000000^^1^0^large^1^0.500000^0
+1407^fairy_f_goalbuster_teammate01.agr^2^0.000000^^2^0^^1^0.000000^0
+1408^fairy_f_goalster_deedee.agr^2^0.000000^^2^0^^1^0.000000^0
+1409^fairy_f_goalster_deedee_soccer.agr^2^0.000000^^2^0^^1^0.000000^0
+1410^fairy_f_merchant_shiny_straightshot.agr^0^0.000000^^2^0^^1^0.000000^0
+1411^fairy_f_merchant_yia.agr^0^0.000000^^2^0^^1^0.000000^0
+1412^fairy_f_snowspurs_teammate02.agr^2^0.000000^^2^0^^1^0.000000^0
+1413^fairy_f_twinkletoes_goalie.agr^2^0.000000^^2^0^^1^0.000000^0
+1414^fairy_m_bobo_flamingfoot.agr^2^0.000000^^1^0^^1^0.000000^0
+1415^fairy_m_bobo_flamingfoot_soccer.agr^2^0.000000^^1^0^^1^0.000000^0
+1416^fairy_m_cheetahs_teammate03.agr^2^0.000000^^1^0^^1^0.000000^0
+1417^fairy_m_fabio_fancyfeet.agr^2^0.000000^^1^0^^1^0.000000^0
+1418^fairy_m_mudhoppers_goalie.agr^2^0.000000^^1^0^^1^0.000000^0
+1419^fairy_m_twinkletoes_teammate01.agr^2^0.000000^^1^0^^1^0.000000^0
+1420^human_f_blackwidows_goalie.agr^1^0.000000^^2^0^^1^0.000000^0
+1421^human_f_blackwidows_teammate01.agr^1^0.000000^^2^0^^1^0.000000^0
+1422^human_f_cheetahs_teammate01.agr^1^0.000000^^2^0^^1^0.000000^0
+1423^human_f_francesca_theinvincible.agr^1^0.000000^^2^0^^1^0.000000^0
+1424^human_f_goalbuster_teammate02.agr^1^0.000000^^2^0^^1^0.000000^0
+1425^human_f_mudhoppers_teammate02.agr^1^0.000000^^2^0^^1^0.000000^0
+1426^human_f_snowspurs_teammate01.agr^1^0.000000^^2^0^^1^0.000000^0
+1427^human_m_bigs_mckicker.agr^1^0.000000^^1^0^^1^0.000000^0
+1428^human_m_bigs_mckicker_soccer.agr^1^0.000000^^1^0^^1^0.000000^0
+1429^human_m_blackwidows_teammate02.agr^1^0.000000^^1^0^^1^0.000000^0
+1430^human_m_cheetahs_goalie.agr^1^0.000000^^1^0^^1^0.000000^0
+1431^human_m_cheetahs_teammate02.agr^1^0.000000^^1^0^^1^0.000000^0
+1432^human_m_dimitri_fastcannon.agr^1^0.000000^^1^0^^1^0.000000^0
+1433^human_m_goalbuster_goalie.agr^1^0.000000^^1^0^^1^0.000000^0
+1434^human_m_ironfoot_ronnie.agr^1^0.000000^^1^0^^1^0.000000^0
+1435^human_m_mudhoppers_teammate01.agr^1^0.000000^^1^0^^1^0.000000^0
+1436^human_m_snowspurs_goalie.agr^1^0.000000^^1^0^^1^0.000000^0
+1437^human_m_twinkletoes_teammate02.agr^1^0.000000^^1^0^^1^0.000000^0
+1438^human_m_waldo_sidewinder.agr^1^0.000000^^1^0^^1^0.000000^0
+1439^rocklar_m_underbiteboss.adr^0^0.000000^^1^0^^1^0.000000^0
+1440^rocklar_m_warrior.adr^0^0.000000^^1^0^^1^0.000000^0
+1441^sg_pizza_dpo_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1442^penguin_babymindcontrol.adr^0^0.000000^^0^0^^1^0.000000^0
+1443^sg_fishing_pole_01_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1444^kt_kart07_body_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1445^kt_kart08_body_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1446^kt_kart07_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1447^kt_kart07_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1448^kt_kart07_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1449^kt_kart07_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1450^kt_kart08_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1451^kt_kart08_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1452^kt_kart08_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1453^kt_kart08_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1454^dog_large_husky.adr^10^0.000000^^0^0^large^1^0.000000^0
+1455^dog_small_pinscher.adr^0^0.000000^^0^0^^1^0.000000^0
+1456^human_m_coach_eddie.agr^1^0.000000^^1^0^^1^0.000000^0
+1457^human_m_manager_landon.agr^0^0.000000^^1^0^^1^0.000000^0
+1458^sg_sccr_charge_jersey_pile_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1459^sg_sccr_wing_trophy_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1460^cloudy_cherry_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1461^freestyle_fairy_f_birthday_01.agr^0^0.000000^^0^0^^1^0.000000^0
+1462^freestyle_fairy_f_birthday_02.agr^0^0.000000^^0^0^^1^0.000000^0
+1463^freestyle_fairy_f_birthday_03.agr^0^0.000000^^0^0^^1^0.000000^0
+1464^freestyle_fairy_f_birthday_04.agr^0^0.000000^^0^0^^1^0.000000^0
+1465^freestyle_fairy_f_birthday_05.agr^0^0.000000^^0^0^^1^0.000000^0
+1466^freestyle_fairy_f_birthday_06.agr^0^0.000000^^0^0^^1^0.000000^0
+1467^freestyle_fairy_f_birthday_07.agr^0^0.000000^^0^0^^1^0.000000^0
+1468^freestyle_fairy_f_birthday_08.agr^0^0.000000^^0^0^^1^0.000000^0
+1469^freestyle_fairy_m_birthday_01.agr^0^0.000000^^0^0^^1^0.000000^0
+1470^freestyle_fairy_m_birthday_02.agr^0^0.000000^^0^0^^1^0.000000^0
+1471^freestyle_fairy_m_birthday_03.agr^0^0.000000^^0^0^^1^0.000000^0
+1472^freestyle_fairy_m_birthday_04.agr^0^0.000000^^0^0^^1^0.000000^0
+1473^freestyle_fairy_m_birthday_05.agr^0^0.000000^^0^0^^1^0.000000^0
+1474^freestyle_fairy_m_birthday_06.agr^0^0.000000^^0^0^^1^0.000000^0
+1475^freestyle_fairy_m_birthday_07.agr^0^0.000000^^0^0^^1^0.000000^0
+1476^freestyle_fairy_m_birthday_08.agr^0^0.000000^^0^0^^1^0.000000^0
+1477^freestyle_human_m_birthday_01.agr^0^0.000000^^0^0^^1^0.000000^0
+1478^freestyle_human_m_birthday_02.agr^0^0.000000^^0^0^^1^0.000000^0
+1479^freestyle_human_m_birthday_03.agr^0^0.000000^^0^0^^1^0.000000^0
+1480^freestyle_human_m_birthday_04.agr^0^0.000000^^0^0^^1^0.000000^0
+1481^freestyle_human_m_birthday_05.agr^0^0.000000^^0^0^^1^0.000000^0
+1482^freestyle_human_m_birthday_06.agr^0^0.000000^^0^0^^1^0.000000^0
+1483^freestyle_human_m_birthday_07.agr^0^0.000000^^0^0^^1^0.000000^0
+1484^freestyle_human_m_birthday_08.agr^0^0.000000^^0^0^^1^0.000000^0
+1485^freestyle_human_f_birthday_01.agr^0^0.000000^^0^0^^1^0.000000^0
+1486^freestyle_human_f_birthday_02.agr^0^0.000000^^0^0^^1^0.000000^0
+1487^freestyle_human_f_birthday_03.agr^0^0.000000^^0^0^^1^0.000000^0
+1488^freestyle_human_f_birthday_04.agr^0^0.000000^^0^0^^1^0.000000^0
+1489^freestyle_human_f_birthday_05.agr^0^0.000000^^0^0^^1^0.000000^0
+1490^freestyle_human_f_birthday_06.agr^0^0.000000^^0^0^^1^0.000000^0
+1491^freestyle_human_f_birthday_07.agr^0^0.000000^^0^0^^1^0.000000^0
+1492^freestyle_human_f_birthday_08.agr^0^0.000000^^0^0^^1^0.000000^0
+1561^cat_shorthair_comicbook_morningstar.agr^0^0.000000^^0^0^^1^0.000000^0
+1562^dog_large_comicbook_loki.agr^0^0.000000^^0^0^^1^0.000000^0
+1563^human_m_comicbook_dane.agr^0^0.000000^^1^0^^1^0.000000^0
+1564^fairy_f_comicbook_maya.agr^0^0.000000^^2^0^^1^0.000000^0
+1565^sg_fish_catch_bbe.ADR^0^0.000000^^0^0^^1^0.000000^0
+1566^bear_m_druid.adr^0^0.000000^^1^0^^1^0.000000^0
+1567^gw_spawner_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1568^human_f_estherthebrain.adr^0^0.000000^^2^0^^1^0.000000^0
+1569^human_m_dominique_the_brawn.agr^0^0.000000^^1^0^^1^0.000000^0
+1570^sg_mannequin_ripper_dragon_raincloud.adr^0^0.000000^^0^0^^1^0.000000^0
+1571^cloudy_celery_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1572^cloudy_corn_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1573^cloudy_strawberry_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1574^sv_cactus_beavertail_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1575^fairy_f_cloudy_guide.agr^0^0.000000^^2^0^^1^0.000000^0
+1576^gw_scrap_pile_04.adr^0^0.000000^^0^0^^1^0.000000^0
+1577^dwarf_m_edwingoldstory.adr^0^0.000000^^1^0^^1^0.000000^0
+1578^sv_angry_cactus_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1579^gw_precursor_artifact_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1580^milk_cow.adr^32^0.000000^Black and white cow^0^0^^1^0.000000^0
+1581^human_m_mudhoppers_goalie.agr^1^0.000000^^1^0^^1^0.000000^0
+1582^human_f_twinkletoes_goalie.agr^1^0.000000^^2^0^^1^0.000000^0
+1583^fairy_f_fisherman_04.agr^2^0.000000^^2^0^^1^0.000000^0
+1584^fairy_f_lila_darklure.agr^2^0.000000^^2^0^^1^0.000000^0
+1585^fairy_m_chip_numbwing.agr^2^0.000000^^1^0^^1^0.000000^0
+1586^fairy_m_ernest_mcscuttle.agr^2^0.000000^^1^0^^1^0.000000^0
+1587^fairy_m_fisherman_03.agr^2^0.000000^^1^0^^1^0.000000^0
+1588^human_f_fisherman_02.agr^1^0.000000^^2^0^^1^0.000000^0
+1589^human_m_capn_sigmundr.agr^1^0.000000^^1^0^^1^0.000000^0
+1590^human_m_fisherman_01.agr^1^0.000000^^1^0^^1^0.000000^0
+1591^human_f_goalster_deedee.agr^1^0.000000^^2^0^^1^0.000000^0
+1592^human_f_goalster_deedee_soccer.agr^1^0.000000^^2^0^^1^0.000000^0
+1593^fairy_m_selvi_slowreel.agr^0^0.000000^^1^0^^1^0.000000^0
+1594^fairy_m_reed_stillwater.agr^0^0.000000^^1^0^^1^0.000000^0
+1595^human_f_anna_mudskipper.agr^0^0.000000^^2^0^^1^0.000000^0
+1596^sg_2fish_trout_big_3meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1597^sg_2fish_trout_big_6meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1598^sg_2fish_trout_big_9meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1599^sg_2fish_trout_big_12meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1600^sg_2fish_trout_biggest_3meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1601^sg_2fish_trout_biggest_6meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1602^sg_2fish_trout_biggest_9meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1603^sg_2fish_trout_biggest_12meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1604^sg_2fish_trout_med_3meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1605^sg_2fish_trout_med_6meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1606^sg_2fish_trout_med_9meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1607^sg_2fish_trout_med_12meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1608^sg_3fish_trout_big_3meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1609^sg_3fish_trout_big_6meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1610^sg_3fish_trout_big_9meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1611^sg_3fish_trout_big_12meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1612^sg_3fish_trout_biggest_3meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1613^sg_3fish_trout_biggest_6meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1614^sg_3fish_trout_biggest_9meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1615^sg_3fish_trout_biggest_12meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1616^sg_3fish_trout_med_3meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1617^sg_3fish_trout_med_6meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1618^sg_3fish_trout_med_9meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1619^sg_3fish_trout_med_12meter.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1620^sg_fish_catch_large_bbe.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1621^sg_fish_catch_medium_bbe.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1622^sg_fish_catch_xlarge_bbe.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1623^sg_fish_catch_small_bbe.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1624^sg_fishing_treasure_chest_bbe.adr^0^0.000000^fishing models^0^0^^1^0.000000^0
+1625^sg_collection_node_soccer_01.adr^0^0.000000^Soccer Collection Node^0^0^^1^0.000000^0
+1626^sg_collection_node_soccer_rare_01.agr^0^0.000000^Soccer Collection Node^0^0^^1^0.000000^0
+1627^gw_scrap_pile_03.adr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1628^sv_motorcycle_parts_01.adr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1629^gw_soda_crate_01.adr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1630^sv_broken_bottles_01.adr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1631^sv_bucket_01.agr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1632^sv_tumbleweeds_01_still.adr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1633^sv_cactus_barrel_01.adr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1634^sv_dirt_pile_01.agr^0^0.000000^sunstone valley quest object^0^0^^1^0.000000^0
+1635^gw_cage_fighter_arena_trap_01.adr^99^0.000000^rumbledome floor trap^0^0^^1^0.000000^0
+1636^gw_cage_fighter_arena_trap_02.adr^99^0.000000^rumbledome floor trap^0^0^^1^0.000000^0
+1637^gw_cage_fighter_arena_trap_03.adr^99^0.000000^rumbledome floor trap^0^0^^1^0.000000^0
+1638^dwarf_m_bikerthug_boss.adr^14^0.000000^^1^0^^1^0.000000^0
+1639^dwarf_m_biker.adr^14^0.000000^^1^0^^1^0.000000^0
+1640^dwarf_m_bikerthug.adr^14^0.000000^^1^0^^1^0.000000^0
+1641^sg_fishing_bobber01_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1642^sg_fishing_bobber02_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1643^sg_fishing_bobber03_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1644^sg_fishing_bobber04_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1645^sg_fishing_bobber05_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1646^5m_crate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1647^gw_cage_fighter_arena_door_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1648^toad_black.adr^0^0.000000^^0^0^^1^0.000000^0
+1649^kt_kart09_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1650^kt_kart09_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1651^kt_kart09_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1652^kt_kart09_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1653^kt_kart09_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1654^kt_kart10_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1655^kt_kart10_frtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1656^kt_kart10_fltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1657^kt_kart10_brtire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1658^kt_kart10_bltire_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1659^dog_large_doberman.adr^10^0.000000^^2^0^large^1^0.500000^0
+1660^human_m_tyrone_shadowshard.agr^0^0.000000^^1^0^^1^0.000000^0
+1661^mkt_boombox_ghettoblaster_01.adr^0^0.000000^TCG Boombox^0^0^^1^0.000000^0
+1662^ss_pir_bronze_chest.adr^0^0.000000^^0^0^^1^0.000000^0
+1663^ss_pir_gold_chest.adr^0^0.000000^^0^0^^1^0.000000^0
+1664^ss_pir_silver_chest.adr^0^0.000000^^0^0^^1^0.000000^0
+1665^ss_pir_repair_pickup_bbe.adr^0^0.000000^Pirates repair pickup^0^0^^1^0.000000^0
+1666^sg_cannonball_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1667^crab_m_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+1668^pumpkin_projectile.adr^99^0.000000^^0^0^^1^0.000000^0
+1669^toad_purple.adr^26^0.000000^Purple toad duplicate for a tcg item^0^0^^1^0.000000^0
+1670^fishing_thin_fish_bbe.adr^0^0.000000^fish for under-water minigame^0^0^^1^0.000000^0
+1671^fishing_medium_fish_bbe.adr^0^0.000000^fish for under-water minigame^0^0^^1^0.000000^0
+1672^fishing_fat_fish_bbe.adr^0^0.000000^fish for under-water minigame^0^0^^1^0.000000^0
+1673^sg_fishing_lure_bbe.adr^0^0.000000^in-world fishing lure^0^0^^1^0.000000^0
+1674^ss_pir_rapid_fire_pickup_bbe.adr^0^0.000000^Pirates rapid fire pickup^0^0^^1^0.000000^0
+1675^ss_pir_speed_pickup_bbe.adr^0^0.000000^Pirates speed pickup^0^0^^1^0.000000^0
+1676^cactusgiant_m.adr^0^0.000000^^0^0^^1^0.000000^0
+1677^gw_precursor_artifact_01_dias.adr^0^0.000000^^0^0^^1^0.000000^0
+1678^gw_precursor_artifact_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1679^gw_precursor_artifact_02_pedestal.adr^0^0.000000^^0^0^^1^0.000000^0
+1680^human_m_kirillmoonrunner.adr^0^0.000000^^0^0^^1^0.000000^0
+1681^robgoblin_m_gogglesgears.adr^0^0.000000^^0^0^^1^0.000000^0
+1682^robgoblin_m_master.adr^0^0.000000^^0^0^^1^0.000000^0
+1683^rocklar_caster_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1684^sg_fishing_node_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1685^sg_fishing_node_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1686^sv_cave_entrance_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1687^sv_forcefield_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1688^dog_large_frogdog.agr^10^0.000000^dog in frog suit^0^0^^1^0.000000^0
+1689^jackolantern_m_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1690^sg_fishing_reticle_inner_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1691^sg_fishing_reticle_outer_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1692^skeleton_m_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1693^dog_small_pugmummy.adr^10^0.000000^^1^0^small^1^0.500000^0
+1694^dog_large_zombie.adr^0^0.000000^^0^0^^1^0.000000^0
+1695^sg_pedestal_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1696^hsg_pet_bed_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1697^sg_fishing_reticle_inner_cast_bbe.adr^0^0.000000^fishing cast reticule^0^0^^1^0.000000^0
+1698^sg_fishing_reticle_outer_cast_bbe.adr^0^0.000000^fishing cast reticule^0^0^^1^0.000000^0
+1699^sg_fishing_reticle_inner_no_cast_bbe.adr^0^0.000000^fishing cast reticule^0^0^^1^0.000000^0
+1700^sg_fishing_reticle_outer_no_cast_bbe.adr^0^0.000000^fishing cast reticule^0^0^^1^0.000000^0
+1701^pumpkinprince_m.adr^0^0.000000^^0^0^^1^0.000000^0
+1702^pumpkinprince_m_boss.adr^0^0.000000^^0^0^^1^0.000000^0
+1703^pumpkinprince_m_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+1704^sg_fishing_area_bubbles_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1705^sg_fishing_area_particle_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1706^fairy_m_costume_crofti.agr^0^0.000000^^0^0^^1^0.000000^0
+1707^fairy_m_costume_ikee.agr^0^0.000000^^0^0^^1^0.000000^0
+1708^fairy_m_costume_skelly.agr^0^0.000000^^0^0^^1^0.000000^0
+1709^human_f_costume_brunhilda.agr^0^0.000000^^0^0^^1^0.000000^0
+1710^human_f_costume_ragdoll.agr^0^0.000000^^0^0^^1^0.000000^0
+1711^human_f_mannequin_costume_brideoffrankenstein.agr^0^0.000000^^0^0^^1^0.000000^0
+1712^human_m_costume_chatdy.agr^0^0.000000^^0^0^^1^0.000000^0
+1713^human_m_costume_finklestein.agr^0^0.000000^^0^0^^1^0.000000^0
+1714^human_m_costume_vladimir.agr^0^0.000000^^0^0^^1^0.000000^0
+1715^human_f_mannequin_girlywitch.agr^0^0.000000^^0^0^^1^0.000000^0
+1716^human_f_mannequin_gothicragdoll.agr^0^0.000000^^0^0^^1^0.000000^0
+1717^human_m_mannequin_buffsupersuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1718^evnt_halloween_grave_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1719^changeling_f_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+1720^fairy_f_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+1721^robgoblin_m_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+1722^evnt_halloween_jackolantern_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1723^evnt_halloween_jackolantern_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1724^evnt_halloween_cake_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1725^evnt_halloween_cauldron_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1726^evnt_halloween_candybag_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1727^sg_fishing_run_school_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1728^hsg_barrel_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1729^hsg_counter_sink_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1730^hsg_microwave_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1731^hsg_outdoor_bench_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1732^hsg_room_divider_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1733^sh_forge_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1734^bs_spookyspectacles.adr^0^0.000000^^0^0^^1^0.000000^0
+1735^sg_cot_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1736^sg_tree_fallen_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1737^sg_tree_fallen_02.adr^99^0.000000^^0^0^^1^0.000000^0
+1738^sg_pedestal_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1739^ss_pir_long_shot_pickup_bbe.adr^0^0.000000^Pirates long shot pickup^0^0^^1^0.000000^0
+1740^ss_pir_firepower_pickup_bbe.adr^0^0.000000^Pirates firepower pickup^0^0^^1^0.000000^0
+1741^ss_pir_home_fort_bbe.adr^0^0.000000^Pirates home fort^0^0^^1^0.000000^0
+1742^ss_pir_lrg_dmg_fort_bbe.adr^0^0.000000^Pirates large fort (damaged)^0^0^^1^0.000000^0
+1743^ss_pir_lrg_fort_bbe.adr^0^0.000000^Pirates large fort^0^0^^1^0.000000^0
+1744^ss_pir_med_dmg_fort_bbe.adr^0^0.000000^Pirates medium fort^0^0^^1^0.000000^0
+1745^ss_pir_med_fort_bbe.adr^0^0.000000^Pirates medium fort (damaged)^0^0^^1^0.000000^0
+1746^ss_pir_sml_dmg_fort_bbe.adr^0^0.000000^Pirates small fort (damage)^0^0^^1^0.000000^0
+1747^ss_pir_sml_fort_bbe.adr^0^0.000000^Pirates small fort^0^0^^1^0.000000^0
+1748^ss_pir_tiny_dmg_fort_bbe.adr^0^0.000000^Pirates tiny fort (damaged)^0^0^^1^0.000000^0
+1749^ss_pir_tiny_fort_bbe.adr^0^0.000000^Pirates tiny fort^0^0^^1^0.000000^0
+1750^mkt_gravestone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1751^sg_sccr_ball_arrow_in_air_retilce_geo.adr^0^0.000000^soccer reticle^0^0^^1^0.000000^0
+1752^sg_sccr_ball_in_air_retilce_geo.adr^0^0.000000^soccer reticle^0^0^^1^0.000000^0
+1753^sg_sccr_ball_retilce_geo.adr^0^0.000000^soccer reticle^0^0^^1^0.000000^0
+1754^sg_sccr_player_arrow_reticle_geo.adr^0^0.000000^soccer reticle^0^0^^1^0.000000^0
+1755^sg_sccr_player_blue_reticle_geo.adr^0^0.000000^soccer reticle^0^0^^1^0.000000^0
+1756^dragon_m_basic.adr^52^0.000000^^1^0^^1^0.000000^0
+1757^evnt_winter_holiday_snowballs_01.adr^99^0.000000^Snowball fighting snowball pile^0^0^^1^0.000000^0
+1758^hsg_dog_house_01.adr^99^0.000000^Dog house^0^0^^1^0.000000^0
+1759^tyrannosaurus_m.adr^52^0.000000^tyrannasaurus rex^1^0^^1^0.000000^0
+1760^triceratops_m_basic.adr^52^0.000000^^1^0^^1^0.000000^0
+1761^hsg_game_system_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1762^hsg_rug_round_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1763^hsg_wall_mounted_sink_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1764^hsg_potted_plants_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1765^hsg_dining_table_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1766^hsg_mirror_wall_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1767^hsg_counter_top_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1768^hsg_table_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1769^raptor_m.adr^52^0.000000^^1^0^^1^0.000000^0
+1770^bearcub_m.adr^52^0.000000^^1^0^^1^0.000000^0
+1771^pegasus_m.adr^52^0.000000^^1^0^^1^0.000000^0
+1772^pony_f.adr^52^0.000000^^2^0^^1^0.000000^0
+1773^pony_m.adr^52^0.000000^^1^0^^1^0.000000^0
+1774^unicorn_f.adr^52^0.000000^^2^0^^1^0.000000^0
+1775^rhino_m_basic.adr^52^0.000000^^1^0^^1^0.000000^0
+1776^evnt_winter_holiday_tree_presents_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1777^evnt_winter_holiday_tree_presents_04.adr^0^0.000000^^0^0^^1^0.000000^0
+1778^dragon_m_spikes.adr^52^0.000000^^1^0^^1^0.000000^0
+1779^dragon_m_basic.adr^52^0.000000^^2^0^^1^0.000000^0
+1780^dragon_m_spikes.adr^52^0.000000^^2^0^^1^0.000000^0
+1781^triceratops_m_basic.adr^52^0.000000^^2^0^^1^0.000000^0
+1782^chugawug_m_hula_drummer.adr^7^0.000000^Luau Chugawug Drummer^1^0^^1^0.000000^0
+1783^penguin_baby_hula_01.adr^8^0.000000^Luau Penguin Baby Hula^1^0^^1^0.000000^0
+1784^evnt_world_party_luau_tiki_torch_01.adr^99^0.000000^Luau Tiki Torch 1^0^0^^1^0.000000^0
+1785^evnt_world_party_luau_tiki_torch_02.adr^99^0.000000^Luau Tiki Torch 2^0^0^^1^0.000000^0
+1786^ss_pir_treasure_chest.adr^0^0.000000^^0^0^^1^0.000000^0
+1787^penguin_surfer_01.adr^8^0.000000^Penguin Surfer^1^0^^1^0.000000^0
+1788^evnt_world_party_luau_chug_drum_01.adr^99^0.000000^Luau Chugawug Drum 1^0^0^^1^0.000000^0
+1789^evnt_world_party_luau_chug_drum_02.adr^99^0.000000^Luau Chugawug Drum 2^0^0^^1^0.000000^0
+1790^human_f_mannequin_hulasuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1791^human_f_mannequin_luau_hulasuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1792^human_f_mannequin_luau_sunhatsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1793^human_f_mannequin_vintageswimsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1794^human_m_mannequin_hulasuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1795^human_m_mannequin_luau_innertubesuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1796^human_m_mannequin_luau_palmtreesuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1797^human_m_mannequin_luau_tikimask.agr^0^0.000000^^0^0^^1^0.000000^0
+1798^human_m_mannequin_vintageswimsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1799^human_m_tiger_the_party_animal_luau.agr^0^0.000000^^0^0^^1^0.000000^0
+1800^evnt_world_party_pet_flag_post_01.adr^99^0.000000^Pet Flag Post 01^0^0^^1^0.000000^0
+1801^evnt_world_party_pet_flag_posts_01_bowl.agr^99^0.000000^Pet Flag Post 01 Bowl^0^0^^1^0.000000^0
+1802^evnt_world_party_pet_flag_posts_01_pets.agr^99^0.000000^Pet Flag Post 01 Pets^0^0^^1^0.000000^0
+1803^cat_shorthair_mannequin_petparty_beesuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1804^cat_shorthair_mannequin_petparty_dragonsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1805^cat_shorthair_mannequin_petparty_piratesuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1806^cat_shorthair_mannequin_petparty_sassysuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1807^dog_large_mannequin_petparty_bionicsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1808^dog_large_mannequin_petparty_dragonsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1809^dog_large_mannequin_petparty_ninjasuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1810^dog_large_mannequin_petparty_vikingsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1811^human_m_mannequin_luau_hulasuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1812^human_m_mannequin_luau_vintageswimsuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1813^human_m_tiger_the_party_animal_petparty.agr^0^0.000000^^0^0^^1^0.000000^0
+1814^evnt_world_party_pet_stage_01.adr^99^0.000000^Pet Stage (Object)^0^0^^1^0.000000^0
+1815^gw_precursor_artifact_02_combined.adr^0^0.000000^^0^0^^1^0.000000^0
+1816^hsg_aquarium_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1817^hsg_armoire_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1818^hsg_balloons_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1819^hsg_bathtub_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1820^hsg_bed_large_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1821^hsg_bed_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1822^hsg_bed_small_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1823^hsg_bighead_button_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1824^hsg_blender_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1825^hsg_bookcase_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1826^hsg_bookcase_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1827^hsg_candycart_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1828^hsg_cat_tree_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1829^hsg_cauldron_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1830^hsg_chair_desk_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1831^hsg_chaise_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1832^hsg_chest_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1833^hsg_coffee_table_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1834^hsg_counter_top_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1835^hsg_counter_top_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1836^hsg_crate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1837^hsg_curio_cabinets_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1838^hsg_dance_floor_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1839^hsg_dance_floor_deluxe_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1840^hsg_desk_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1841^hsg_dining_chair_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1842^hsg_dining_chair_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1843^hsg_dining_table_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1844^hsg_dog_house_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1845^hsg_dresser_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1846^hsg_floor_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1847^hsg_floor_lamp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1848^hsg_fountain_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1849^hsg_fountain_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1850^hsg_gravestone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1851^hsg_grocerystore_ride_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1852^hsg_gumball_machine_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1853^hsg_hanging_plant_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1854^hsg_hanging_plant_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1855^hsg_instruments_drumset_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1856^hsg_jack_in_the_box_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1857^hsg_jukebox_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1858^hsg_lounge_chair_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1859^hsg_lounge_chair_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1860^hsg_loveseat_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1861^hsg_loveseat_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1862^hsg_mailbox_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1863^hsg_mirror_floor_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1864^hsg_outdoor_bench_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1865^hsg_outdoor_chair_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1866^hsg_outdoor_chair_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1867^hsg_outdoor_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1868^hsg_outdoor_lamp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1869^hsg_painting_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1870^hsg_potted_plant_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1871^hsg_potted_plant_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1872^hsg_potted_plant_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1873^hsg_refrigerator_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1874^hsg_room_divider_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1875^hsg_rug_long_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1876^hsg_rug_rectangle_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1877^hsg_rug_round_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1878^hsg_rug_square_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1879^hsg_rug_square_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1880^hsg_shower_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1881^hsg_side_table_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1882^hsg_sofa_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1883^hsg_sofa_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1884^hsg_spot_light_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1885^hsg_stereo_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1886^hsg_stool_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1887^hsg_stool_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1888^hsg_stove_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1889^hsg_table_lamp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1890^hsg_table_picnic_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1891^hsg_television_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1892^hsg_tiki_torch_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1893^hsg_toilet_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1894^hsg_train_set_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1895^hsg_trunk_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1896^hsg_trunk_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1897^hsg_wall_sconces_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1898^hsg_wall_sconces_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1899^hsg_xmas_tree_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1900^sg_mannequin_crusher_claw_concrete.adr^0^0.000000^^0^0^^1^0.000000^0
+1901^sg_mannequin_kart07_arrow_army.adr^0^0.000000^^0^0^^1^0.000000^0
+1902^sg_mannequin_ripper_claw_merlot.adr^0^0.000000^^0^0^^1^0.000000^0
+1903^sg_mannequin_speedster_lightning_rosepeta.adr^0^0.000000^^0^0^^1^0.000000^0
+1904^sg_mannequin_zipster_pirate_violet.adr^0^0.000000^^0^0^^1^0.000000^0
+1905^sg_treasure_chest_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1906^sg_spawner_bixie_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1907^snowman_present.adr^0^0.000000^^0^0^^1^0.000000^0
+1908^rocklar_elder_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1909^hsg_hum_dining_chair_01_sittest.adr^0^0.000000^^0^0^^1^0.000000^0
+1910^hsg_present_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1911^hsg_present_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1912^hsg_wreath_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1913^sg_spawner_human_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1914^sg_spawner_robgoblin_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1915^sg_spawner_spider_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1916^sg_spawner_toad_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1917^sg_spawner_troll_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1918^sg_spawner_undead_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1919^hsg_light_strands_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1920^hsg_stone_head_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1921^duckbill_m.adr^0^0.000000^^0^0^^1^0.000000^0
+1922^sg_spawner_plantoid_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1923^ss_pir_dock_treasure_chest_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1924^spider_m.adr^0^0.000000^^1^0^^1^0.000000^0
+1925^hsg_rocket_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1926^hsg_block_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1927^hsg_garland_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1928^robgoblin_m_xmas.adr^0^0.000000^^0^0^^1^0.000000^0
+1929^hsg_xmas_stocking_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1930^hsg_hanging_plant_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1931^evnt_cliff_diving_ring_01.adr^99^0.000000^Cliff Diving Ring^0^0^^1^0.000000^0
+1932^floren_christmastree.adr^0^0.000000^^0^0^^1^0.000000^0
+1933^hsg_pedestal_sink_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1934^reindeer_m.adr^0^0.000000^^0^0^^1^0.000000^0
+1935^robgoblin_m_reindeerantlers.adr^0^0.000000^^0^0^^1^0.000000^0
+1936^mkt_boombox_xmas_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1937^sg_spawner_snake_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1938^sg_spawner_wolf_01.adr^99^0.000000^^0^0^^1^0.000000^0
+1939^evnt_world_party_luau_campfire_01.adr^99^0.000000^Luau Campfire^0^0^^1^0.000000^0
+1940^ss_pir_home_flag.adr^0^0.000000^Pirate home flag^0^0^^1^0.000000^0
+1941^human_m_realmsroll.adr^0^0.000000^^0^0^^1^0.000000^0
+1942^giantsnowball.adr^0^0.000000^^0^0^^1^0.000000^0
+1943^giantornament.adr^0^0.000000^^0^0^^1^0.000000^0
+1944^snowmanboss.adr^0^0.000000^Abominable Snowman for winter holiday world event^0^0^^1^0.000000^0
+1945^hsg_block_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1946^hsg_trophy_fish_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1947^hsg_trophy_fish_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1948^hsg_trophy_fish_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1949^powerup_flame_wave.adr^0^0.000000^^0^0^^1^0.000000^0
+1950^powerup_quake.adr^0^0.000000^^0^0^^1^0.000000^0
+1951^powerup_super_shield.adr^0^0.000000^^0^0^^1^0.000000^0
+1952^robgoblin_m_drummer.adr^0^0.000000^^0^0^^1^0.000000^0
+1953^robgoblin_m_guitar.adr^0^0.000000^^0^0^^1^0.000000^0
+1954^human_f_mannequin_winterholiday09_girlyelf.agr^0^0.000000^^0^0^^1^0.000000^0
+1955^human_f_mannequin_winterholiday09_girlysanta.agr^0^0.000000^^0^0^^1^0.000000^0
+1956^human_f_mannequin_winterholiday09_girlytoysoldier.agr^0^0.000000^^0^0^^1^0.000000^0
+1957^human_m_mannequin_winterholiday09_santasuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1958^human_m_mannequin_winterholiday09_toysoldier.agr^0^0.000000^^0^0^^1^0.000000^0
+1959^human_m_mannequin_winterholiday09_xmastreesuit.agr^0^0.000000^^0^0^^1^0.000000^0
+1960^evnt_winter_holiday_party_banner_01.adr^99^0.000000^Winter Event Party Banner^0^0^^1^0.000000^0
+1961^evnt_winter_holiday_candy_cane_01.adr^99^0.000000^Winter Event Candy Cane^0^0^^1^0.000000^0
+1962^toad_housing.adr^0^0.000000^^0^0^^1^0.000000^0
+1963^human_m_tiger_the_party_animal_holiday.agr^0^0.000000^^0^0^^1^0.000000^0
+1964^fruitcake_m_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+1965^hsg_snowman_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1966^evnt_winter_holiday_tree_01_decor_01.adr^99^0.000000^Winter Event Holiday Tree Decor 01^0^0^^1^0.000000^0
+1967^hippo_m_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+1968^reindeer_m_rednose.adr^0^0.000000^^0^0^^1^0.000000^0
+1969^ss_pir_home_fort_sml_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1970^ss_pir_med2_fort_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1971^mkt_holiday_fireplace_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1972^mkt_snowball_creation_unit_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1973^mkt_boombox_realmsroll_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1974^hsg_stove_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1975^ss_pir_home_fort_sml_snow_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1976^ss_pir_home_fort_snow_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1977^ss_pir_cannon_firing_reticle_left_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1978^ss_pir_cannon_firing_reticle_right_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1979^mkt_boombox_rainbow_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1980^sg_snowball_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1981^white_tiger.adr^52^0.000000^^1^0^^1^0.000000^0
+1982^sg_fireball_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1983^hsg_block_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1984^hsg_block_arch_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1985^hsg_block_cylinder_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1986^hsg_block_cylinderhalf_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1987^hsg_block_cylinderhalf_02.adr^0^0.000000^^0^0^^1^0.000000^0
+1988^hsg_block_flatrectangle_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1989^hsg_block_flatsquare_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1990^hsg_block_ramp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1991^hsg_block_wedge_01.adr^0^0.000000^^0^0^^1^0.000000^0
+1992^hsg_dining_chair_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1993^hsg_dining_chair_04.adr^0^0.000000^^0^0^^1^0.000000^0
+1994^sg_cannonball_boned_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+1995^hsg_loveseat_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1996^hsg_sofa_03.adr^0^0.000000^^0^0^^1^0.000000^0
+1997^hsg_dining_chair_05.adr^0^0.000000^^0^0^^1^0.000000^0
+1998^hsg_dining_chair_06.adr^0^0.000000^^0^0^^1^0.000000^0
+1999^hsg_dining_chair_07.adr^0^0.000000^^0^0^^1^0.000000^0
+2000^hsg_dining_chair_08.adr^0^0.000000^^0^0^^1^0.000000^0
+2001^babypenguin_m.adr^52^0.000000^Baby Penguin Pet^1^0^^1^0.000000^0
+2002^hsg_dining_chair_09.adr^0^0.000000^^0^0^^1^0.000000^0
+2003^hsg_game_system_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2004^hsg_game_system_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2005^hsg_valentines_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2006^hsg_valentines_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2007^hsg_valentines_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2008^hsg_bookcase_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2009^hsg_bookcase_04.adr^0^0.000000^^0^0^^1^0.000000^0
+2010^hsg_rug_rectangle_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2011^hsg_rug_round_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2012^hsg_rug_square_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2013^hsg_stereo_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2014^hsg_television_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2015^hsg_valentines_bear_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2016^hsg_coffee_table_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2017^hsg_coffee_table_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2018^hsg_coffee_table_04.adr^0^0.000000^^0^0^^1^0.000000^0
+2019^hsg_coffee_table_05.adr^0^0.000000^^0^0^^1^0.000000^0
+2020^hsg_valentines_gummybear_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2021^hsg_valentines_gummysadbear_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2022^hsg_valentines_sadbear_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2023^hsg_bemine_basket_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2024^hsg_coffee_table_06.adr^0^0.000000^^0^0^^1^0.000000^0
+2025^hsg_dining_table_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2026^hsg_dining_table_04.adr^0^0.000000^^0^0^^1^0.000000^0
+2027^hsg_side_table_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2028^hsg_side_table_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2029^tiger_m.adr^52^0.000000^^1^0^^1^0.000000^0
+2030^hsg_bemine_balloon_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2031^hsg_large_arrangement_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2032^hsg_small_arrangement_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2033^teddybear_m_basic.adr^0^0.000000^Valentines Bear Illusion^1^0^^1^0.000000^0
+2034^cave_entrance_facade_01_natural.adr^99^0.000000^^0^0^^1^0.000000^0
+2035^heart_critter.adr^0^0.000000^^0^0^^1^0.000000^0
+2036^groundhog_m.adr^52^0.000000^^1^0^^1^0.000000^0
+2037^sword_ar_ag_weapon_trainingsword.adr^99^0.000000^Combat training prop^0^0^^1^0.000000^0
+2038^bow_ar_ag_weapon_branch.adr^99^0.000000^Combat training prop^0^0^^1^0.000000^0
+2039^sg_sign01_mounts.agr^0^0.000000^^0^0^^1^0.000000^0
+2040^trex_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+2041^changeling_emo_f.adr^0^0.000000^^0^0^^1^0.000000^0
+2042^fairy_m_cupid.adr^0^0.000000^^0^0^^1^0.000000^0
+2043^fairy_f_fohcelebrant1.agr^0^0.000000^^0^0^^1^0.000000^0
+2044^fairy_m_cudip.adr^0^0.000000^^0^0^^1^0.000000^0
+2045^fairy_m_fohcelebrant1.agr^0^0.000000^^0^0^^1^0.000000^0
+2046^human_f_fohcelebrant1.agr^0^0.000000^^0^0^^1^0.000000^0
+2047^human_f_fohcelebrant2.agr^0^0.000000^^0^0^^1^0.000000^0
+2048^human_f_fohcelebrant3.agr^0^0.000000^^0^0^^1^0.000000^0
+2049^human_m_fohcelebrant1.agr^0^0.000000^^0^0^^1^0.000000^0
+2050^human_m_fohcelebrant2.agr^0^0.000000^^0^0^^1^0.000000^0
+2051^human_m_fohcelebrant3.agr^0^0.000000^^0^0^^1^0.000000^0
+2052^owl_m.adr^52^0.000000^^1^0^^1^0.000000^0
+2053^gl_roses_tintable_01_redTraditional.agr^99^0.000000^valentines day objectives^0^0^^1^0.000000^0
+2054^gl_roses_tintable_02_redTraditional.agr^99^0.000000^valentines day objectives^0^0^^1^0.000000^0
+2055^stoneheart_m.adr^0^0.000000^valentines day boss^0^0^^1^0.000000^0
+2056^changeling_emo_m.adr^0^0.000000^^0^0^^1^0.000000^0
+2057^beetle_pincher.adr^52^0.000000^^1^0^^1^0.000000^0
+2058^powerup_valentines.adr^99^0.000000^valentines day power up^0^0^^1^0.000000^0
+2059^mkt_boombox_valentines_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2060^event_valentines_perfume_01.adr^99^0.000000^^0^0^^1^0.000000^0
+2061^evnt_valentines_treat_basket_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2062^event_valentines_rose_wilted_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2063^event_valentines_flying_heart_01.adr^52^0.000000^vanity pet^0^0^^1^0.000000^0
+2064^wyvern_m.adr^0^0.000000^Mount - Wyvern^1^0^^1^0.000000^0
+2065^fish_vanity.adr^52^0.000000^vanity pet^0^0^^1^0.000000^0
+2066^parrot.adr^52^0.000000^vanity pet^0^0^^1^0.000000^0
+2067^hsg_trampoline_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2068^hsg_trampoline_med_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2069^hsg_trampoline_large_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2070^hsg_cashberry_shrub_01_day01_fresh.adr^0^0.000000^^0^0^^1^0.000000^0
+2071^hsg_cashberry_shrub_01_day01_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2072^hsg_cashberry_shrub_01_day02_fresh.adr^0^0.000000^^0^0^^1^0.000000^0
+2073^hsg_cashberry_shrub_01_day02_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2074^hsg_cashberry_shrub_01_day03_fresh.adr^0^0.000000^^0^0^^1^0.000000^0
+2075^hsg_cashberry_shrub_01_day03_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2076^hsg_bonansai_01_day1_fresh.adr^0^0.000000^^0^0^^1^0.000000^0
+2077^hsg_bonansai_01_day1_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2078^hsg_bonansai_01_day2_fresh.adr^0^0.000000^^0^0^^1^0.000000^0
+2079^hsg_bonansai_01_day2_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2080^hsg_bonansai_01_day3_fresh.adr^0^0.000000^^0^0^^1^0.000000^0
+2081^hsg_bonansai_01_day3_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2082^mkt_cake_shroudedglade_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2083^mkt_cakes_seaside_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2084^mkt_cakes_snowhill_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2085^mkt_cake_merryvale_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2086^mkt_cakes_sanctuary_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2087^mkt_cakes_wugachug_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2088^mkt_cakes_blackspore_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2089^mkt_cakes_briarwood_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2090^mkt_cakes_boss_birthday_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2091^hsg_cashnut_oak_01_day1_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2092^hsg_cashnut_oak_01_day2_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2093^hsg_cashnut_oak_01_day3_harvest.adr^0^0.000000^^0^0^^1^0.000000^0
+2094^hsg_pirateship_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2095^hsg_pirateship_ghost_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2097^hsg_pirate_bed_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2098^horse_f.adr^0^0.000000^^2^0^^1^0.000000^0
+2099^horse_m.adr^0^0.000000^^1^0^^1^0.000000^0
+2100^hsg_painting_pirate_map_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2101^hsg_rug_pirate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2102^hsg_chest_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2103^hsg_treasure_pile_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2104^hsg_treasure_pile_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2105^hsg_cage_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2106^hsg_pirate_flag_pole_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2107^hsg_flags_pirate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2108^horse_nightmare.adr^0^0.000000^^0^0^^1^0.000000^0
+2109^horse_pegasus.adr^0^0.000000^^0^0^^1^0.000000^0
+2110^hsg_oasis_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2111^hsg_tree_palm_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2112^hsg_dining_table_pirate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2113^horse_unicorn.adr^0^0.000000^^0^0^^1^0.000000^0
+2114^hsg_dining_chair_pirate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2115^mkt_cakes_pirate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2116^fairy_f_pirate_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2117^fairy_m_pirate_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2118^human_f_pirate_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2119^human_m_pirate_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2120^human_m_pirate_02.agr^0^0.000000^^0^0^^1^0.000000^0
+2121^skeleton_m_pirate.adr^0^0.000000^^0^0^^1^0.000000^0
+2122^hsg_sofa_generic_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2123^fairy_f_startzone_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2124^fairy_m_startzone_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2125^human_f_startzone_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2126^human_f_startzone_02.agr^0^0.000000^^0^0^^1^0.000000^0
+2127^human_m_startzone_01.agr^0^0.000000^^0^0^^1^0.000000^0
+2128^human_m_startzone_02.agr^0^0.000000^^0^0^^1^0.000000^0
+2129^owl_m.adr^52^0.000000^Female owl^2^0^^1^0.000000^0
+2130^babypenguin_m.adr^52^0.000000^Female baby penguin^2^0^^1^0.000000^0
+2131^tyrannosaurus_m.adr^52^0.000000^Female trex^2^0^^1^0.000000^0
+2132^pegasus_m.adr^52^0.000000^Female pegasus^2^0^^1^0.000000^0
+2133^hsg_balloon_maker_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2134^hsg_fireworks_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2135^hsg_oasis_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2136^hsg_oasis_water_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2137^hsg_banners_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2138^hsg_firecracker_box_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2139^hsg_fireworks_wagon_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2140^beetle_rhino.adr^52^0.000000^^1^0^^1^0.000000^0
+2141^hsg_freerealms_balloon_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2142^hsg_freerealms_balloon_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2143^hsg_freerealms_balloon_02_lod0.adr^0^0.000000^^0^0^^1^0.000000^0
+2144^hsg_present_freerealms_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2145^hsg_present_freerealms_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2146^evnt_exploded_cakenstein_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2147^evnt_exploded_cakenstein_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2148^cupcake_critter_vanilla.adr^0^0.000000^^0^0^^1^0.000000^0
+2149^cupcake_critter_chocolate.adr^0^0.000000^^0^0^^1^0.000000^0
+2150^cupcake_critter.adr^52^0.000000^^2^0^^1^0.000000^0
+2151^dog_large_balloondog.adr^52^0.000000^^1^0^^1^0.000000^0
+2152^hsg_roastingspit_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2153^hsg_roastingspit_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2154^hsg_roastingspit_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2155^hsg_wavy_chatty_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2156^hsg_wavy_robby_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2158^hsg_banner_chatty_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2159^hsg_banner_robby_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2160^mkt_coinplant_large_bare_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2161^mkt_coinplant_large_bare_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2162^mkt_coinplant_large_blooming_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2163^mkt_coinplant_large_blooming_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2164^mkt_coinplant_large_budding_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2165^mkt_coinplant_large_budding_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2166^mkt_coinplant_medium_bare_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2167^mkt_coinplant_medium_bare_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2168^mkt_coinplant_medium_blooming_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2169^mkt_coinplant_medium_blooming_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2170^mkt_coinplant_medium_budding_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2171^mkt_coinplant_medium_budding_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2172^mkt_coinplant_medium_withered.adr^0^0.000000^^0^0^^1^0.000000^0
+2173^mkt_coinplant_small_bare_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2174^mkt_coinplant_small_bare_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2175^mkt_coinplant_small_blooming_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2176^mkt_coinplant_small_blooming_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2177^mkt_coinplant_small_budding_water_full.agr^0^0.000000^^0^0^^1^0.000000^0
+2178^mkt_coinplant_small_budding_water_half.agr^0^0.000000^^0^0^^1^0.000000^0
+2179^mkt_coinplant_small_withered.adr^0^0.000000^^0^0^^1^0.000000^0
+2180^hsg_tents_med_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2181^hsg_tents_med_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2182^hsg_tents_med_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2183^hsg_tents_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2184^hsg_tents_small_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2185^hsg_tents_small_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2186^hsg_cloud_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2187^hsg_cloud_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2188^mkt_coinplant_large.adr^0^0.000000^^0^0^^1^0.000000^0
+2189^mkt_coinplant_medium.adr^0^0.000000^^0^0^^1^0.000000^0
+2190^mkt_coinplant_small.adr^0^0.000000^^0^0^^1^0.000000^0
+2191^hsg_bridge_large_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2192^hsg_bridge_small_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2193^hsg_coinplant_gold.adr^0^0.000000^^0^0^^1^0.000000^0
+2194^marshmallow_critter.adr^0^0.000000^^0^0^^1^0.000000^0
+2195^mkt_coinplant_large_budding_water_empty.agr^0^0.000000^^0^0^^1^0.000000^0
+2196^mkt_coinplant_large_blooming_water_empty.agr^0^0.000000^^0^0^^1^0.000000^0
+2197^mkt_coinplant_medium_blooming_water_empty.agr^0^0.000000^^0^0^^1^0.000000^0
+2198^mkt_coinplant_medium_budding_water_empty.agr^0^0.000000^^0^0^^1^0.000000^0
+2199^mkt_coinplant_small_blooming_water_empty.agr^0^0.000000^^0^0^^1^0.000000^0
+2200^mkt_campfire_01.adr^0^0.000000^Ghost Tails Campfire^0^0^^1^0.000000^0
+2201^mkt_boombox_tiki_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2202^hsg_fluffy_cloud_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2203^hsg_fluffy_cloud_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2204^hsg_fluffy_cloud_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2205^hsg_fluffy_cloud_04.adr^0^0.000000^^0^0^^1^0.000000^0
+2206^hsg_fluffy_cloud_05.adr^0^0.000000^^0^0^^1^0.000000^0
+2207^hsg_fluffy_cloud_06.adr^0^0.000000^^0^0^^1^0.000000^0
+2208^hsg_fluffy_cloud_07.adr^0^0.000000^^0^0^^1^0.000000^0
+2209^hsg_fluffy_cloud_08.adr^0^0.000000^^0^0^^1^0.000000^0
+2210^hsg_bridge_platform_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2211^hsg_bridge_platform_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2212^hsg_bridge_platform_03.adr^0^0.000000^^0^0^^1^0.000000^0
+2213^hsg_bridge_platform_04.adr^0^0.000000^^0^0^^1^0.000000^0
+2214^hsg_bridge_rope_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2215^hsg_bridge_platform_ramp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+2216^hsg_bridge_platform_ramp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+2217^mkt_boombox_totem.adr^0^0.000000^^0^0^^1^0.000000^0
+3000^mkt_coinplant_small_budding_water_empty.agr^0^0.000000^^0^0^^1^0.000000^0
+3001^sasquatch_bigfoot_costume.adr^0^0.000000^^0^0^^1^0.000000^0
+3002^hsg_totemsegment_chatty.adr^0^0.000000^^0^0^^1^0.000000^0
+3003^hsg_totemsegment_chugawug.adr^0^0.000000^^0^0^^1^0.000000^0
+3004^hsg_totemsegment_icetroll.adr^0^0.000000^^0^0^^1^0.000000^0
+3005^hsg_totemsegment_maneatingplant.adr^0^0.000000^^0^0^^1^0.000000^0
+3006^hsg_totemsegment_owl.adr^0^0.000000^^0^0^^1^0.000000^0
+3007^hsg_totemsegment_robby.adr^0^0.000000^^0^0^^1^0.000000^0
+3008^fairy_f_freestyle_Cammy.agr^0^0.000000^^0^0^^1^0.000000^0
+3009^fairy_m_freestyle_Wes.agr^0^0.000000^^0^0^^1^0.000000^0
+3010^hsg_block_01_stone.adr^0^0.000000^^0^0^^1^0.000000^0
+3011^hsg_block_03_orange.adr^0^0.000000^^0^0^^1^0.000000^0
+3012^hsg_trampoline_large_01_orange.adr^0^0.000000^^0^0^^1^0.000000^0
+3013^hsg_trampoline_med_01_orange.adr^0^0.000000^^0^0^^1^0.000000^0
+3014^hsg_trampoline_small_01_orange.adr^0^0.000000^^0^0^^1^0.000000^0
+3015^human_f_freestyle_Jenny.agr^0^0.000000^^0^0^^1^0.000000^0
+3016^human_m_freestyle_Jacen.agr^0^0.000000^^0^0^^1^0.000000^0
+3017^fairy_f_freestyle_Kaela.agr^0^0.000000^^0^0^^1^0.000000^0
+3018^fairy_f_freestyle_Kaela2.agr^0^0.000000^^0^0^^1^0.000000^0
+3019^fairy_m_freestyle_Edmond.agr^0^0.000000^^0^0^^1^0.000000^0
+3020^human_f_freestyle_Tyra.agr^0^0.000000^^0^0^^1^0.000000^0
+3021^human_f_freestyle_Tyra2.agr^0^0.000000^^0^0^^1^0.000000^0
+3022^human_m_freestyle_Jake.agr^0^0.000000^^0^0^^1^0.000000^0
+3023^human_m_freestyle_Jake2.agr^0^0.000000^^0^0^^1^0.000000^0
+3024^hsg_bridge_small_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3025^hsg_bridge_small_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3026^panthera_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3027^soccerball_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3028^hsg_checkpoint_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3029^hsg_checkpoint_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3030^groundhog_m_sharkfin.adr^0^0.000000^^0^0^^1^0.000000^0
+3031^hsg_flags_soccerworldcup.adr^0^0.000000^^0^0^^1^0.000000^0
+3032^hsg_flags_soccerworldcup_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3033^hoverboard_surfboardshort_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3034^hsg_ocean_cafe_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3035^hsg_lifeguard_station_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3036^hsg_checkpoint_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3037^hsg_beach_chair_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3038^hsg_volleyball_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3039^hsg_volleyball_net_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3040^hsg_beach_umbrella_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3041^hsg_pool_basic_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3043^hsg_pool_basic_water_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3044^hsg_beach_recliner_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3045^hsg_chugawug_keg_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3046^hsg_hedgemaze_blocker_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3047^hsg_hedgemaze_blocker_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3048^hsg_tents_cooking_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3049^hsg_tents_festival_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3050^hsg_jug_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3051^hsg_robgoblin_clothing_line_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3052^hsg_robgoblin_clothing_line_long.adr^0^0.000000^^0^0^^1^0.000000^0
+3053^hsg_robgoblin_wagon_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3054^hsg_robgoblin_wagon_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3055^hsg_stage_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3056^hsg_tents_vendor_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3057^hsg_club_restaruant_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3058^hsg_coffeecup_grp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3059^hsg_firehydrant_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3060^hsg_robgoblin_lightsource_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3061^hsg_robgoblin_portable_stage_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3062^hsg_robgoblin_trunk_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3063^hsg_telephone_booth_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3064^hsg_wood_awning_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3065^hsg_barbecue_grill_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3066^hsg_block_01_orange.adr^0^0.000000^^0^0^^1^0.000000^0
+3067^hsg_block_flatrectangle_01_blue.adr^0^0.000000^^0^0^^1^0.000000^0
+3068^hsg_cart_mine_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3069^hsg_cart_mine_crystal_blue_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3070^hsg_cart_mine_crystal_orange_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3071^hsg_cart_mine_crystal_red_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3072^hsg_pool_toilet_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3074^hsg_pool_toilet_water_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3075^hsg_skatecheckout_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3076^hsg_boardwalk_04.adr^0^0.000000^^0^0^^1^0.000000^0
+3077^hsg_changeling_memorial_bookshelf_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3078^hsg_changeling_wingshrine_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3079^hsg_construction_barrier_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3080^hsg_cot_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3081^hsg_crystal_pile_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3082^hsg_crystal_pile_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3083^hsg_deco_wheel_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3084^hsg_giant_gravestone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3085^hsg_lightsource_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3086^hsg_lightsource_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3087^hsg_mausoleum_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3088^hsg_mausoleum_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3089^hsg_mine_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3090^hsg_pool_basic_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3091^hsg_robgoblincone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3092^hsg_slop_bowl_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3093^hsg_spooky_streetlamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3094^hsg_stringflag_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3095^hsg_stringflag_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3096^hsg_stringlights_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3097^hsg_well_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3098^hsg_windmill_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3099^hsg_windmill_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3100^hsg_bixie_fence_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3101^hsg_bixie_fence_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3102^hsg_bulb_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3103^hsg_bulb_lamp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3104^hsg_corral_piece_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3105^hsg_deco_wheel_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3106^hsg_fishrack_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3107^hsg_floral_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3108^hsg_street_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3109^hsg_street_lamp_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3110^hsg_street_lamp_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3111^hsg_moving_block_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3112^hsg_castle_bench_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3113^hsg_castle_interior_pillow_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3114^hsg_castle_table_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3115^hsg_chair_throne_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3116^hsg_creepy_wall_lamp_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3117^hsg_gravestone_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3118^hsg_gravestone_04.adr^0^0.000000^^0^0^^1^0.000000^0
+3119^hsg_graveyard_fence_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3120^hsg_graveyard_fence_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3121^hsg_oval_ornate_mirror_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3122^hsg_pet_throne_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3123^hsg_tree_fallen_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3124^hsg_tree_spooky_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3125^hsg_tree_stump_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3126^hsg_wooden_gate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3128^hsg_moving_block_01_up.adr^0^0.000000^^0^0^^1^0.000000^0
+3129^hsg_archway_merry_vale_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3130^hsg_archway_sanctuary_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3131^hsg_archway_seaside_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3132^hsg_archway_shrouded_glade_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3133^hsg_archway_snowhill_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3134^hsg_archway_wugachug_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3135^hsg_graveyard_gate_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3136^hsg_hedge_urn_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3137^hsg_hedge_urn_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3138^hsg_pool_toilet_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3139^hsg_pots_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3140^hsg_sack_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3141^hsg_sack_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3142^hsg_sack_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3143^hsg_thorn_fence_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3144^hsg_thorn_fence_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3145^hsg_thorny_sign_left_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3146^hsg_thorny_sign_right_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3147^hsg_torn_thorn_banner_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3148^hsg_wugachug_mug_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3149^hsg_archway_blackspore_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3150^hsg_archway_briarwood_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3151^hsg_bleachers_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3152^hsg_manhole_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3153^hsg_picnic_table_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3154^hsg_bridge_small_04.adr^0^0.000000^^0^0^^1^0.000000^0
+3155^hsg_cloud_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3156^hsg_silo_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3157^ghostdwarf_m_creepyconstruct.adr^0^0.000000^^0^0^^1^0.000000^0
+3158^hsg_mine_exitsign_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3160^hsg_buoy_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3161^human_m_harold_rippedpants.agr^0^0.000000^^0^0^^1^0.000000^0
+3162^hoverboard_surfboard_stormcloud_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3163^hoverboard_surfboard_flaming_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3164^hoverboard_surfboard_ice_snow_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3165^hsg_spiderweb_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3166^hsg_spiderweb_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3167^sh_microphone_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3168^hsg_juicebar_table_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3169^monkey_m.adr^0^0.000000^^1^0^^1^0.000000^0
+3170^hsg_bridge_rainbow_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3171^hsg_checkpoint_track_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3172^hsg_checkpoint_track_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3173^domo_m_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+3174^hsg_block_domo_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3175^hsg_domoposter_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3176^hsg_teleport_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3177^hsg_fishing_boat_tied_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3178^hsg_ext_hum_porthole_01_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3179^hsg_int_hum_barrel_01_med_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3180^hsg_int_hum_bed_01_lrg_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3181^hsg_int_hum_bookshelf_tall_01_lrg_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3182^hsg_int_hum_coffeetable_01_med_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3183^hsg_int_hum_couch_01_lrg_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3184^hsg_int_hum_crate_01_med_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3185^hsg_int_hum_crate_02_med_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3186^hsg_int_hum_diningchair_01_med_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3187^hsg_int_hum_diningtable_01_lrg_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3188^hsg_int_hum_lantern_01_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3189^hsg_int_hum_ps2_01_sml_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3190^hsg_int_hum_ps2_controller_01_sml_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3191^hsg_int_hum_ps3_01_sml_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3192^hsg_int_hum_ps3_controller_01_sml_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3193^hsg_int_hum_stereo_01_sml_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3194^hsg_int_hum_tv_01_med_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3195^hsg_int_hum_window_01_bbe.adr^0^0.000000^^0^0^^1^0.000000^0
+3196^rocklar_peon_m_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3197^hsg_teleport_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3198^hsg_teleport_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3199^panthera_m_tiger_lava.adr^0^0.000000^^0^0^^1^0.000000^0
+3200^hsg_teleport_04.adr^0^0.000000^^0^0^^1^0.000000^0
+3201^monkey_clockwork_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3202^hsg_cake_halloween_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3203^hsg_candybag_halloween_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3204^hsg_candybag_halloween_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3205^hsg_cauldron_halloween_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3206^hsg_jackolantern_halloween_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3207^hsg_jackolantern_halloween_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3208^panthera_m_sabertooth_stone.adr^0^0.000000^^0^0^^1^0.000000^0
+3209^trex_armor_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3210^ball_m_beach.adr^0^0.000000^^0^0^^1^0.000000^0
+3211^hsg_owl_soren_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3212^hsg_owl_gylfie_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3213^hoverboard_surfboard_fairweather_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3214^birds_raven_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+3215^graveelemental_m_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+3216^graveelemental_m_skullwgraves.adr^0^0.000000^^0^0^^1^0.000000^0
+3217^necrowartzombie_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3218^necrowartzombie_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3219^necrowartzombie_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3220^skeleton_m_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3221^snowman.adr^0^0.000000^^0^0^^1^0.000000^0
+3222^toad_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+3223^vulture_m_undead.adr^0^0.000000^^0^0^^1^0.000000^0
+3224^warthog_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+3225^antelope.adr^0^0.000000^^0^0^^1^0.000000^0
+3226^antelope_female.adr^0^0.000000^^0^0^^1^0.000000^0
+3227^bearcub_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3228^billygoat.adr^0^0.000000^^0^0^^1^0.000000^0
+3229^birds_dove.adr^0^0.000000^^0^0^^1^0.000000^0
+3230^birds_eagle.adr^0^0.000000^^0^0^^1^0.000000^0
+3231^birds_hawk.adr^0^0.000000^^0^0^^1^0.000000^0
+3232^birds_owl.adr^0^0.000000^^0^0^^1^0.000000^0
+3233^birds_raven.adr^0^0.000000^^0^0^^1^0.000000^0
+3234^birds_seagull.adr^0^0.000000^^0^0^^1^0.000000^0
+3235^blackwidow_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3236^blackwidow_baby_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3237^butterfly.adr^0^0.000000^^0^0^^1^0.000000^0
+3238^cow.adr^0^0.000000^^0^0^^1^0.000000^0
+3239^cray_arctic_swamp.adr^0^0.000000^^0^0^^1^0.000000^0
+3240^ewe.adr^0^0.000000^^0^0^^1^0.000000^0
+3241^ewe_shaved.adr^0^0.000000^^0^0^^1^0.000000^0
+3242^faeriedrake.adr^0^0.000000^^0^0^^1^0.000000^0
+3243^firefly.adr^0^0.000000^^0^0^^1^0.000000^0
+3244^floren.adr^0^0.000000^^0^0^^1^0.000000^0
+3245^forest_buck.adr^0^0.000000^^0^0^^1^0.000000^0
+3246^forest_doe.adr^0^0.000000^^0^0^^1^0.000000^0
+3247^forestgiant.adr^0^0.000000^^0^0^^1^0.000000^0
+3248^human_m_ninja_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+3249^maneatingfungus.adr^0^0.000000^^0^0^^1^0.000000^0
+3250^maneatingplant.adr^0^0.000000^^0^0^^1^0.000000^0
+3251^mauthedog.adr^0^0.000000^^0^0^^1^0.000000^0
+3252^milk_cow.adr^0^0.000000^^0^0^^1^0.000000^0
+3253^nannygoat.adr^0^0.000000^^0^0^^1^0.000000^0
+3254^shaggy_cow.adr^0^0.000000^^0^0^^1^0.000000^0
+3255^shaggyspider_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3256^snake_ghost.adr^0^0.000000^^0^0^^1^0.000000^0
+3257^snowhog.adr^0^0.000000^^0^0^^1^0.000000^0
+3258^toad.adr^0^0.000000^^0^0^^1^0.000000^0
+3259^toad_black.adr^0^0.000000^^0^0^^1^0.000000^0
+3260^toad_purple.adr^0^0.000000^^0^0^^1^0.000000^0
+3261^treesoldier.adr^0^0.000000^^0^0^^1^0.000000^0
+3262^treesoldier_ice.adr^0^0.000000^^0^0^^1^0.000000^0
+3263^treesoldier_mushroom.adr^0^0.000000^^0^0^^1^0.000000^0
+3264^vulture.adr^0^0.000000^^0^0^^1^0.000000^0
+3265^warthog.adr^0^0.000000^^0^0^^1^0.000000^0
+3266^wraith_m_cloakedskelly.adr^0^0.000000^^0^0^^1^0.000000^0
+3267^hsg_candybag_halloween_01_notint.adr^0^0.000000^^0^0^^1^0.000000^0
+3268^hsg_candybag_halloween_02_notint.adr^0^0.000000^^0^0^^1^0.000000^0
+3269^hsg_candybag_halloween_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3270^hsg_halloween_balloons_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3271^hsg_halloween_doordeco_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3272^hsg_halloween_doordeco_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3273^hsg_halloween_doordeco_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3274^hsg_halloween_cauldron_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3275^hsg_halloween_stringlights_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3276^hsg_halloween_stringlights_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3277^hsg_halloween_stringlights_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3278^hsg_halloween_stringlights_04.adr^0^0.000000^^0^0^^1^0.000000^0
+3279^hsg_jackolantern_halloween_01_notint.adr^0^0.000000^^0^0^^1^0.000000^0
+3280^hsg_jackolantern_halloween_02_notint.adr^0^0.000000^^0^0^^1^0.000000^0
+3281^hsg_string_flag_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3282^hsg_string_flag_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3283^hsg_stringlights_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3284^wolf_generic.adr^0^0.000000^^0^0^^1^0.000000^0
+3285^hsg_block_01_ice.adr^0^0.000000^^0^0^^1^0.000000^0
+3286^pig_m_basic.adr^0^0.000000^^0^0^^1^0.000000^0
+3287^rofle_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3288^hsg_bleachers_blue_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3289^hsg_bleachers_green_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3290^hsg_bleachers_red_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3292^phoenix_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3293^human_m_werewolf_ocean.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3294^human_f_werewolf_rosepetal.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3295^human_m_werewolf_latte.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3296^human_m_werewolf_jake_blackforest.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3297^fairy_f_werewolf.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3298^fairy_m_werewolf.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3299^powerup_vampire_buff.adr^0^0.000000^Halloween Combat Powerup^0^0^^1^0.000000^0
+3300^powerup_werewolf_buff.adr^0^0.000000^Halloween Combat Powerup^0^0^^1^0.000000^0
+3301^powerup_werewollf_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+3302^fairy_f_vampire_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3303^fairy_m_vampire_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3304^fairy_m_vampire_02.agr^0^0.000000^^0^0^^1^0.000000^0
+3305^halloweenbat_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3306^hsg_vampire_coffin_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3307^hsg_vampire_coffin_02.adr^0^0.000000^^0^0^^1^0.000000^0
+3308^hsg_vampire_coffin_03.adr^0^0.000000^^0^0^^1^0.000000^0
+3309^human_f_vampire_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3310^human_f_vampire_02.agr^0^0.000000^^0^0^^1^0.000000^0
+3311^human_m_ed_sullenfangs.agr^0^0.000000^^0^0^^1^0.000000^0
+3312^human_m_vampire_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3313^human_m_vampire_02.agr^0^0.000000^^0^0^^1^0.000000^0
+3314^hoverboard_surfboard_haunted_mount.adr^0^0.000000^^0^0^^1^0.000000^0
+3315^hsg_halloween_candelabra_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3316^bat_black.adr^0^0.000000^^0^0^^1^0.000000^0
+3317^wolf_black.adr^0^0.000000^^0^0^^1^0.000000^0
+3318^human_f_vampiresuit.agr^0^0.000000^^0^0^^1^0.000000^0
+3319^human_f_werewolf.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3320^human_m_vampiresuit.agr^0^0.000000^^0^0^^1^0.000000^0
+3321^human_m_werewolf.agr^0^0.000000^Halloween Combat NPC^0^0^^1^0.000000^0
+3322^powerup_werewolf_buff.adr^0^0.000000^^0^0^^1^0.000000^0
+3323^werewolfsuit.adr^0^0.000000^^0^0^^1^0.000000^0
+3324^mkt_cakes_vampire_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3325^mkt_cakes_werewolf_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3326^mkt_halloween_dispenser_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3327^evnt_halloween_grave_01_no_collision.adr^0^0.000000^^0^0^^1^0.000000^0
+3328^human_m_werewolfsuit.adr^0^0.000000^^0^0^^1^0.000000^0
+3329^human_f_werewolfsuit.adr^0^0.000000^^0^0^^1^0.000000^0
+3330^fairy_m_werewolfsuit.adr^0^0.000000^^0^0^^1^0.000000^0
+3331^fairy_f_werewolfsuit.adr^0^0.000000^^0^0^^1^0.000000^0
+3332^necrowartzombie_03.adr^0^2.000000^^0^0^^1^0.000000^0
+3333^hsg_test_pool_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3334^hsg_vip_party_pool_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3335^hsg_vip_party_pool_01.agr^0^0.000000^^0^0^^1^0.000000^0
+3336^hsg_vip_party_water_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3337^hsg_vip_party_waterfall_01.adr^0^0.000000^^0^0^^1^0.000000^0
+3338^ball_m_jackolantern.adr^0^0.000000^^0^0^^1^0.000000^0
+3339^skeleton_m.adr^0^0.000000^^0^0^^1^0.000000^0
+3340^human_m_mannequin_candycorn.agr^0^0.000000^^0^0^^1^0.000000^0
+3341^human_m_mannequin_pizza.agr^0^0.000000^^0^0^^1^0.000000^0
+3342^human_m_mannequin_carrot.agr^0^0.000000^^0^0^^1^0.000000^0
+3343^human_m_mannequin_steak.agr^0^0.000000^^0^0^^1^0.000000^0
+3344^human_m_mannequin_ghostdiver.agr^0^0.000000^^0^0^^1^0.000000^0
+3345^human_m_mannequin_skeleton.agr^0^0.000000^^0^0^^1^0.000000^0
+3346^human_m_mannequin_buffviking.agr^0^0.000000^^0^0^^1^0.000000^0
+3347^human_m_mannequin_dinosaur.agr^0^0.000000^^0^0^^1^0.000000^0
+3348^human_m_mannequin_caveman.agr^0^0.000000^^0^0^^1^0.000000^0
+3349^human_m_mannequin_monster.agr^0^0.000000^^0^0^^1^0.000000^0
+3350^human_f_mannequin_mummy.agr^0^0.000000^^0^0^^1^0.000000^0
+3351^human_f_mannequin_chicken.agr^0^0.000000^^0^0^^1^0.000000^0
+3352^human_f_mannequin_grimreaper.agr^0^0.000000^^0^0^^1^0.000000^0
+3353^human_f_mannequin_ghost.agr^0^0.000000^^0^0^^1^0.000000^0
+3354^human_f_mannequin_vampcountess.agr^0^0.000000^^0^0^^1^0.000000^0
+3355^human_m_mannequin_vampcount.agr^0^0.000000^^0^0^^1^0.000000^0

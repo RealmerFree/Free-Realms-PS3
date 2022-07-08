@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="SkyMask_pass2">
+  <RenderStates>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_ONE" />
+      <Argument sfAlpha="CELL_GCM_ONE" />
+      <Argument dfColor="CELL_GCM_ZERO" />
+      <Argument dfAlpha="CELL_GCM_ZERO" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

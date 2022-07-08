@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="skinAlphaTest_depth">
+  <Semantics>
+    <Semantic DeepSemantic="DepthScale" GcmSemantic="C128">
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="DepthOffset" GcmSemantic="C129">
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="ReceiverDepthScale" GcmSemantic="C130">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="ReceiverDepthOffset" GcmSemantic="C131">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="Diffuse" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_NEAREST_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Diffuse Texture + Alpha Mask" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="StencilTestEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="StencilFunc">
+      <Argument func="CELL_GCM_EQUAL" />
+      <Argument ref="0xFF" />
+      <Argument mask="0x08" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="DoubleSided" DeepType="bool">
+      <Values>
+        <Value DeepValue="0" GcmValue="CELL_GCM_TRUE" />
+        <Value DeepValue="1" GcmValue="CELL_GCM_FALSE" />
+      </Values>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Double-Sided" />
+      </Annotations>
+    </RenderStateSemantic>
+	<RenderStateSemantic DeepSemantic="FadeStencil" DeepType="int">
+		<Values>
+			<Value DeepValue="0" GcmValue="CELL_GCM_FALSE" />
+			<Value DeepValue="1" GcmValue="CELL_GCM_TRUE" />
+		</Values>
+		<Annotations>
+			<Annotation InstanceCached="true" />
+		</Annotations>
+	</RenderStateSemantic>
+  </RenderStateSemantics>
+</ShaderSettings>

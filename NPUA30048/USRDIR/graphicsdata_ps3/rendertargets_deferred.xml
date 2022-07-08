@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RenderTargets>
+<!-- CHRISNOTE: This ordering is important to ensure optimal tile grouping, please keep backbuffer width ARGB8 first, then everything else after -->
+    <RenderTarget Name="SceneDepth" Format="D24S8" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="Backbuffer" Format="A8R8G8B8" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="SceneColor" Format="A8R8G8B8" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="GBuffer0" Format="A8R8G8B8" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="GBuffer1" Format="A8R8G8B8" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="Scratch" Format="A8R8G8B8" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="GBuffer2" Format="R32F" Width="Backbuffer" Height="Backbuffer" />
+    <RenderTarget Name="UiColor" Format="A8R8G8B8" Width="Backbuffer" Height="Backbuffer" />
+
+    <RenderTargetSet Name="Scene">
+        <Entry Type="Texture" RenderTargetName="SceneColor" Index="0"/>
+        <Entry Type="DepthStencil" RenderTargetName="SceneDepth" />
+    </RenderTargetSet>
+		
+    <RenderTargetSet Name="ScratchWithZ">
+        <Entry Type="Texture"      RenderTargetName="Scratch" Index="0" />
+        <Entry Type="DepthStencil" RenderTargetName="SceneDepth" />
+    </RenderTargetSet>
+	
+    <RenderTargetSet Name="GBuffer">
+        <Entry Type="Texture"      RenderTargetName="GBuffer0" Index="0" />
+        <Entry Type="Texture"      RenderTargetName="GBuffer1" Index="1" />
+        <Entry Type="DepthStencil" RenderTargetName="SceneDepth" />
+    </RenderTargetSet>
+	
+    <RenderTargetSet Name="Ui">
+		<Entry Type="Texture"      RenderTargetName="UiColor" Index="0" />
+        <Entry Type="DepthStencil" RenderTargetName="SceneDepth" />
+    </RenderTargetSet>
+	
+    <RenderTarget Name="Half" Format="A8R8G8B8" Width="640" Height="360" />
+    <RenderTarget Name="QuarterHeight" Format="A8R8G8B8" Width="640" Height="180" />
+    <RenderTarget Name="Quarter" Format="A8R8G8B8" Width="320" Height="180" />
+    <RenderTarget Name="Quarter2" Format="A8R8G8B8" Width="320" Height="180" />
+	
+    <RenderTarget Name="AmbientCube" Format="A8R8G8B8" Width="64" Height="64" Cube="1" />
+    <RenderTarget Name="ReflectionCube" Format="A8R8G8B8" Width="128" Height="128" Cube="1" />
+	
+</RenderTargets>

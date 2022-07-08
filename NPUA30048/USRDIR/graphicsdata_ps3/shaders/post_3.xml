@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="Post_3">
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="UiColor" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+          <Argument wrapt="CELL_GCM_TEXTURE_CLAMP_TO_EDGE" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation FriendlyName="Ui Texture" />
+      </Annotations>
+    </Sampler>
+	<!--
+	<Sampler SamplerIndex="5" DeepSemantic="Noise" GcmSemantic="S05">
+		<SamplerStates>
+			<SamplerState Type="TextureFilter">
+				<Argument min="CELL_GCM_TEXTURE_NEAREST" />
+				<Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+			</SamplerState>
+			<SamplerState Type="TextureAddress">
+				<Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+				<Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+			</SamplerState>
+			<SamplerState Type="TextureControl">
+				<Argument enable="CELL_GCM_TRUE" />
+			</SamplerState>
+		</SamplerStates>
+		<Annotations>
+			<Annotation TextureFile="Resources/noise.gtf" />
+		</Annotations>
+	</Sampler>
+	-->
+  </Samplers>
+	<RenderStates>
+		<RenderState Type="DepthTestEnable">
+			<Argument enable="CELL_GCM_FALSE" />
+		</RenderState>
+		<RenderState Type="CullFaceEnable">
+			<Argument enable="CELL_GCM_FALSE" />
+		</RenderState>
+        <RenderState Type="ColorMask">
+            <!-- CHRISNOTE: Red/Green/Blue Only -->
+            <Argument mask="0111" />
+        </RenderState>
+        <RenderState Type="ColorMaskMrt">
+            <!-- CHRISNOTE: None -->
+            <Argument mask="000000000000" />
+        </RenderState>
+	</RenderStates>
+</ShaderSettings>

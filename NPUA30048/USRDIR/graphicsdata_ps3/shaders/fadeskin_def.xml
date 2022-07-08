@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="fadeSkin_def">
+  <Semantics>
+    <Semantic DeepSemantic="Fade" GcmSemantic="C128">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.0" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+	<Sampler SamplerIndex="5" DeepSemantic="Noise" GcmSemantic="S05">
+		<SamplerStates>
+			<SamplerState Type="TextureFilter">
+				<Argument min="CELL_GCM_TEXTURE_NEAREST" />
+				<Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+			</SamplerState>
+			<SamplerState Type="TextureAddress">
+				<Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+				<Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+			</SamplerState>
+			<SamplerState Type="TextureControl">
+				<Argument enable="CELL_GCM_TRUE" />
+			</SamplerState>
+		</SamplerStates>
+		<Annotations>
+			<Annotation TextureFile="Resources/noise.gtf" />
+		</Annotations>
+	</Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="ColorMask">
+      <!-- CHRISNOTE: NO ARGB-->
+      <Argument mask="0000" />
+    </RenderState>
+    <RenderState Type="ColorMaskMrt">
+      <!-- CHRISNOTE: None -->
+      <Argument mask="000000000000" />
+    </RenderState>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="DepthMask">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="StencilTestEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="StencilOp">
+      <Argument depthPass="CELL_GCM_REPLACE" />
+    </RenderState>
+    <RenderState Type="StencilFunc">
+      <Argument func="CELL_GCM_ALWAYS" />
+      <Argument ref="0xFF" />
+      <Argument mask="0xFF" />
+    </RenderState>
+    <RenderState Type="StencilMask">
+      <Argument sm="0x08" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

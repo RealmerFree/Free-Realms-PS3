@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="Fog_3">
+  <Semantics>
+	  <Semantic DeepSemantic="FogColor" 		        GcmSemantic="C29" ForceEnable="1" CgType="CG_FLOAT4">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="0.0"/>
+			<DefaultValue ValueIndex="1" Value="0.0"/>
+			<DefaultValue ValueIndex="2" Value="0.0"/>
+			<DefaultValue ValueIndex="3" Value="1.0"/>
+		</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogFar" 		        GcmSemantic="C30" ForceEnable="1" CgType="CG_FLOAT">
+	<DefaultValues>
+		<DefaultValue ValueIndex="0" Value="999999999.0"/>
+	</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogNear" 		        GcmSemantic="C31" ForceEnable="1" CgType="CG_FLOAT">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="999999999.0"/>
+		</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogRange" 		        GcmSemantic="C32" ForceEnable="1" CgType="CG_FLOAT">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="0.0"/>
+		</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogSkyFar" 		        GcmSemantic="C33" ForceEnable="1" CgType="CG_FLOAT">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="999999999.0"/>
+		</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogSkyNear" 		    GcmSemantic="C34" ForceEnable="1" CgType="CG_FLOAT">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="999999999.0"/>
+		</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogSkyRange" 		    GcmSemantic="C35" ForceEnable="1" CgType="CG_FLOAT">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="0.0"/>
+		</DefaultValues>
+	</Semantic>
+	<Semantic DeepSemantic="FogDensity" 		    GcmSemantic="C36" ForceEnable="1" CgType="CG_FLOAT">
+		<DefaultValues>
+			<DefaultValue ValueIndex="0" Value="0.0"/>
+		</DefaultValues>
+	</Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="SkyTexture" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_NEAREST" />
+          <Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+    </Sampler>
+	<Sampler SamplerIndex="5" DeepSemantic="Noise" GcmSemantic="S05">
+		<SamplerStates>
+			<SamplerState Type="TextureFilter">
+				<Argument min="CELL_GCM_TEXTURE_NEAREST" />
+				<Argument mag="CELL_GCM_TEXTURE_NEAREST" />
+			</SamplerState>
+			<SamplerState Type="TextureAddress">
+				<Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+				<Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+			</SamplerState>
+			<SamplerState Type="TextureControl">
+				<Argument enable="CELL_GCM_TRUE" />
+			</SamplerState>
+		</SamplerStates>
+		<Annotations>
+			<Annotation TextureFile="Resources/noise.gtf" />
+		</Annotations>
+	</Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="CullFaceEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="DepthTestEnable">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_SRC_ALPHA" />
+      <Argument sfAlpha="CELL_GCM_SRC_ALPHA" />
+      <Argument dfColor="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+      <Argument dfAlpha="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+    </RenderState>
+  </RenderStates>
+</ShaderSettings>

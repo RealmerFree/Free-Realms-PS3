@@ -1,0 +1,22 @@
+#ID^PARENT^TEXT^TOOLTIP^HAS_SUBMENU^SUBMENU^DEFAULTFUNC^VALUEFUNC^OPTION_NAME^OPTION_TYPE^CALLBACK^DISABLEDFUNC^PARAM1
+# order of subelements determine the display order
+
+# Base Tree 
+
+welcomeScreen^^welcome_label_icon_tooltip^tooltip^0^0^0^0^0^treebutton
+
+exitActivity^^ExitActivity^tooltip^0^0^0^0^0^treebutton
+
+exitMatchmaking^^PS3_Menu_Exit_Match_Making^tooltip^0^0^0^0^0^treebutton
+
+options^^PS3_Options^tooltip^0^0^0^0^0^treebutton
+
+controls^^PS3_Menu_Controls^tooltip^0^0^0^0^0^treebutton
+
+addCSTicket^^AskForHelp^tooltip^1^0^0^0^0^treebutton
+
+submitBugReport^^options_label_report_bug^tooltip^1^0^0^0^0^treebutton
+
+teleportToSafety^^options_label_teleport_to_safety^tooltip^0^0^0^0^0^treebutton
+
+credits^^options_label_credits^options_tooltip^1^credits^0^0^0^treebutton

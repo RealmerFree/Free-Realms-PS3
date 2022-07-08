@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Dome>
+    <Texture File="Default_DomeGradient.gtf" />
+</Dome>
+
+<Horizon>
+    <Texture File="Ring-CloudHoriz.gtf" Bottom="0" Top="45" Repeat="1" />
+</Horizon>
+
+<SunLight>
+    <Direction Heading="210" Pitch="35" />
+    <Color R="192" G="180" B="112" Brightness="1.15" />
+</SunLight>
+
+<Ambient>
+    <Texture File="ambient_outdoordefault.tga" Brightness="1.85"/>
+</Ambient>
+
+<Reflection>
+    <CubeMap File="reflection_sky.gtf" Brightness="5"/>
+</Reflection>
+
+<Fog>
+    <Color R="128" G="172" B="212" />
+    <Range Near="350" Far="400" />
+    <FadeRange Near="400" Far="420" />
+</Fog>
+
+<Post>
+    <Bloom Strength="0.45" />
+    <Haze Strength="0.33" Distance="200" />
+</Post>

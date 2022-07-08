@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="Waterfall_Def">
+  <Semantics>
+    <Semantic DeepSemantic="EdgeFalloff" GcmSemantic="C128">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Edge Falloff" />
+        <Annotation MinValue="0.02" />
+        <Annotation MaxValue="5" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1.0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="ZRange" GcmSemantic="C129">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Soft Z Clip Range" />
+        <Annotation MinValue="0.01" />
+        <Annotation MaxValue="10" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="2" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexScale1" GcmSemantic="C130">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Texture Scale 1" />
+        <Annotation MinValue="0.2" />
+        <Annotation MaxValue="5.2" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexScale2" GcmSemantic="C131">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Texture Scale 2" />
+        <Annotation MinValue="0.2" />
+        <Annotation MaxValue="5.2" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="MaskScale1" GcmSemantic="C132">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Mask Scale 1" />
+        <Annotation MinValue="0.2" />
+        <Annotation MaxValue="5.2" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="MaskScale2" GcmSemantic="C133">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Mask Scale 2" />
+        <Annotation MinValue="0.2" />
+        <Annotation MaxValue="5.2" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="1" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexScroll1" GcmSemantic="C134">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Texture Scroll 1" />
+        <Annotation MinValue="-4" />
+        <Annotation MaxValue="4" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="TexScroll2" GcmSemantic="C135">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Texture Scroll 2" />
+        <Annotation MinValue="-4" />
+        <Annotation MaxValue="4" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="MaskScroll1" GcmSemantic="C136">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Mask Scroll 1" />
+        <Annotation MinValue="-4" />
+        <Annotation MaxValue="4" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="MaskScroll2" GcmSemantic="C137">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Mask Scroll 2" />
+        <Annotation MinValue="-4" />
+        <Annotation MaxValue="4" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Divergence" GcmSemantic="C138">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Divergence" />
+        <Annotation MinValue="0" />
+        <Annotation MaxValue="1" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.05" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="Texture1" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="1" DeepSemantic="Texture2" GcmSemantic="S1">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="2" DeepSemantic="Mask1" GcmSemantic="S2">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+    <Sampler SamplerIndex="3" DeepSemantic="Mask2" GcmSemantic="S3">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureAddress">
+          <Argument wraps="CELL_GCM_TEXTURE_WRAP" />
+          <Argument wrapt="CELL_GCM_TEXTURE_WRAP" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthMask">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_SRC_ALPHA" />
+      <Argument sfAlpha="CELL_GCM_SRC_ALPHA" />
+      <Argument dfColor="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+      <Argument dfAlpha="CELL_GCM_ONE_MINUS_SRC_ALPHA" />
+    </RenderState>
+    <!--
+    <RenderState Type="FrontFace">
+      <Argument dir="CELL_GCM_CCW" />
+    </RenderState>
+-->
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="MipBias" DeepType="int" SamplerMask="0000000000001111" />
+  </RenderStateSemantics>
+</ShaderSettings>

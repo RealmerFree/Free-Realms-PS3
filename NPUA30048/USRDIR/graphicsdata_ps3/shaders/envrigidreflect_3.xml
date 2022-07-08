@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShaderSettings Name="envRigidReflect_3">
+  <Semantics>
+    <Semantic DeepSemantic="Reflection" GcmSemantic="C128">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Reflection" />
+        <Annotation MinValue="0" />
+        <Annotation MaxValue="1.5" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.5" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="ChromaAbsorption" GcmSemantic="C129">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Chroma Absorption" />
+        <Annotation MinValue="0" />
+        <Annotation MaxValue="1" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.5" />
+      </DefaultValues>
+    </Semantic>
+    <Semantic DeepSemantic="Fresnel" GcmSemantic="C130">
+      <Annotations>
+        <Annotation InstanceCached="true" />
+        <Annotation FriendlyName="Fresnel" />
+        <Annotation MinValue="0" />
+        <Annotation MaxValue="1" />
+      </Annotations>
+      <DefaultValues>
+        <DefaultValue ValueIndex="0" Value="0.5" />
+      </DefaultValues>
+    </Semantic>
+  </Semantics>
+  <Samplers>
+    <Sampler SamplerIndex="0" DeepSemantic="Diffuse" GcmSemantic="S0">
+      <SamplerStates>
+        <SamplerState Type="TextureFilter">
+          <Argument min="CELL_GCM_TEXTURE_LINEAR_LINEAR" />
+          <Argument mag="CELL_GCM_TEXTURE_LINEAR" />
+        </SamplerState>
+        <SamplerState Type="TextureControl">
+          <Argument enable="CELL_GCM_TRUE" />
+        </SamplerState>
+      </SamplerStates>
+      <Annotations>
+        <Annotation InstanceCached="true"></Annotation>
+        <Annotation FriendlyName="Diffuse + Alpha Reflection Mask" />
+      </Annotations>
+    </Sampler>
+  </Samplers>
+  <RenderStates>
+    <RenderState Type="DepthMask">
+      <Argument enable="CELL_GCM_FALSE" />
+    </RenderState>
+    <RenderState Type="BlendEnable">
+      <Argument enable="CELL_GCM_TRUE" />
+    </RenderState>
+    <RenderState Type="BlendFunc">
+      <Argument sfColor="CELL_GCM_DST_COLOR" />
+      <Argument sfAlpha="CELL_GCM_DST_COLOR" />
+      <Argument dfColor="CELL_GCM_ZERO" />
+      <Argument dfAlpha="CELL_GCM_ZERO" />
+    </RenderState>
+  </RenderStates>
+  <RenderStateSemantics>
+    <RenderStateSemantic DeepSemantic="MipBias" DeepType="int" SamplerMask="0000000000001111" />
+  </RenderStateSemantics>
+</ShaderSettings>
